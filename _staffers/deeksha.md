@@ -1,6 +1,6 @@
 ---
-name: Discussion Lead Deeksha Kumar (she/her)
-role: Discussion TA
+name: Deeksha Kumar (she/her)
+role: Instructor
 email: deeksha.kumar@berkeley.edu
 website:
 photo: deeksha.png

@@ -19,14 +19,10 @@ ga_tracking: UA-47210910-1
 external_navigation:
   - title: Snap!
     url: https://snap.berkeley.edu/
-  - title: Lecture Zoom
-    url: https://berkeley.zoom.us/s/99682681232?pwd=bEp1TjZ4WlU5bVFPejlIbHp2ZUVadz09#success
   - title: Ed Discussion
-    url: https://edstem.org/us/courses/18545/
+    url: https://edstem.org/us/courses/23249/discussion/
   - title: Gradescope
-    url: https://www.gradescope.com/courses/354801
-  - title: bCourses
-    url: https://bcourses.berkeley.edu/courses/1513042
+    url: https://www.gradescope.com/courses/404659/
 footer_content:
 
 ################################################
