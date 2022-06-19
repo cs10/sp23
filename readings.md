@@ -2,7 +2,8 @@
 layout: default
 title: Assigned Readings
 description: A list of all readings.
-#nav_order: 4
+nav_exclude: true
+nav_order: 4
 ---
 
 # Readings
