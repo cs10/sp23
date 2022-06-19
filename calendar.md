@@ -228,7 +228,7 @@
       <th>Fri 2/25</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/12bZHY-gG_ThpvvLZIvQADUczMtPN_aQV/view?usp=sharing">6. Recursion I</a><a href="https://drive.google.com/file/d/1ayqkvSAeX44FAVjtrfeqsqwqNX1hJjN-/view?usp=sharing">(solution)</a></td> <!-- Discussion -->
+      <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK SEVEN ------------------------------------------------------------ -->
@@ -238,7 +238,7 @@
       <td>11. Social Implications of Computing II - Global Impact of Computing <a href="https://docs.google.com/document/d/1fMv7_b1DNhTJmgr9gyQaHV3VWMHOHI5g9PcY39SYuLQ/edit?usp=sharing">(Notes)</a> | <a href="https://docs.google.com/presentation/d/1cK7SXNFQOaBeCs9dJBB8DsadZZMyDwocS17LVkIWNV0/edit?usp=sharing">(Slides)</a> | <a href="https://youtu.be/QmUPJv2F7wU">(Recording)</a></td> <!-- Lecture -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">10: Recursive Reporters</a> (due 3/07)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>PROJ 1 Party</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 3/01</th> <!-- Date -->
