@@ -12,6 +12,7 @@
   <tbody class="js-scheduleContent">
     <tr>
       <td rowspan=5>1</td> <!-- Week Number -->
+      <!-- WEEK ONE------------------------------------------------------------ -->
       <th>Mon 6/20</th> <!-- Date -->
       <td>No Class</td> <!-- Lecture -->
       <td>No Class</td> <!-- Lab -->

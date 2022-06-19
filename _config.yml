@@ -1,7 +1,7 @@
 title: CS10 Summer 2022
 tagline:
 description: A gentle but thorough introduction to computer science.
-author: Madeleine LeBute
+author: Madeleine LaBute
 baseurl: /su22 # the subpath of your site, e.g. /blog
 url: https://cs10.org
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
