@@ -23,7 +23,7 @@
       <th>Tue 6/21</th> <!-- Date -->
       <td>1. Welcome + Abstraction</td> <!-- Lecture -->
       <td>1. Welcome to Snap!</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <td>1. Booleans, Conditionals, Domain/Range<a href="https://drive.google.com/file/d/1uVUsnNV9IpOFV356mY2GetOKUYLko_y8/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
