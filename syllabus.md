@@ -33,7 +33,7 @@ This Summer, CS10 will be be primarily in person, but we will be able to provide
 
 ## Primary Course Components
 
-* **Lecture**: Lecture will be live and in person in HP Auditorium (306 Soda Hall). Lecture recordings will also be posted on cs10.org after class. Lecture introduces concepts and gives you and overview of what is happening in labs and discussions. Each lecture will be followed with self-check questions which you can answer online via Gradescope. There will be 24 total self-checks, but only your top 20 will be counted toward your grade (e.g. you get 4 lecture self-check drops).
+* **Lecture**: Lecture will be live and in person in HP Auditorium (306 Soda Hall). Lecture recordings will also be posted on cs10.org after class. Lecture introduces concepts and gives you and overview of what is happening in labs and discussions. Each lecture will be followed with self-check questions which you can answer online via Gradescope. Self-checks will be very short assignments that shouldn't take you more than 10-15 minutes. Each one will be due at 11:59pm the day after its corresponding lecture, giving you a little over 24 hours to complete them. These are mainly there to ensure you are understanding at a basic level what is being taught in lecture and to help you stay caught up in the class. There will be 24 total self-checks, but only your top 20 will be counted toward your grade (e.g. you get 4 lecture self-check drops).
 
 * **Lab Sections**: Labs will be held synchronously and are the primary place you will learn to program. Attendance is not mandatory, though we highly recommend you attend each one and get your labs checked off before the start of the next lab section. To earn full credit for a lab, it must be completed, submitted, and checked off. Checkoff can be done either in lab or in office hours. If you have a special circumstance where you are unable to check-off a lab, please email cs10@berkeley.edu. Each lab will be due by the end of the following lab day (a lab assigned at the beginning of Monday's lab will be due by the end of Tuesday). Thursday labs will be due by the end of the following Monday. There will be 17 total labs — but only your top 16 lab scores will count towards your grade (e.g. you get one lab drop). Each lab is worth 2.5 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 1 point will be deducted for any given lab. You should plan on attending the lab you sign up for the entire term, but you may attend other lab sections to get checked off or get extra help.
 
@@ -94,7 +94,7 @@ If you have a DSP accommodation through the university that is not addressed by 
 
 ## Attendance & Lecture Questions
 
-Each Monday and Wednesday we'll take attendance in _discussion_ section, and each lecture will be accompanised by a series of short "self-check" questions on Gradescope. Each discussion attendance is worth 2 points and each self-lecture is worth 1 point.
+Each Monday and Wednesday we'll take attendance in _discussion_ section, and each lecture will be accompanised by a series of short "self-check" questions on Gradescope. Self-checks will be due at 11:59pm the day after the corresponding lecture is given. Each discussion attendance is worth 2 points and each self-lecture is worth 1 point.
 
 ## Academic Integrity
 
