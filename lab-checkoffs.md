@@ -10,8 +10,18 @@ labs:
     topic_file: berkeley_bjc/intro_pair/1-introduction.topic
     questions:
       - No checkoff needed for Lab 1!
----
 
+  - lab_name: Build Your Own Blocks
+    lab_no: 2
+    topic_file: berkeley_bjc/intro_pair/2-loops-variables.topic
+    questions:
+      - Show your Field of Flowers.
+      - Why should you Build Your Own Blocks? Give a reason that someone may create a custom block.
+      - What are some different ways to achieve repetition? Name at least 2.
+      - Show your random-walk sprite.
+      - Show your "draw square-leaved flower..." block.      
+
+---
 # Lab Check-Offs
 
 On this page, you will find a list of check-off questions for each lab.
