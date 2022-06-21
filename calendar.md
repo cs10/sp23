@@ -17,7 +17,7 @@
       <td>No Class</td> <!-- Lecture -->
       <td>No Class</td> <!-- Lab -->
       <td>No Class</td> <!-- Discussion -->
-      <td>release HW 0: Introduce Yourself and Syllabus Quiz (due Thurs 6/23)</td> <!-- Assignment -->
+      <td>release <a href="https://www.gradescope.com/courses/404659/assignments/2107192/submissions/new">HW 0: Introduce Yourself and Syllabus Quiz</a> (due Thurs 6/23)</td> <!-- Assignment --> 
     </tr>
     <tr>
       <th>Tue 6/21</th> <!-- Date -->

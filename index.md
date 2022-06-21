@@ -5,7 +5,7 @@ nav_exclude: false
 nav_order: 1
 ---
 
-# **CS 10: The Beauty and Joy of Computing [UNDER CONSTRUCTION]**
+# **CS 10: The Beauty and Joy of Computing **
 {: .mb-2 }
 UC Berkeley, Summer 2022
 {: .mb-2 .fs-6 .text-grey-dk-100 }
@@ -13,7 +13,7 @@ UC Berkeley, Summer 2022
 {{ site.description }}
 {: .mb-2 .fs-5 }
 
-**Instructor:** Deeksha Kumar and Madeleine LaBute
+**Instructors:** Deeksha Kumar and Madeleine LaBute
 {: .fs-4 }
 
 <div class="d-flex">  <!-- TODO: put alonzo on the right handside -->
