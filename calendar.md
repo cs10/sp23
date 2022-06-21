@@ -36,7 +36,7 @@
     <tr>
       <th>Thur 6/23</th> <!-- Date -->
       <td>3. Lists, HOFs, Scoping + Mutability</td> <!-- Lecture -->
-      <td>3. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">Conditionals, Reporters, Testing</a></td> <!-- Lab -->
+      <td>3. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=&novideo&noreading&noassignment">Conditionals, Reporters, Testing</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>HW 0: Introduce Yourself and Syllabus Quiz due</td> <!-- Assignment -->
     </tr>
@@ -52,7 +52,7 @@
       <td rowspan=5>2</td>
       <th>Mon 6/27</th> <!-- Date -->
       <td>4. Algorithms</td> <!-- Lecture -->
-      <td>4. Lists + HOFs</td> <!-- Lab -->
+      <td>4. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">Lists + HOFs</a></td> <!-- Lab -->
       <td>2. Lists, Iteration, HOFs</td> <!-- Discussion -->
       <td>HW1: Wordmatch due</td> <!-- Assignment -->
     </tr>
