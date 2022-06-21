@@ -43,7 +43,7 @@ This Summer, CS10 will be be primarily in person, but we will be able to provide
 
 * **Instructor Office Hours**: Maddie and Deeksha will be holding instructor OH which you may attend for more conceptual help or to discuss anything you like (e.g. career/major advice or how you're doing in the class) within reason.
 
-* **Homework and Final Project Description**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the class. Homeworks will tend to be a bit less difficult and time intensive, while projects will take a bit longer and require more work on your part. Note that you may use 6 slip days (explained in more detail below) total this semester on assignments in  this category.
+* **Homework and Final Project Description**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the class. Note that you may use 6 slip days (explained in more detail below) total this semester on assignments in  this category.
 
 * **Homework/Final Project Parties**: Once a week or so, we will hold a Homework Party. These will serve as specialized office hours where you will be able to come work and get help on whatever homework is currently assigned. We strongly encourage you to attend these as they will help you finish your assignments on time.
 
@@ -83,7 +83,7 @@ This Summer, CS10 will be be primarily in person, but we will be able to provide
 ## Pro-Student Grading Policies
 
 * **Absolute-Clobber Policy**: By the end of the semester, if your final exam percentage is higher than your midterm exam percentage, your midterm score will be replaced with your final exam percentage.
-* **Slip Days**: Each student will receive 6 slip days, to be used for _**projects**_. Each slip day allows you to extend the deadline period by one day with no penalty. For example, if a project is due Friday at 11:59 PM PT, you may turn it in without penalty up until Saturday at 11:59 PM PT by using one slip day. **Note: You can use a maximum of three slip days per project.**
+* **Slip Days**: Each student will receive 6 slip days, to be used for _**homeworks and the final project only**_. Each slip day allows you to extend the deadline period by one day with no penalty. For example, if a project is due Friday at 11:59 PM PT, you may turn it in without penalty up until Saturday at 11:59 PM PT by using one slip day. **Note: You can use a maximum of three slip days per project.**
 * **Late Submissions**: Late submissions for projects will be handled on a case-by-case basis. If you are out of slip days for a project but cannot make a deadline, please contact us at cs10@berkeley.edu figure out an extension. If you do not reach out to anyone in advance, we reserve the right to mark the submission down by 10% for each day that it is late.
 
 ## Exam Policy

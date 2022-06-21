@@ -1,7 +1,7 @@
 ---
 name: Eric Min Young Park
 role: Reader
-email:
+email: prk4k@berkeley.edu
 website:
 photo: eric.jpg
 ---
