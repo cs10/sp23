@@ -1,7 +1,7 @@
 ---
 name: Imen Guechtouli
 role: TA
-email:
+email: imen@berkeley.edu
 website:
 photo: imen.jpg
 ---
