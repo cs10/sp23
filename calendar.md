@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <th>Tue 6/21</th> <!-- Date -->
-      <td>1. Welcome + Abstraction</td> <!-- Lecture -->
+      <td>1. Welcome + Abstraction <a href="https://youtu.be/vqgdqUCU0AY">(recording)</a></td> <!-- Lecture -->
       <td>1. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=&novideo&noreading&noassignment">Welcome to Snap!</a></td> <!-- Lab -->
       <td>1. Booleans, Conditionals, Domain/Range<a href="https://drive.google.com/file/d/1uVUsnNV9IpOFV356mY2GetOKUYLko_y8/view?usp=sharing"> Worksheet</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
