@@ -21,14 +21,14 @@
     </tr>
     <tr>
       <th>Tue 6/21</th> <!-- Date -->
-      <td>1. Welcome + Abstraction</td> <!-- Lecture -->
+      <td>1. Welcome + Abstraction <a href="https://youtu.be/vqgdqUCU0AY">(recording)</a> <a href="https://docs.google.com/presentation/d/1ySmZlnVdc2sHoSZs1IWIT4t0NPsx5HLuvUEd85VgJ5c/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td>1. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=&novideo&noreading&noassignment">Welcome to Snap!</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
-    <tr>
+    <tr> https://docs.google.com/presentation/d/1Nv7wDxVOI4C5Et2-K-UNAxBqHMnzud7muP39tl0iqiA/edit?usp=sharing
       <th>Wed 6/22 </th> <!-- Date -->
-      <td>2. Intro to Snap/Coding + Functions</td> <!-- Lecture -->
+      <td>2. Functions + Build your own Blocks <a href="https://youtu.be/7aBX93awOuA">(recording)</a> <a href="https://docs.google.com/presentation/d/1Nv7wDxVOI4C5Et2-K-UNAxBqHMnzud7muP39tl0iqiA/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td>2. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=&novideo&noreading&noassignment">Build Your Own Blocks</a></td> <!-- Lab -->
       <td>1. Booleans, Conditionals, Domain/Range<br/>
       <a href="https://drive.google.com/file/d/1uVUsnNV9IpOFV356mY2GetOKUYLko_y8/view?usp=sharing">Worksheet</a><br/>
