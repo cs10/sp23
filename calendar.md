@@ -33,7 +33,8 @@
       <td>1. Booleans, Conditionals, Domain/Range<br/>
       <a href="https://drive.google.com/file/d/1uVUsnNV9IpOFV356mY2GetOKUYLko_y8/view?usp=sharing">Worksheet</a><br/>
       <a href = "https://drive.google.com/file/d/1a4WbkXI30o8dj-gKdPTmsQ4u1XVfVvnJ/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
-      <td>release HW1: Wordmatch due(6/27)</td> <!-- Assignment -->
+      <td>HW 1: Wordmatch due(6/27)<br/>
+      <a href = "https://cs10.org/su22/assignment/?https://docs.google.com/document/d/e/2PACX-1vQTzZytQuk8UaeSgzQRn1rXgCFnjXiQqIPCTrzgmQe175dM1CgNzr5nyz6KBaokAHV574V-nuARPE3q/pub">HW 1 Specs</a></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 6/23</th> <!-- Date -->
