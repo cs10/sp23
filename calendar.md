@@ -17,14 +17,16 @@
       <td>No Class</td> <!-- Lecture -->
       <td>No Class</td> <!-- Lab -->
       <td>No Class</td> <!-- Discussion -->
-      <td>release <a href="https://www.gradescope.com/courses/404659/assignments/2107192/submissions/new">HW 0: Introduce Yourself and Syllabus Quiz</a> (due Thurs 6/23)</td> <!-- Assignment --> 
+      <td>release <a href="https://www.gradescope.com/courses/404659/assignments/2107192/submissions/new">HW 0: Introduce Yourself and Syllabus Quiz</a> (due Thurs 6/23)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 6/21</th> <!-- Date -->
       <td>1. Welcome + Abstraction</td> <!-- Lecture -->
 <<<<<<< HEAD
       <td>1. Welcome to Snap!</td> <!-- Lab -->
-      <td>1. Booleans, Conditionals, Domain/Range<a href="https://drive.google.com/file/d/1uVUsnNV9IpOFV356mY2GetOKUYLko_y8/view?usp=sharing"> Worksheet</a></td> <!-- Discussion -->
+      <td>1. Booleans, Conditionals, Domain/Range<br/>
+      <a href="https://drive.google.com/file/d/1uVUsnNV9IpOFV356mY2GetOKUYLko_y8/view?usp=sharing">Worksheet</a><br/>
+      <a href = "https://drive.google.com/file/d/1a4WbkXI30o8dj-gKdPTmsQ4u1XVfVvnJ/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
 =======
       <td>1. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=&novideo&noreading&noassignment">Welcome to Snap!</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
