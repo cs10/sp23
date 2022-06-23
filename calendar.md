@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <th>Wed 6/22 </th> <!-- Date -->
-      <td>2. Intro to Snap/Coding + Functions</td> <!-- Lecture -->
+      <td>2. <a href="https://youtu.be/7aBX93awOuA">Functions and Build your own Blocks</a></td> <!-- Lecture -->
       <td>2. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=&novideo&noreading&noassignment">Build Your Own Blocks</a></td> <!-- Lab -->
       <td>1. Booleans, Conditionals, Domain/Range <a href="https://drive.google.com/file/d/1uVUsnNV9IpOFV356mY2GetOKUYLko_y8/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
       <td>release HW1: Wordmatch due(6/27)</td> <!-- Assignment -->
