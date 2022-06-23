@@ -22,8 +22,6 @@
     <tr>
       <th>Tue 6/21</th> <!-- Date -->
       <td>1. Welcome + Abstraction</td> <!-- Lecture -->
-      <td>1. Welcome to Snap!</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
       <td>1. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=&novideo&noreading&noassignment">Welcome to Snap!</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
