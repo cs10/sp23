@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <th>Thur 6/23</th> <!-- Date -->
-      <td>3. Lists, HOFs, Scoping + Mutability</td> <!-- Lecture -->
+      <td>3. Lists, HOFs, Scoping + Mutability <a href="https://youtu.be/dcVvhKcpGJg">(recording)</a> <a href="https://docs.google.com/presentation/d/1Gnq1Sne9bDGyavdZB4mSGLJPQAu-WfPwT0HDgjzAcuc/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td>3. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=&novideo&noreading&noassignment">Conditionals, Reporters, Testing</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>HW 0: Introduce Yourself and Syllabus Quiz due</td> <!-- Assignment -->
