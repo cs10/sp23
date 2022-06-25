@@ -26,7 +26,7 @@
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
-    <tr> https://docs.google.com/presentation/d/1Nv7wDxVOI4C5Et2-K-UNAxBqHMnzud7muP39tl0iqiA/edit?usp=sharing
+    <tr>
       <th>Wed 6/22 </th> <!-- Date -->
       <td>2. Functions + Build your own Blocks <a href="https://youtu.be/7aBX93awOuA">(recording)</a> <a href="https://docs.google.com/presentation/d/1Nv7wDxVOI4C5Et2-K-UNAxBqHMnzud7muP39tl0iqiA/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td>2. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=&novideo&noreading&noassignment">Build Your Own Blocks</a></td> <!-- Lab -->
