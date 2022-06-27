@@ -62,21 +62,21 @@
     <tr>
       <th>Tue 6/28</th> <!-- Date -->
       <td>5. Algorithmic Complexity</td> <!-- Lecture -->
-      <td>5. Algorithms</td> <!-- Lab -->
+      <td>5. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment"> Algorithms</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>release HW2: Mastermind (due 7/3)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 6/29 </th> <!-- Date -->
       <td>6. Best Practices + Testing</td> <!-- Lecture -->
-      <td>6. Algorithmic Complexity</td> <!-- Lab -->
+      <td>6. <a> href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment">Algorithmic Complexity</a></td> <!-- Lab -->
       <td>3. Algorithms + Algorithmic Complexity</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 6/30</th> <!-- Date -->
       <td>7. Recursion I: Intro + Basics</td> <!-- Lecture -->
-      <td>7. Testing + HW3</td> <!-- Lab -->
+      <td>7. <a> href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">Testing + HW3</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>

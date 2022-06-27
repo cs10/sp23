@@ -43,7 +43,37 @@ labs:
       - What is the difference between the `for each (item)` loop and the `for (i)` loop we have used in previous labs?
       - Show us your `acronym` block.
       - Show us your `expand` block.
-      
+
+  - lab_name: Algorithms
+    lab_no: 5
+    topic_file: berkeley_bjc/areas/algorithms.topic
+    questions:
+      - What is an algorithm? Please give an example both in real life and from class.
+      - Are algorithms which are (on average) faster always "better"? Why or why not?
+      - What might some "trade-offs" to different computer science algorithms be?
+      - How can abstraction and algorithms relate in computer science?
+      - Please show both your `findNumberInUnsortedList` and `findNumberInSortedList` functions and describe the difference in the algorithms used.
+  - lab_name: Algorithmic Complexity
+    lab_no: 6
+    topic_file: berkeley_bjc/areas/algorithm-complexity.topic
+    questions:
+      - Of all the runtimes you have discovered thus far, can you rank them from “fastest” to “slowest”? Why is runtime important for the programs that we create?
+      - Name the logarithmic time algorithm that we implemented in Lab 5. Explain why this algorithm runs in logarithmic time.
+      - What is the difference between “Worst-Case” and “Best Case” Runtimes when running the Are the numbers of (LIST) distinct block? Why?
+      - What happened with the time it took for your computer to counter up the numbers between 1 and x when you started doubling the numbers? Tripling the numbers? What do you think would happen with the time I multiplied your top number by 8?
+      - What is an example of an algorithm that we have seen that has an exponential runtime?
+      - Please show me your Non-Gauss and Gauss Add all numbers in. Which was faster? Why?
+  - lab_name: Testing + Project 1
+    lab_no: 7
+    topic_file: berkeley_bjc/2048-testing/2048.topic
+    questions:
+      - How does the test block work? What is its domain and range?
+      - How will writing tests help you for the 2048 assignment?
+      - How do merge up and merge column work? What is the domain/range of each block?
+      - What is the domain and range of the update display block?
+      - Show us the output of your test block on the merge column. Explain why this output makes sense.
+
+
 ---
 # Lab Check-Offs
 
@@ -70,55 +100,6 @@ On this page, you will find a list of check-off questions for each lab.
 
 <!--
 
-- lab_name: Conditionals, Reporters & Testing
-  lab_no: 3
-  topic_file: berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic
-  questions:
-    - What is a Boolean? Explain why we use them, and give examples of functions that report a Boolean value.
-    - Show us your traffic signal and letter grade blocks.
-    - Explain the difference between a command and a reporter block.
-    - Show us the `is _ between _ and _ ?` block.
-    - What does the mystery reporter (at the bottom of the “Reporter Blocks” page) report when run with the inputs hello and 5?
-    - Name a few of the input types. Why is it important that we specify input types?
-    - How are global variables different from script variables?
-    - Show and explain your sum of two smallest block.
-- lab_name: Lists and HOFs
-  lab_no: 4
-  topic_file: berkeley_bjc/lists/lists-I.topic
-  questions:
-    - What is a list? Why would we use a list of 10 elements instead of just making 10 variables?
-    - What do `map`, `keep`, and `combine` each do?
-    - Show us your `acronym` block.
-    - Show us your `expand` block.
-    - What is the difference between the `for each (item)` loop and the `for (i)` loop we have used in previous labs?
-- lab_name: Algorithms
-  lab_no: 5
-  topic_file: berkeley_bjc/areas/algorithms.topic
-  questions:
-    - What is an algorithm? Please give an example both in real life and from class.
-    - Please show both your "findNumberInUnsortedList" and "findNumberInSortedList" functions and describe the difference in the algorithms used.
-    - Are algorithms which are (on average) faster always "better"? Why or why not?
-    - What might some "trade-offs" to different computer science algorithms be?
-    - How can abstraction and algorithms relate in computer science?
-- lab_name: Algorithmic Complexity
-  lab_no: 6
-  topic_file: berkeley_bjc/areas/algorithm-complexity.topic
-  questions:
-    - Please show me your Non-Gauss and Gauss Add all numbers in. Which was faster? Why?
-    - Of all the runtimes you have discovered thus far, can you rank them from “fastest” to “slowest”? Why is runtime important for the programs that we create?
-    - Name the logarithmic time algorithm that we implemented in Lab 5. Explain why this algorithm runs in logarithmic time.
-    - What is the difference between “Worst-Case” and “Best Case” Runtimes when running the Are the numbers of (LIST) distinct block? Why?
-    - What happened with the time it took for your computer to counter up the numbers between 1 and x when you started doubling the numbers? Tripling the numbers? What do you think would happen with the time I multiplied your top number by 8?
-    - What is an example of an algorithm that we have seen that has an exponential runtime?
-- lab_name: Testing + Project 1
-  lab_no: 7
-  topic_file: berkeley_bjc/2048-testing/2048.topic
-  questions:
-    - How does the test block work? What is its domain and range?
-    - Show us the output of your test block on the merge column. Explain why this output makes sense.
-    - How will writing tests help you for the 2048 assignment?
-    - How do merge up and merge column work? What is the domain/range of each block?
-    - What is the domain and range of the update display block?
 - lab_name: Boards (Optional)
   lab_no: 8
   topic_file: berkeley_bjc/lists/tic-tac-toe.topic
