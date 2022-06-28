@@ -57,7 +57,7 @@
       <td>4. Algorithms</td> <!-- Lecture -->
       <td>4. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">Lists + HOFs</a></td> <!-- Lab -->
       <td>2. Lists, Iteration, HOFs<br/>
-      <a href="https://drive.google.com/file/d/1NkJnc7e68TcTJyB2P8NbA5j3J8Qn-WGW/view?usp=sharing">Worksheet</a><a href="https://docs.google.com/presentation/d/1lBUEdUpM1mRSBjs4XwO9OGfR8OfTsnwMUT9Txer7YWo/edit?usp=sharing">Slides</a></td> <!-- Discussion -->
+      <a href="https://drive.google.com/file/d/1NkJnc7e68TcTJyB2P8NbA5j3J8Qn-WGW/view?usp=sharing">Worksheet</a><a href="https://docs.google.com/presentation/d/1lBUEdUpM1mRSBjs4XwO9OGfR8OfTsnwMUT9Txer7YWo/edit?usp=sharing">   Slides</a></td> <!-- Discussion -->
       <td>HW1: Wordmatch due</td> <!-- Assignment -->
     </tr>
     <tr>
