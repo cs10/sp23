@@ -187,7 +187,7 @@
       <td>9. Testing & 2048<a href="https://youtu.be/ERiqnS-lb1I">(recording)</a> </td> <!-- Lecture -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8: Boards (Optional)</a>(due 2/23)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>HW2 due</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 2/17</th> <!-- Date -->
