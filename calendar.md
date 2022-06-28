@@ -65,7 +65,7 @@
     </tr>
     <tr>
       <th>Tue 6/28</th> <!-- Date -->
-      <td>5. Algorithmic Complexity</td> <!-- Lecture -->
+      <td>5. Algorithmic Complexity <a href="https://docs.google.com/presentation/d/1JLR18hmqfXw8DXlV-bxcNjp1YtYQLM4VYaL--Of8SsU/edit?usp=sharing"> (slides)</a></td> <!-- Lecture -->
       <td>5. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment"> Algorithms</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>HW 2: Mastermind due(07/03)<br/>
