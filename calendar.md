@@ -32,7 +32,8 @@
       <td>2. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=&novideo&noreading&noassignment">Build Your Own Blocks</a></td> <!-- Lab -->
       <td>1. Booleans, Conditionals, Domain/Range<br/>
       <a href="https://drive.google.com/file/d/1uVUsnNV9IpOFV356mY2GetOKUYLko_y8/view?usp=sharing">Worksheet</a><br/>
-      <a href = "https://drive.google.com/file/d/1a4WbkXI30o8dj-gKdPTmsQ4u1XVfVvnJ/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
+      <a href ="https://docs.google.com/presentation/d/1J1DeaCF4PxwfL94Bo1YbxOPd29pZY5DrMMAaE-aPV-4/edit?usp=sharing">Slides</a><br/>
+      <a href ="https://drive.google.com/file/d/1a4WbkXI30o8dj-gKdPTmsQ4u1XVfVvnJ/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
       <td>HW 1: Wordmatch due(6/27)<br/>
       <a href = "https://cs10.org/su22/assignment/?https://docs.google.com/document/d/e/2PACX-1vQTzZytQuk8UaeSgzQRn1rXgCFnjXiQqIPCTrzgmQe175dM1CgNzr5nyz6KBaokAHV574V-nuARPE3q/pub">HW 1 Specs</a></td> <!-- Assignment -->
     </tr>
