@@ -12,30 +12,35 @@
   <tbody class="js-scheduleContent">
     <tr>
       <td rowspan=5>1</td> <!-- Week Number -->
+      <!-- WEEK ONE------------------------------------------------------------ -->
       <th>Mon 6/20</th> <!-- Date -->
       <td>No Class</td> <!-- Lecture -->
       <td>No Class</td> <!-- Lab -->
       <td>No Class</td> <!-- Discussion -->
-      <td>release HW 0: Introduce Yourself and Syllabus Quiz (due Thurs 6/23)</td> <!-- Assignment -->
+      <td>release <a href="https://www.gradescope.com/courses/404659/assignments/2107192/submissions/new">HW 0: Introduce Yourself and Syllabus Quiz</a> (due Thurs 6/23)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 6/21</th> <!-- Date -->
-      <td>1. Welcome + Abstraction</td> <!-- Lecture -->
-      <td>1. Welcome to Snap!</td> <!-- Lab -->
+      <td>1. Welcome + Abstraction <a href="https://youtu.be/vqgdqUCU0AY">(recording)</a> <a href="https://docs.google.com/presentation/d/1ySmZlnVdc2sHoSZs1IWIT4t0NPsx5HLuvUEd85VgJ5c/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td>1. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=&novideo&noreading&noassignment">Welcome to Snap!</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 6/22 </th> <!-- Date -->
-      <td>2. Intro to Snap/Coding + Functions</td> <!-- Lecture -->
-      <td>2. Build Your Own Blocks</td> <!-- Lab -->
-      <td>1. Booleans, Conditionals, Domain/Range</td> <!-- Discussion -->
-      <td>release HW1: Wordmatch due(6/27)</td> <!-- Assignment -->
+      <td>2. Functions + Build your own Blocks <a href="https://youtu.be/7aBX93awOuA">(recording)</a> <a href="https://docs.google.com/presentation/d/1Nv7wDxVOI4C5Et2-K-UNAxBqHMnzud7muP39tl0iqiA/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td>2. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=&novideo&noreading&noassignment">Build Your Own Blocks</a></td> <!-- Lab -->
+      <td>1. Booleans, Conditionals, Domain/Range<br/>
+      <a href="https://drive.google.com/file/d/1uVUsnNV9IpOFV356mY2GetOKUYLko_y8/view?usp=sharing">Worksheet</a><br/>
+      <a href="https://docs.google.com/presentation/d/1J1DeaCF4PxwfL94Bo1YbxOPd29pZY5DrMMAaE-aPV-4/edit?usp=sharing">Slides</a><br/>
+      <a href="https://drive.google.com/file/d/1a4WbkXI30o8dj-gKdPTmsQ4u1XVfVvnJ/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
+      <td>HW 1: Wordmatch due(6/27)<br/>
+      <a href="https://cs10.org/su22/assignment/?https://docs.google.com/document/d/e/2PACX-1vQTzZytQuk8UaeSgzQRn1rXgCFnjXiQqIPCTrzgmQe175dM1CgNzr5nyz6KBaokAHV574V-nuARPE3q/pub">HW 1 Specs</a></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 6/23</th> <!-- Date -->
-      <td>3. Lists, HOFs, Scoping + Mutability</td> <!-- Lecture -->
-      <td>3. Conditionals, Reporters, Testing</td> <!-- Lab -->
+      <td>3. Lists, HOFs, Scoping + Mutability <a href="https://youtu.be/dcVvhKcpGJg">(recording)</a> <a href="https://docs.google.com/presentation/d/1Gnq1Sne9bDGyavdZB4mSGLJPQAu-WfPwT0HDgjzAcuc/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td>3. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=&novideo&noreading&noassignment">Conditionals, Reporters, Testing</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>HW 0: Introduce Yourself and Syllabus Quiz due</td> <!-- Assignment -->
     </tr>
@@ -51,28 +56,31 @@
       <td rowspan=5>2</td>
       <th>Mon 6/27</th> <!-- Date -->
       <td>4. Algorithms</td> <!-- Lecture -->
-      <td>4. Lists + HOFs</td> <!-- Lab -->
-      <td>2. Lists, Iteration, HOFs</td> <!-- Discussion -->
+      <td>4. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">Lists + HOFs</a></td> <!-- Lab -->
+      <td>2. Lists, Iteration, HOFs<br/>
+      <a href="https://drive.google.com/file/d/1NkJnc7e68TcTJyB2P8NbA5j3J8Qn-WGW/view?usp=sharing">Worksheet</a><br/>
+      <a href="https://docs.google.com/presentation/d/1lBUEdUpM1mRSBjs4XwO9OGfR8OfTsnwMUT9Txer7YWo/edit?usp=sharing">Slides</a><br/>
+      <a href="https://drive.google.com/file/d/1cQHfkxnJaZ_aphQZRbsHTmHH-u1Av6mR/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
       <td>HW1: Wordmatch due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 6/28</th> <!-- Date -->
       <td>5. Algorithmic Complexity</td> <!-- Lecture -->
-      <td>5. Algorithms</td> <!-- Lab -->
+      <td>5. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment"> Algorithms</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>release HW2: Mastermind (due 7/3)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 6/29 </th> <!-- Date -->
       <td>6. Best Practices + Testing</td> <!-- Lecture -->
-      <td>6. Algorithmic Complexity</td> <!-- Lab -->
+      <td>6. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment">Algorithmic Complexity</a></td> <!-- Lab -->
       <td>3. Algorithms + Algorithmic Complexity</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 6/30</th> <!-- Date -->
       <td>7. Recursion I: Intro + Basics</td> <!-- Lecture -->
-      <td>7. Testing + HW3</td> <!-- Lab -->
+      <td>7. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">Testing + HW3</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -228,7 +236,7 @@
       <th>Fri 2/25</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/12bZHY-gG_ThpvvLZIvQADUczMtPN_aQV/view?usp=sharing">6. Recursion I</a><a href="https://drive.google.com/file/d/1ayqkvSAeX44FAVjtrfeqsqwqNX1hJjN-/view?usp=sharing">(solution)</a></td> <!-- Discussion -->
+      <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK SEVEN ------------------------------------------------------------ -->
@@ -238,7 +246,7 @@
       <td>11. Social Implications of Computing II - Global Impact of Computing <a href="https://docs.google.com/document/d/1fMv7_b1DNhTJmgr9gyQaHV3VWMHOHI5g9PcY39SYuLQ/edit?usp=sharing">(Notes)</a> | <a href="https://docs.google.com/presentation/d/1cK7SXNFQOaBeCs9dJBB8DsadZZMyDwocS17LVkIWNV0/edit?usp=sharing">(Slides)</a> | <a href="https://youtu.be/QmUPJv2F7wU">(Recording)</a></td> <!-- Lecture -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">10: Recursive Reporters</a> (due 3/07)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>PROJ 1 Party</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 3/01</th> <!-- Date -->

@@ -19,89 +19,82 @@ description: >-
 
 ## Welcome
 
-Welcome to CS10: The Beauty and Joy of Computing! We’re really excited to have you on board with us this Spring for a gentle but thorough introduction to computer science. Our course will start out in the blocks-based language Snap<em>!</em>, but will transition into Python once you have learned some fundamentals of programming. By the end of the class, we hope you walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue.
+Welcome to CS10: The Beauty and Joy of Computing! We’re really excited to have you on board with us this Summer for a gentle but thorough introduction to computer science. Our course will start out in the blocks-based language Snap<em>!</em>, but will transition into Python once you have learned some fundamentals of programming. By the end of the class, we hope you walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue.
 
 ## Platforms
 
-This Spring, CS10 will be be primarily in person, but we will also have some activites held online, including the entirety of the first two weeks.:
+This Summer, CS10 will be be primarily in person, but we will be able to provide remote accommodations as needed:
 
-* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org.
-* **Ed**: This will be our main Q&A platform, where you can ask questions, see announcements, and participate in our meme contest (yes, a meme contest). What’s more, by asking and answering questions, you also get a chance to earn some extra EPA points (more on that later)!
-* **Gradescope**: This is where you will submit projects and homeworks, and take reading quizzes during lab.
-* **bCourses:** bCourses will be where your lab grades will be recorded amongst other assignments.
-* **Zoom**: Discussion sections and lectures (when remote) will be held via Zoom.
+* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org
+* **Ed**: This will be our main Q&A platform, where you can ask questions, see announcements, and participate in our meme contest (yes, a meme contest).
+* **Gradescope**: This is where you will submit homeworks, the Final Project, and lecture self-checks.
+* **Zoom**: Lectures (when remote) will be held via Zoom.
 * **OhYay**:  Online lab sections and office hours will be held via Ohyay. Ohyay is a new tool which lets us build some interactive spaces.
 
 ## Primary Course Components
 
-* **Lecture**: Lecture will be live and in person in Hearst Field Annex, A1. Lecture recordings will also be posted on cs10.org after class. Lecture introduces concepts and gives you and overview of what is happening in labs and discussions. Each lecture will be followed with self-check questions which you can answer online via Gradescope, which are counted as part of participation and attendance.
+* **Lecture**: Lecture will be live and in person in HP Auditorium (306 Soda Hall). Lecture recordings will also be posted on cs10.org after class. Lecture introduces concepts and gives you and overview of what is happening in labs and discussions. Each lecture will be followed with self-check questions which you can answer online via Gradescope. Self-checks will be very short assignments that shouldn't take you more than 10-15 minutes. Each one will be due at 11:59pm the day after its corresponding lecture, giving you a little over 24 hours to complete them. These are mainly there to ensure you are understanding at a basic level what is being taught in lecture and to help you stay caught up in the class. There will be 24 total self-checks, but only your top 20 will be counted toward your grade (e.g. you get 4 lecture self-check drops).
 
-* **Lab Sections**: Labs will be held synchronously and are the primary place you will learn to program. Attendance is not mandatory, though you can gain points by attending (see below under grades). To earn full credit for a lab, it must be completed, submitted, and checked off. Checkoff can be done either in lab or in office hours. If you have a special circumstance where you are unable to check-off a lab, please email cs10@berkeley.edu. Each lab will be due one week after the lab is released. For example, a lab released on a Tuesday will be due the following Tuesday. There will be at least 18 total labs — but only your top 16 lab scores will count towards your grade. Each lab is worth 2.5 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 1 point will be deducted for any given lab. We encourage you to attend the same lab throughout the semester, but you are also welcome to attend any lab if you need to.
+* **Lab Sections**: Labs will be held synchronously and are the primary place you will learn to program. Attendance is not mandatory, though we highly recommend you attend each one and get your labs checked off before the start of the next lab section. To earn full credit for a lab, it must be completed, submitted, and checked off. Checkoff can be done either in lab or in office hours. If you have a special circumstance where you are unable to check-off a lab, please email cs10@berkeley.edu. Each lab will be due by the end of the following lab day (a lab assigned at the beginning of Monday's lab will be due by the end of Tuesday). Thursday labs will be due by the end of the following Monday. There will be 17 total labs — but only your top 16 lab scores will count towards your grade (e.g. you get one lab drop). Each lab is worth 2.5 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 1 point will be deducted for any given lab. You should plan on attending the lab you sign up for the entire term, but you may attend other lab sections to get checked off or get extra help.
 
-* **Discussion Sections**: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming. Attendance is not required, but you can earn points (see below) by attending.
+* **Discussion Sections**: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming. You will receive credit for attending discussion by filling out a form each time. There will be a total of 11 discussions, but you may attend 10 to receive full credit (e.g. you have one discussion attendance drop). If you have express permission, you will be able to receive these points remotely and asynchronously.
 
-* **Reading Quizzes**: Reading Quizzes will be given during the first beginning of the first lab each week, with some exceptions that will be noted on the course calendar. They will be offered **synchronously** at the start of lab. They will happen via gradescope.
+* **Office Hours**: During office hours, you can meet with a TA for help with course material, assignments, or bigger picture questions.
 
-* **Office Hours**: During office hours, you can meet with a TA or Michael for help with course material, assignments, or bigger picture questions.
+* **Instructor Office Hours**: Maddie and Deeksha will be holding instructor OH which you may attend for more conceptual help or to discuss anything you like (e.g. career/major advice or how you're doing in the class) within reason.
 
-* **Participation and Attendance**: You can receive points for this category by attending discussion, lab, and doing post-lecture questions. Note that there will be more than 30 points available (so you can still get full points in this category if you miss section or don't do post-lecture questions one week) and that once you reach 30, your grade will cap out there (no extra credit if you get above 30; just full points(: ).
+* **Homework and Final Project Description**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the class. Note that you may use 6 slip days (explained in more detail below) total this semester on assignments in  this category.
 
-* **Project and Homework Description**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the class. Homeworks will tend to be a bit less difficult and time intensive, while projects will take a bit longer and require more work on your part. Note that you may use 8 slip days (explained in more detail below) total this semester on assignments in  this category.
-
+* **Homework/Final Project Parties**: Once a week or so, we will hold a Homework Party. These will serve as specialized office hours where you will be able to come work and get help on whatever homework is currently assigned. We strongly encourage you to attend these as they will help you finish your assignments on time.
 
 
 ## Grading Breakdown
 
 | Assignment                     |  Points  |
 | :----:                         |  :----:  |
-| Quest                          | 20       |
-| Midterm                        | 80       |
-| Final                          | 100      |
+| Midterm (In-Lab and Paper)     | 80       |
+| Final                          | 120      |
 | Homework 0: Introduce Yourself | 5        |
-| Homework 1: Wordmatch          | 10       |
-| Homework 2: Mastermind         | 20       |
-| Project 1: 2048                | 30       |
-| Project 2: Explore             | 40       |
-| Homework 3: Intro to Python    | 40       |
-| Project 3: Your Choice         | 75       |
+| Homework 1: Wordmatch          | 15       |
+| Homework 2: Mastermind         | 25       |
+| Homework 3: 2048               | 30       |
+| Homework 4: Python Translation | 25       |
+| Homework 5: OOP                | 25       |
+| Final Project                  | 65       |
 | Labs                           | 40       |
-| Reading Quizzes                | 10       |
-| Attendance & Lecture Questions | 30       |
+| Discussion Attendance          | 20       |
+| Lecture Self-Checks            | 20       |
 
-**Total: 500 Points**
+**Total: 470 Points**
 
 | Letter Grade       |    Range                          |
 | :----:             |    :----:                         |
-| A+:                |    485-500                        |
-| A:                 |    460-484                        |
-| A-:                |    450-459                        |
-| B+:                |    440-449                        |
-| B:                 |    420-439                        |
-| B-:                |    400-419                        |
-| C+:                |    375-399                        |
-| C:                 |    360-374                        |
-| C-:                |    350-359                        |
-| D:                 |    300-349                        |
-| F:                 |    0-299                          |
+| A:                 |    432-470                        |
+| A-:                |    423-431                        |
+| B+:                |    414-422                        |
+| B:                 |    395-413                        |
+| B-:                |    376-394                        |
+| C+:                |    353-375                        |
+| C:                 |    338-352                        |
+| C-:                |    329-337                        |
+| D:                 |    281-328                        |
+| F:                 |    0-280                          |
 
 ## Pro-Student Grading Policies
 
-* **Absolute-Clobber Policy**: If either your midterm or final exam score is higher than your quest score, we will replace your quest score with the maximum of your absolute midterm and final exam scores. If your final exam score is higher than your midterm score, we will replace your midterm score with your final exam score. For example, if you receive a 70% on the midterm but an 85% on the final, at the end of the semester your midterm score will also be upgraded to 85%. For reference: Clobber policies in later CS courses tend to be based on your performance relative to the mean. However in CS10, it is based on your absolute score. In short, your quest score will be equal to max(quest, midterm, final) and your midterm score will be equal to max(midterm, final).
-* **Slip Days**: Each student will receive 8 slip days, to be used for _**projects**_. Each slip day allows you to extend the deadline period by one day with no penalty. For example, if a project is due Friday at 11:59 PM PT, you may turn it in without penalty up until Saturday at 11:59 PM PT by using one slip day. **Note: You can use a maximum of three slip days per project.**
+* **Absolute-Clobber Policy**: By the end of the semester, if your final exam percentage is higher than your midterm exam percentage, your midterm score will be replaced with your final exam percentage.
+* **Slip Days**: Each student will receive 6 slip days, to be used for _**homeworks and the final project only**_. Each slip day allows you to extend the deadline period by one day with no penalty. For example, if a project is due Friday at 11:59 PM PT, you may turn it in without penalty up until Saturday at 11:59 PM PT by using one slip day. **Note: You can use a maximum of three slip days per project.**
 * **Late Submissions**: Late submissions for projects will be handled on a case-by-case basis. If you are out of slip days for a project but cannot make a deadline, please contact us at cs10@berkeley.edu figure out an extension. If you do not reach out to anyone in advance, we reserve the right to mark the submission down by 10% for each day that it is late.
 
 ## Exam Policy
-There will be three exams: The Quest, the Midterm and the Final Exam. Exams format (in-person or remote) is still TBD. Tentative dates are February 8th for the Quest, and March 14th for the Midterm. Exams will be taken using Gradescope. Online exams will be proctored. Exam logistics will be sent out in more detail closer to the date of each exam.
+There will be two exams: the Midterm and the Final Exam. Exams will be primarily in-person (if you have express permission to take the exam remotely, you will be able to do so). If an emergency comes up close to the exam and you will need to take it remotely or you test positive for COVID-19, email cs10@berkeley.edu ASAP. The Midterm will take place on July 11th 6-8pm PST and the Final will take place August 10th 3-6pm PST. Remotely taken exams will be proctored. Exam logistics will be sent out in more detail closer to the date of each exam.
 
 ## DSP Accommodations
-If you have a DSP accommodation through the university that is not addressed by the above policies, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to [cs10@berkeley.edu](mailto:cs10@berkeley.edu).
+If you have a DSP accommodation through the university that is not addressed by the above policies, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to [cs10@berkeley.edu](mailto:cs10@berkeley.edu). Extension requests are TBD (if you would like to request an extension, email cs10@berkeley.edu for the time being.)
 
 ## Attendance & Lecture Questions
 
-Each week we'll take attendance in _discussion_ section, and most lecturers will be accompanised by a series of short "self-check" questions on Gradescope.
-Each of these activies is worth 1 point, and you will have many opportunities to earn the 30 points throughout the semester.
-
-Lecture self-checks are designed to be submitted within a few days of lecture, but can be submitted late without penalty.
+Each Monday and Wednesday we'll take attendance in _discussion_ section, and each lecture will be accompanised by a series of short "self-check" questions on Gradescope. Self-checks will be due at 11:59pm the day after the corresponding lecture is given. Each discussion attendance is worth 2 points and each self-lecture is worth 1 point.
 
 ## Academic Integrity
 
@@ -110,13 +103,11 @@ Let’s get honest about being honest. It is truly a disappointment to catch stu
 Maintaining academic integrity is a crucial part of your learning experience, as cheating prevents us as instructors from understanding where our model of instruction isn’t working. We understand that academics can be stressful and that it might be tempting to cheat; however, there are ways to meet your goals that don’t require academically dishonest means. Here, we will lay out our academic integrity policies and some good practices that will help you avoid academic dishonesty and improve your overall mastery of the material.
 
 **What constitutes cheating?**
-* Copying part or all of another student’s project code with the exception of your partner(s). This includes students from previous semesters (we still have their code and will know if you do this).
+* Copying part or all of another student’s project code with the exception of your partner(s) assuming that the project you are working on allows for partnered work. This includes students from previous semesters (we still have their code and will know if you do this).
 * Sharing or receiving the exact steps used to solve a project problem (even if code is not explicitly sent).
 * Copying part or all of another student’s exam answers.
 * Collaborating with another student when taking the midterm or final exams by receiving or giving assistance of any kind.
 * Copying code from online sources without crediting them
-* On the Explore Project, using or paraphrasing someone else’s words without crediting them.
-Coding is difficult to learn, and when you do any of the above, you rob yourself and others of learning how to approach difficult programming problems, an essential skill for future classes. If you are unsure about whether or not something constitutes cheating, please confirm with Michael or a TA.
 
 **What constitutes collaboration?**
 * **Asking instead of telling**. If you’re working with your friends and one of them is stuck on a part of an assignment, try to ask them guiding questions instead of telling them the answer.
@@ -134,4 +125,4 @@ We will set up a meeting with you to discuss the situation and determine the con
 We recognize that computer science is a demographically skewed field in the United States, and that even at Berkeley, minoritized students can find themselves feeling alone. It is our goal in this course to deliver an equitable learning experience for everyone involved. Concretely, this means a few things:
 - In addition to teaching the technical skills necessary for programming, we will also teach the social implications of computer science. In doing so, we will directly address the contributions of underrepresented groups to the field, which are often overlooked.
 - We will do our absolute best to show you that while bias, discrimination, and judgment still exist, they should not stand in the way of you learning computer science. While acknowledging the struggles many students may face, we also hope to show that computer science is a field anyone can be successful in (in other words, there is no innate "talent" or "trait" required to understand computer science). Of course, different people have different opportunities, but one of the goals of CS10 is to equalize the playing field.
-- Discrimination or disrespect on the basis of race, ethnicity, religion, socioeconomic status, ability, gender, or sexual orientation will be tolerated under no circumstances. Should someone make you feel uncomfortable or disrespected in any way, please let Michael know immediately via email or by coming to office hours. You can also fill out the [EECS Incident Reporting Form](https://eecs.link/climate).
+- Discrimination or disrespect on the basis of race, ethnicity, religion, socioeconomic status, ability, gender, or sexual orientation will be tolerated under no circumstances. Should someone make you feel uncomfortable or disrespected in any way, please let Madeleine or Deeksha know immediately via email or by coming to office hours. You can also fill out the [EECS Incident Reporting Form](https://eecs.link/climate).
