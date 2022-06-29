@@ -68,8 +68,8 @@
       <td>5. Algorithmic Complexity <a href="https://docs.google.com/presentation/d/1JLR18hmqfXw8DXlV-bxcNjp1YtYQLM4VYaL--Of8SsU/edit?usp=sharing"> (slides)</a> <a href="https://youtu.be/fJvW0x8Ycd0"> (recording)</td> <!-- Lecture -->
       <td>5. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment"> Algorithms</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>HW 2: Mastermind due(07/03)<br/>
-      <a href="https://docs.google.com/document/d/1mUVnBHcMzGLVlwCYiLvNC8QH0rATT-6x28AVbxlRNfs/edit?usp=sharing">HW 2 Specs</a></td> <!-- Assignment -->
+      <td>release <br/>
+      <a href="https://docs.google.com/document/d/1mUVnBHcMzGLVlwCYiLvNC8QH0rATT-6x28AVbxlRNfs/edit?usp=sharing">HW 2: Mastermind due(07/03)</a> due(07/03)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 6/29 </th> <!-- Date -->
@@ -90,7 +90,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>HW2 due Sunday 7/03</td> <!-- Assignment -->
     </tr>
     <!-- WEEK THREE------------------------------------------------------------ -->
     <tr>
