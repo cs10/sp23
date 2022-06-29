@@ -55,7 +55,7 @@
     <tr>
       <td rowspan=5>2</td>
       <th>Mon 6/27</th> <!-- Date -->
-      <td>4. Algorithms</td> <!-- Lecture -->
+      <td>4. Mutability and Algorithms <a href="https://docs.google.com/presentation/d/1Sx4GByu9DWKs5tO_rvrWbzWiBj0nhrE6rSFp1ZMGEy4/edit?usp=sharing">(slides)</a> <a href="https://youtu.be/St3rZ6E9kqg">(recording)</a></td> <!-- Lecture -->
       <td>4. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">Lists + HOFs</a></td> <!-- Lab -->
       <td>2. Lists, Iteration, HOFs<br/>
       <a href="https://drive.google.com/file/d/1NkJnc7e68TcTJyB2P8NbA5j3J8Qn-WGW/view?usp=sharing">Worksheet</a><br/>
@@ -65,14 +65,15 @@
     </tr>
     <tr>
       <th>Tue 6/28</th> <!-- Date -->
-      <td>5. Algorithmic Complexity</td> <!-- Lecture -->
+      <td>5. Algorithmic Complexity <a href="https://docs.google.com/presentation/d/1JLR18hmqfXw8DXlV-bxcNjp1YtYQLM4VYaL--Of8SsU/edit?usp=sharing"> (slides)</a> <a href="https://youtu.be/fJvW0x8Ycd0"> (recording)</a></td> <!-- Lecture -->
       <td>5. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment"> Algorithms</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>release HW2: Mastermind (due 7/3)</td> <!-- Assignment -->
+      <td>release <br/>
+      <a href="https://docs.google.com/document/d/1mUVnBHcMzGLVlwCYiLvNC8QH0rATT-6x28AVbxlRNfs/edit?usp=sharing">HW 2: Mastermind due(07/03)</a> due(07/03)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 6/29 </th> <!-- Date -->
-      <td>6. Best Practices + Testing</td> <!-- Lecture -->
+      <td>6. Recursion I</td> <!-- Lecture -->
       <td>6. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment">Algorithmic Complexity</a></td> <!-- Lab -->
       <td>3. Algorithms + Algorithmic Complexity<br/>
       <a href="https://drive.google.com/file/d/1aH8a-oeOiTD9ClxiwHEEyqA57T7w0oWq/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
@@ -80,8 +81,8 @@
     </tr>
     <tr>
       <th>Thur 6/30</th> <!-- Date -->
-      <td>7. Recursion I: Intro + Basics</td> <!-- Lecture -->
-      <td>7. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">Testing + HW3</a></td> <!-- Lab -->
+      <td>7. Recursion II</td> <!-- Lecture -->
+      <td>7. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">Recursive Reporters</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -90,7 +91,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>HW2 due Sunday 7/03</td> <!-- Assignment -->
     </tr>
     <!-- WEEK THREE------------------------------------------------------------ -->
     <tr>
@@ -103,15 +104,15 @@
     </tr>
     <tr>
       <th>Tue 7/5</th> <!-- Date -->
-      <td>8. Recursion II: Tree Recursion</td> <!-- Lecture -->
-      <td>8. Recursive Reporters</td> <!-- Lab -->
+      <td>8. Testing + Intro to 2048</td> <!-- Lecture -->
+      <td>8. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">Trees and Fractals</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 7/6 </th> <!-- Date -->
-      <td>Recursion: Fractals</td> <!-- Lecture -->
-      <td>9. Trees and Fractals</td> <!-- Lab -->
+      <td>Recursion III</td> <!-- Lecture -->
+      <td>9. Testing</td> <!-- Lab -->
       <td>4. Recursion I</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -187,7 +188,7 @@
       <td>9. Testing & 2048<a href="https://youtu.be/ERiqnS-lb1I">(recording)</a> </td> <!-- Lecture -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8: Boards (Optional)</a>(due 2/23)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>HW2 due</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 2/17</th> <!-- Date -->
