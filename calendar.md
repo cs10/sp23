@@ -73,15 +73,15 @@
     </tr>
     <tr>
       <th>Wed 6/29 </th> <!-- Date -->
-      <td>6. Best Practices + Testing</td> <!-- Lecture -->
+      <td>6. Recursion I</td> <!-- Lecture -->
       <td>6. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment">Algorithmic Complexity</a></td> <!-- Lab -->
       <td>3. Algorithms + Algorithmic Complexity</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 6/30</th> <!-- Date -->
-      <td>7. Recursion I: Intro + Basics</td> <!-- Lecture -->
-      <td>7. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">Testing + HW3</a></td> <!-- Lab -->
+      <td>7. Recursion II</td> <!-- Lecture -->
+      <td>7. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">Recursive Reporters</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -103,15 +103,15 @@
     </tr>
     <tr>
       <th>Tue 7/5</th> <!-- Date -->
-      <td>8. Recursion II: Tree Recursion</td> <!-- Lecture -->
-      <td>8. Recursive Reporters</td> <!-- Lab -->
+      <td>8. Testing + Intro to 2048</td> <!-- Lecture -->
+      <td>8. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">Trees and Fractals</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 7/6 </th> <!-- Date -->
-      <td>Recursion: Fractals</td> <!-- Lecture -->
-      <td>9. Trees and Fractals</td> <!-- Lab -->
+      <td>Recursion III</td> <!-- Lecture -->
+      <td>9. Testing</td> <!-- Lab -->
       <td>4. Recursion I</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
