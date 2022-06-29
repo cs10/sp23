@@ -63,8 +63,26 @@ labs:
       - What happened with the time it took for your computer to counter up the numbers between 1 and x when you started doubling the numbers? Tripling the numbers? What do you think would happen with the time I multiplied your top number by 8?
       - What is an example of an algorithm that we have seen that has an exponential runtime?
       - Please show me your Non-Gauss and Gauss Add all numbers in. Which was faster? Why?
-  - lab_name: Testing + Project 1
+  - lab_name: Recursive Reporters
     lab_no: 7
+    topic_file: berkeley_bjc/recur/recursive-reporters-part1.topic
+    questions:
+      - Why do we map the first item of the set in front of a recursive call of subsets over the rest of the list?
+      - Explain why the second version of subsets only makes 7 calls instead of 64.
+      - Explain how the sort block works, how the merge block works, and how they work together.
+      - Show us the recursive numbers block.
+      - Show us the recursive ends-e block.
+  - lab_name: Trees and Fractals
+    lab_no: 8
+    topic_file: berkeley_bjc/recur/recursion-trees-fractals.topic
+    questions:
+      - Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?
+      - Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?
+      - What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
+      - Please show me your “snowflake” block.
+      - Please show me your “crazy-tree” block.
+  - lab_name: Testing + Homework 3
+    lab_no: 9
     topic_file: berkeley_bjc/2048-testing/2048.topic
     questions:
       - How does the test block work? What is its domain and range?
@@ -107,24 +125,6 @@ On this page, you will find a list of check-off questions for each lab.
     - Why did we have variables like “Size”, “Start”, and “Display Width” when designing our board and what do they do?
     - Show your working board game by moving the sprite around the board.
     - Explain an advantage of using an underlying board structure when designing a game.
-- lab_name: Trees and Fractals
-  lab_no: 9
-  topic_file: berkeley_bjc/recur/recursion-trees-fractals.topic
-  questions:
-    - Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?
-    - Please show me your “crazy-tree” block.
-    - Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?
-    - What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
-    - Please show me your “snowflake” block.
-- lab_name: Recursive Reporters
-  lab_no: 10
-  topic_file: berkeley_bjc/recur/recursive-reporters-part1.topic
-  questions:
-    - Why do we map the first item of the set in front of a recursive call of subsets over the rest of the list?
-    - Explain why the second version of subsets only makes 7 calls instead of 64.
-    - Explain how the sort block works, how the merge block works, and how they work together.
-    - Show us the recursive numbers block.
-    - Show us the recursive ends-e block.
 - lab_name: HOFS and Functions as Data
   lab_no: 11
   topic_file: berkeley_bjc/hofs/hofs-practice.topic
