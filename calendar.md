@@ -74,7 +74,8 @@
       <th>Wed 6/29 </th> <!-- Date -->
       <td>6. Best Practices + Testing</td> <!-- Lecture -->
       <td>6. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment">Algorithmic Complexity</a></td> <!-- Lab -->
-      <td>3. Algorithms + Algorithmic Complexity</td> <!-- Discussion -->
+      <td>3. Algorithms + Algorithmic Complexity<br/>
+      <a href="https://drive.google.com/file/d/1aH8a-oeOiTD9ClxiwHEEyqA57T7w0oWq/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
