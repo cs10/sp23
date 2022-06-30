@@ -78,7 +78,7 @@
       <td>3. Algorithms + Algorithmic Complexity<br/>
       <a href="https://drive.google.com/file/d/1aH8a-oeOiTD9ClxiwHEEyqA57T7w0oWq/view?usp=sharing">Worksheet</a><br/>
       <a href="https://docs.google.com/presentation/d/1vb51sfQ6GLdTHYpUy5cgqdLgSCr8tfNx-Xr3G50d1pg/edit?usp=sharing">Slides</a><br/>
-      <a href="https://drive.google.com/file/d/1LNyVSkFa9OuJ3v9dGPqAFtpu1btYxWhg/view?usp=sharing">Solutions></a></td> <!-- Discussion -->
+      <a href="https://drive.google.com/file/d/1LNyVSkFa9OuJ3v9dGPqAFtpu1btYxWhg/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
