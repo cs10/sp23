@@ -187,20 +187,20 @@
     </tr>
     <tr>
       <th>Wed 7/20 </th> <!-- Date -->
-      <td>9. Testing & 2048<a href="https://youtu.be/ERiqnS-lb1I">(recording)</a> </td> <!-- Lecture -->
+      <td>16. Python IV: HOFs</td> <!-- Lecture -->
+      <td>14. OOP</td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Thur 7/21</th> <!-- Date -->
+      <td>17. Python V</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Thur 2/17</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Fri 2/18</th> <!-- Date -->
+      <th>Fri 7/22</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -209,35 +209,35 @@
     <!-- WEEK SIX ------------------------------------------------------------ -->
     <tr>
       <td rowspan=5>6</td>
-      <th>Mon 2/21</th> <!-- Date -->
+      <th>Mon 7/25</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Tue 2/22</th> <!-- Date -->
+      <th>Tue 7/26</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td></td> <!-- Lab -->
+      <td>15. Text Processing</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Wed 2/23 </th> <!-- Date -->
+      <th>Wed 7/27 </th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Thur 2/24</th> <!-- Date -->
+      <th>Thur 7/28</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td></td> <!-- Lab -->
+      <td>16. Data Science</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Fri 2/25</th> <!-- Date -->
+      <th>Fri 7/29</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -246,76 +246,76 @@
     <!-- WEEK SEVEN ------------------------------------------------------------ -->
     <tr>
       <td rowspan=5>7</td>
-      <th>Mon 2/28</th> <!-- Date -->
-      <td>11. Social Implications of Computing II - Global Impact of Computing <a href="https://docs.google.com/document/d/1fMv7_b1DNhTJmgr9gyQaHV3VWMHOHI5g9PcY39SYuLQ/edit?usp=sharing">(Notes)</a> | <a href="https://docs.google.com/presentation/d/1cK7SXNFQOaBeCs9dJBB8DsadZZMyDwocS17LVkIWNV0/edit?usp=sharing">(Slides)</a> | <a href="https://youtu.be/QmUPJv2F7wU">(Recording)</a></td> <!-- Lecture -->
+      <th>Mon 8/01</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Tue 3/01</th> <!-- Date -->
+      <th>Tue 8/02</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td></td> <!-- Lab -->
+      <td>17. Concurrency</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Wed 3/02 </th> <!-- Date -->
-      <td>12. Recursion II (Count Change) <a href="https://docs.google.com/presentation/d/1tbHqA60a9Aa_Ts7B1hkr6byI0n4kPh7xq6H72BMbVLk/edit?usp=sharing"> (slides) </a> | <a href="https://youtu.be/xkS039NGBXg">(Recording)</a></td> <!-- Lecture -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td>PROJ 1 due</td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Thur 3/03</th> <!-- Date -->
+      <th>Wed 8/03 </th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td><!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Thur 8/04</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td>In-Lab Final</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Fri 3/04</th> <!-- Date -->
+      <th>Fri 8/05</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1Qfo2qu0hnSt7dUyihXDUhiogcaZNfqM8/view?usp=sharing">7. Recursion II</a> <a href="https://drive.google.com/file/d/16pVU8R-UBUMnn5c2uecx2WSJbmnfSNWm/view?usp=sharing">(solution)</a></td> <!-- Discussion -->
-      <td><a href="https://docs.google.com/document/d/1PkcC5cg2SMlvOBVEVkofm-FOBLeGIyfe_azUUbrbMho/edit?usp=sharing">release Proj 2: Explore Post (due 3/16)</a></td> <!-- Assignment -->
+      <td></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK EIGHT ------------------------------------------------------------ -->
     <tr>
       <td rowspan=5>8</td>
-      <th>Mon 3/07</th> <!-- Date -->
-      <td>13. Procedures as Data - Higher Order Procedures<a href="https://youtu.be/bwEdOUi_gPI">(Recording)</a> | <a href="https://docs.google.com/presentation/d/1Pq6FlYlbSAn5rQZ9KY5aS-wNsqSnfcnzbc4UGL2TOGU/edit?usp=sharing">(Slides)</a></td> <!-- Lecture -->
+      <th>Mon 8/08</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Tue 3/08</th> <!-- Date -->
+      <th>Tue 8/09</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Wed 3/09</th> <!-- Date -->
-      <td>14. Programming Paradigms<a href="https://youtu.be/1rdEigeCuNo">(recording)</a> | <a href="https://docs.google.com/presentation/d/16YWT03vdsVoth_EiYLwvKpC8f6c7tNlQdWVMbtajvKY/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Thur 3/10</th> <!-- Date -->
+      <th>Wed 8/10</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Fri 3/11</th> <!-- Date -->
+      <th>Thur 8/11</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1_U36sr7Ecqc4CsAjAOOlf6PBRAG6hIpN/view?usp=sharing">Midterm Review</a><a href="https://drive.google.com/file/d/1UmaYWMbc6ekyYftVBh3wBTavoYZZgZJW/view?usp=sharing">(solutions)</a></td> <!-- Discussion -->
-      <td>Midterm Review Session</td> <!-- Assignment -->
+      <td></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Fri 8/12</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
     </tr>
   </tbody>
 </table>
