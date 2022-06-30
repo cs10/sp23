@@ -90,7 +90,14 @@ labs:
       - How do merge up and merge column work? What is the domain/range of each block?
       - What is the domain and range of the update display block?
       - Show us the output of your test block on the merge column. Explain why this output makes sense.
-
+  - lab_name: HOFS and Functions as Data
+    lab_no: 10
+    topic_file: berkeley_bjc/hofs/hofs-practice.topic
+    questions:
+    - What is a higher-order function? Can you give an example of one?
+    - Show us your `pandigital` block and explain how it works.
+    - Show us your `factorion` block and explain how it works.
+    - Show us your `list all factorions` function. How does this compare to the `list all pandigital numbers` function?
 
 ---
 # Lab Check-Offs
@@ -125,14 +132,6 @@ On this page, you will find a list of check-off questions for each lab.
     - Why did we have variables like “Size”, “Start”, and “Display Width” when designing our board and what do they do?
     - Show your working board game by moving the sprite around the board.
     - Explain an advantage of using an underlying board structure when designing a game.
-- lab_name: HOFS and Functions as Data
-  lab_no: 11
-  topic_file: berkeley_bjc/hofs/hofs-practice.topic
-  questions:
-  - What is a higher-order function?
-  - Show us your pandigital block and explain how it works.
-  - Show us your factorion block and explain how it works.
-  - Show us your list all factorions function. How does this compare to the list all pandigital numbers function?
 - lab_name: Welcome to Python
   lab_no: 12
   topic_file: berkeley_bjc/python/besides-blocks-welcome-parsons.topic
