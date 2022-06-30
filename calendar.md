@@ -69,7 +69,7 @@
       <td>5. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment"> Algorithms</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>release <br/>
-      <a href="https://docs.google.com/document/d/1mUVnBHcMzGLVlwCYiLvNC8QH0rATT-6x28AVbxlRNfs/edit?usp=sharing">HW 2: Mastermind due(07/03)</a> due(07/03)</td> <!-- Assignment -->
+      <a href="https://docs.google.com/document/d/1mUVnBHcMzGLVlwCYiLvNC8QH0rATT-6x28AVbxlRNfs/edit?usp=sharing">HW 2: Mastermind</a> due(07/03)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 6/29 </th> <!-- Date -->
@@ -113,8 +113,8 @@
     </tr>
     <tr>
       <th>Wed 7/6 </th> <!-- Date -->
-      <td>Recursion III</td> <!-- Lecture -->
-      <td>9. Testing</td> <!-- Lab -->
+      <td>9. Recursion III</td> <!-- Lecture -->
+      <td>9. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">Testing</a></td> <!-- Lab -->
       <td>4. Recursion I</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -188,7 +188,7 @@
     <tr>
       <th>Wed 7/20 </th> <!-- Date -->
       <td>9. Testing & 2048<a href="https://youtu.be/ERiqnS-lb1I">(recording)</a> </td> <!-- Lecture -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8: Boards (Optional)</a>(due 2/23)</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -248,28 +248,28 @@
       <td rowspan=5>7</td>
       <th>Mon 2/28</th> <!-- Date -->
       <td>11. Social Implications of Computing II - Global Impact of Computing <a href="https://docs.google.com/document/d/1fMv7_b1DNhTJmgr9gyQaHV3VWMHOHI5g9PcY39SYuLQ/edit?usp=sharing">(Notes)</a> | <a href="https://docs.google.com/presentation/d/1cK7SXNFQOaBeCs9dJBB8DsadZZMyDwocS17LVkIWNV0/edit?usp=sharing">(Slides)</a> | <a href="https://youtu.be/QmUPJv2F7wU">(Recording)</a></td> <!-- Lecture -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">10: Recursive Reporters</a> (due 3/07)</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 3/01</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">10: Recursive Reporters</a> (due 3/08)</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 3/02 </th> <!-- Date -->
       <td>12. Recursion II (Count Change) <a href="https://docs.google.com/presentation/d/1tbHqA60a9Aa_Ts7B1hkr6byI0n4kPh7xq6H72BMbVLk/edit?usp=sharing"> (slides) </a> | <a href="https://youtu.be/xkS039NGBXg">(Recording)</a></td> <!-- Lecture -->
-      <td>Proj 1 Work Session</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 1 due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 3/03</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>Proj 1 Work Session</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -285,28 +285,28 @@
       <td rowspan=5>8</td>
       <th>Mon 3/07</th> <!-- Date -->
       <td>13. Procedures as Data - Higher Order Procedures<a href="https://youtu.be/bwEdOUi_gPI">(Recording)</a> | <a href="https://docs.google.com/presentation/d/1Pq6FlYlbSAn5rQZ9KY5aS-wNsqSnfcnzbc4UGL2TOGU/edit?usp=sharing">(Slides)</a></td> <!-- Lecture -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=&novideo&noreading&noassignment">11: Functions as Data, HOFs</a> (due 3/16)</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 3/08</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=&novideo&noreading&noassignment">11: Functions as Data, HOFs</a> (due 3/17)</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 3/09</th> <!-- Date -->
       <td>14. Programming Paradigms<a href="https://youtu.be/1rdEigeCuNo">(recording)</a> | <a href="https://docs.google.com/presentation/d/16YWT03vdsVoth_EiYLwvKpC8f6c7tNlQdWVMbtajvKY/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
-      <td>Midterm Work Session</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 3/10</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>Midterm Work Session</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
