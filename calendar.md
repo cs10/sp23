@@ -76,7 +76,9 @@
       <td>6. Recursion I <a href="https://youtu.be/GKedcREh1fs">(recording)</a> <a href="https://docs.google.com/presentation/d/1U25PYe2Gotv5N8L-4MdWLn1w4zB2wkPepjjeu9HgjNw/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td>6. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment">Algorithmic Complexity</a></td> <!-- Lab -->
       <td>3. Algorithms + Algorithmic Complexity<br/>
-      <a href="https://drive.google.com/file/d/1aH8a-oeOiTD9ClxiwHEEyqA57T7w0oWq/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
+      <a href="https://drive.google.com/file/d/1aH8a-oeOiTD9ClxiwHEEyqA57T7w0oWq/view?usp=sharing">Worksheet</a><br/>
+      <a href="https://docs.google.com/presentation/d/1vb51sfQ6GLdTHYpUy5cgqdLgSCr8tfNx-Xr3G50d1pg/edit?usp=sharing">Slides</a><br/>
+      <a href="https://drive.google.com/file/d/1LNyVSkFa9OuJ3v9dGPqAFtpu1btYxWhg/view?usp=sharing">Solutions></a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
