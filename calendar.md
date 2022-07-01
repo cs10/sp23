@@ -81,9 +81,9 @@
       <a href="https://drive.google.com/file/d/1LNyVSkFa9OuJ3v9dGPqAFtpu1btYxWhg/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
-    <tr>
+    <tr>  
       <th>Thur 6/30</th> <!-- Date -->
-      <td>7. Recursion II</td> <!-- Lecture -->
+      <td>7. Recursion II <a href="https://youtu.be/9yhOwHGlQU4">(recording)</a> <a href="https://docs.google.com/presentation/d/1KEtzRUOJXsYCPQOkAI3j2UedLUA031eNzKXeEgp331w/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td>7. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">Recursive Reporters</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
