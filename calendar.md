@@ -121,7 +121,7 @@
     <tr>
       <th>Thur 7/7</th> <!-- Date -->
       <td>10. Programming Paradigms</td> <!-- Lecture -->
-      <td>10. HOFs + Functions as Data</td> <!-- Lab -->
+      <td>10. <a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment"> HOFs + Functions as Data</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
