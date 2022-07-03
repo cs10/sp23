@@ -115,7 +115,7 @@
       <th>Wed 7/6 </th> <!-- Date -->
       <td>9. Recursion III (Fractals)</td> <!-- Lecture -->
       <td>9. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">Testing</a></td> <!-- Lab -->
-      <td>4. Recursion I</td> <!-- Discussion -->
+      <td>4. Recursion</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -189,7 +189,7 @@
       <th>Wed 7/20 </th> <!-- Date -->
       <td>16. Python IV: HOFs</td> <!-- Lecture -->
       <td>14. OOP</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <td>7. OOP</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -212,7 +212,7 @@
       <th>Mon 7/25</th> <!-- Date -->
       <td>17. Python 5: Tree Recursion+</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <td>8. Python HOFs, Lambdas, and Tree Recursion</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -226,7 +226,7 @@
       <th>Wed 7/27 </th> <!-- Date -->
       <td>19. Number Representation</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <td>9. Number Representation</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -249,7 +249,7 @@
       <th>Mon 8/01</th> <!-- Date -->
       <td>21. Concurrency</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <td>10. Concurrency</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -263,7 +263,7 @@
       <th>Wed 8/03 </th> <!-- Date -->
       <td>23. Alumni Panel</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <td>11. Final Review</td> <!-- Discussion -->
       <td></td><!-- Assignment -->
     </tr>
     <tr>
@@ -301,7 +301,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Paper Final Exam (3pm-6pm PT)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 8/11</th> <!-- Date -->
