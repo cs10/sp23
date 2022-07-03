@@ -106,14 +106,14 @@
     </tr>
     <tr>
       <th>Tue 7/5</th> <!-- Date -->
-      <td>8. Testing + Intro to 2048</td> <!-- Lecture -->
+      <td>8. Best Coding Practices + Testing/Intro to 2048</td> <!-- Lecture -->
       <td>8. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">Trees and Fractals</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 7/6 </th> <!-- Date -->
-      <td>9. Recursion III</td> <!-- Lecture -->
+      <td>9. Recursion III (Fractals)</td> <!-- Lecture -->
       <td>9. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">Testing</a></td> <!-- Lab -->
       <td>4. Recursion I</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -136,7 +136,7 @@
     <tr>
       <td rowspan=5>4</td>
       <th>Mon 7/11</th> <!-- Date -->
-      <td>NO LECTURE</td> <!-- Lecture -->
+      <td>NO LECTURE (Midterm Day)</td> <!-- Lecture -->
       <td>In-Lab Midterm</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Paper Midterm 6-8pm PST</td> <!-- Assignment -->
@@ -194,7 +194,7 @@
     </tr>
     <tr>
       <th>Thur 7/21</th> <!-- Date -->
-      <td>17. Python V</td> <!-- Lecture -->
+      <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -210,28 +210,28 @@
     <tr>
       <td rowspan=5>6</td>
       <th>Mon 7/25</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <td>17. Python 5: Tree Recursion+</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 7/26</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <td>18. Social Implications</td> <!-- Lecture -->
       <td>15. Text Processing</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 7/27 </th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <td>19. Number Representation</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 7/28</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <td>20. Guest Lecture</td> <!-- Lecture -->
       <td>16. Data Science</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -247,28 +247,28 @@
     <tr>
       <td rowspan=5>7</td>
       <th>Mon 8/01</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <td>21. Concurrency</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 8/02</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <td>22. Guest Lecture</td> <!-- Lecture -->
       <td>17. Concurrency</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 8/03 </th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <td>23. Alumni Panel</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td><!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 8/04</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <td>24. Conclusion and Farewell</td> <!-- Lecture -->
       <td>In-Lab Final</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
