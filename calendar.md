@@ -190,21 +190,21 @@
       <td>16. Python IV: HOFs</td> <!-- Lecture -->
       <td>14. OOP</td> <!-- Lab -->
       <td>7. OOP</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>release HW5: OOP Practice</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 7/21</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>release Final Project Propasal released</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 7/22</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Final Project Propasal due Saturday 11:59pm</td> <!-- Assignment -->
     </tr>
     <!-- WEEK SIX ------------------------------------------------------------ -->
     <tr>
@@ -213,7 +213,7 @@
       <td>17. Python 5: Tree Recursion+</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>8. Python HOFs, Lambdas, and Tree Recursion</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>HW5: OOP Practice due, release Final Project</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 7/26</th> <!-- Date -->
@@ -271,7 +271,7 @@
       <td>24. Conclusion and Farewell</td> <!-- Lecture -->
       <td>In-Lab Final</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Final Project due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 8/05</th> <!-- Date -->
