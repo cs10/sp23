@@ -102,7 +102,7 @@
       <td>NO CLASS</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release HW3: 2048 (due 7/13) </td> <!-- Assignment -->
+      <td>release <a href="https://docs.google.com/document/u/0/d/1exb5jlPnK4zVrPRHIwwlz3UbzorEB5-Faq6leu_Cfx4/edit">HW3: 2048 (due 7/13)</a> </td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 7/5</th> <!-- Date -->
