@@ -106,7 +106,7 @@
     </tr>
     <tr>
       <th>Tue 7/5</th> <!-- Date -->
-      <td>8. Best Coding Practices + Testing/Intro to 2048</td> <!-- Lecture -->
+      <td>8. Best Coding Practices + Testing/Intro to 2048 <a href="https://docs.google.com/presentation/d/1gHKWs_3v2e1eY53WuWV-7mS6RKGdRHirwWoi8szmSLM/edit?usp=sharing">(slides)</a> <a href="https://youtu.be/16nnEgfhgck">(recording)</a></td> <!-- Lecture -->
       <td>8. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">Trees and Fractals</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
