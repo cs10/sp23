@@ -61,7 +61,6 @@ labs:
       - Name the logarithmic time algorithm that we implemented in Lab 5. Explain why this algorithm runs in logarithmic time.
       - What is the difference between “Worst-Case” and “Best Case” Runtimes when running the Are the numbers of (LIST) distinct block? Why?
       - What happened with the time it took for your computer to counter up the numbers between 1 and x when you started doubling the numbers? Tripling the numbers? What do you think would happen with the time I multiplied your top number by 8?
-      - What is an example of an algorithm that we have seen that has an exponential runtime?
       - Please show me your Non-Gauss and Gauss Add all numbers in. Which was faster? Why?
   - lab_name: Recursive Reporters
     lab_no: 7
@@ -98,6 +97,22 @@ labs:
     - Show us your `pandigital` block and explain how it works.
     - Show us your `factorion` block and explain how it works.
     - Show us your `list all factorions` function. How does this compare to the `list all pandigital numbers` function?
+  - lab_name: Boards
+    lab_no: 11
+    topic_file: berkeley_bjc/lists/tic-tac-toe.topic
+    questions:
+    - Why did we have variables like “Size”, “Start”, and “Display Width” when designing our board? What do they do?
+    - Explain an advantage of using an underlying board structure when designing a game.
+    - Show your working board game by moving the sprite around the board and clicking to place bugs.
+  - lab_name: Welcome to Python
+    lab_no: 12
+    topic_file: berkeley_bjc/python/besides-blocks-welcome-parsons.topic
+    questions:
+    - What is the difference between the "python", "python file.py", and "python -i file.py" terminal commands?
+    - What is the difference between the "print" and "return" python commands?
+    - Show your "reverse_string(string)" function. If you implemented it iteratively, explain the recursive solution. If you implemented it recursively, explain the iterative solution.
+    - Show your "palindrome(string)" function.
+    - Show your c-curve function and its output.
 
 ---
 # Lab Check-Offs
@@ -124,23 +139,6 @@ On this page, you will find a list of check-off questions for each lab.
 {% endfor %}
 
 <!--
-
-- lab_name: Boards (Optional)
-  lab_no: 8
-  topic_file: berkeley_bjc/lists/tic-tac-toe.topic
-  questions:
-    - Why did we have variables like “Size”, “Start”, and “Display Width” when designing our board and what do they do?
-    - Show your working board game by moving the sprite around the board.
-    - Explain an advantage of using an underlying board structure when designing a game.
-- lab_name: Welcome to Python
-  lab_no: 12
-  topic_file: berkeley_bjc/python/besides-blocks-welcome-parsons.topic
-  questions:
-  - What is the difference between the "python", "python file.py", and "python -i file.py" terminal commands?
-  - What is the difference between the "print" and "return" python commands?
-  - Show your "reverse_string(string)" function. If you did it iteratively, explain the recursive solution. If you did it recursively, explain the iterative solution.
-  - Show your "palindrome(string)" function.
-  - Show your c-curve function and its output.
 - lab_name: Data Structures in Python
   lab_no: 13
   topic_file: berkeley_bjc/python/besides-blocks-data-struct.topic
