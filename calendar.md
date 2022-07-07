@@ -113,7 +113,7 @@
     </tr>
     <tr>
       <th>Wed 7/6 </th> <!-- Date -->
-      <td>9. Recursion III (Fractals) <a href="https://docs.google.com/presentation/d/1kGe-Y-mvg4g384OpvtK0gJ9NpA050hsoIuzb4eh-qH4/edit#slide=id.g139f9e034ea_0_257">(slides)</a></td> <!-- Lecture -->
+      <td>9. Recursion III (Fractals) <a href="https://docs.google.com/presentation/d/1kGe-Y-mvg4g384OpvtK0gJ9NpA050hsoIuzb4eh-qH4/edit#slide=id.g139f9e034ea_0_257">(slides)</a> <a href="https://youtu.be/7-RBA885icY"> (recording)</a></td> <!-- Lecture -->
       <td>9. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">Testing</a></td> <!-- Lab -->
       <td>4. Recursion<br/>
       <a href="https://drive.google.com/file/d/1iN3W9s0Ctvm1V5klEGxvsVIAX16mDdIQ/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
