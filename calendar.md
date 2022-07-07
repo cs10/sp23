@@ -118,7 +118,7 @@
       <td>4. Recursion<br/>
       <a href="https://drive.google.com/file/d/1iN3W9s0Ctvm1V5klEGxvsVIAX16mDdIQ/view?usp=sharing">Worksheet</a><br/>
       <a href="https://docs.google.com/presentation/d/13pw405VxMPU1n2aBMGPBIm9RITtEGHtPZiz2NFOj0zI/edit?usp=sharing">Slides</a><br/>
-      <a href="https://drive.google.com/file/d/1GcgQzufQxXWU2ml3-MUsZtelRbJ1CaO3/view?usp=sharing"><Solutions</a></td> <!-- Discussion -->
+      <a href="https://drive.google.com/file/d/1GcgQzufQxXWU2ml3-MUsZtelRbJ1CaO3/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
