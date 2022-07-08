@@ -161,7 +161,7 @@
     <tr>
       <th>Thur 7/14</th> <!-- Date -->
       <td>13. Python II: Data Structures</td> <!-- Lecture -->
-      <td>12. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome-parsons.topic&course=&novideo&noreading&noassignment">Welcome to Python!<a/></td> <!-- Lab -->
+      <td>12. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome-parsons.topic&course=&novideo&noreading&noassignment">Welcome to Python!</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release HW4: Snap to Python Translation</td> <!-- Assignment -->
     </tr>
