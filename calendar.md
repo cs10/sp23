@@ -123,7 +123,7 @@
     </tr>
     <tr>
       <th>Thur 7/7</th> <!-- Date -->
-      <td>10. Programming Paradigms<a href="https://docs.google.com/presentation/d/1a2J6eblGOJ8p-Hz9j3vaTWj8Dn8zP6UlQ_SOe8RXecA/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td>10. Programming Paradigms<a href="https://docs.google.com/presentation/d/1a2J6eblGOJ8p-Hz9j3vaTWj8Dn8zP6UlQ_SOe8RXecA/edit?usp=sharing">(slides)</a> <a href="https://youtu.be/gHeWsG6ewYU">(recording)</a></td> <!-- Lecture -->
       <td>10. <a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment"> HOFs + Functions as Data</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
