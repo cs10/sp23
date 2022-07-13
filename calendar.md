@@ -154,7 +154,7 @@
     <tr>
       <th>Wed 7/13 </th> <!-- Date -->
       <td>12. Python I: Intro</td> <!-- Lecture -->
-      <td>11. <a href"https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment"> Boards</a></td> <!-- Lab -->
+      <td>11. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">Boards</a></td> <!-- Lab -->
       <td>5. Intro to Python<br/>
       <a href="https://drive.google.com/file/d/1p3K1cPasKEtmCtzQMWvJ59K-PwmAOdyt/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
       <td>HW3: 2048 due</td> <!-- Assignment -->
