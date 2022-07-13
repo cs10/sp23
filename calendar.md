@@ -146,7 +146,7 @@
     </tr>
     <tr>
       <th>Tue 7/12</th> <!-- Date -->
-      <td>11. Social Implications</td> <!-- Lecture -->
+      <td>11. Midterm Walkthrough <a href="https://youtu.be/gGyC3KNMiHo">(recording)</a></td> <!-- Lecture -->
       <td>NO LAB</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
