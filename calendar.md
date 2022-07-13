@@ -102,7 +102,7 @@
       <td>NO CLASS</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release <a href="https://docs.google.com/document/u/0/d/1exb5jlPnK4zVrPRHIwwlz3UbzorEB5-Faq6leu_Cfx4/edit">HW3: 2048</a> (due 7/13) </td> <!-- Assignment -->
+      <td>release <a href="https://docs.google.com/document/u/0/d/1exb5jlPnK4zVrPRHIwwlz3UbzorEB5-Faq6leu_Cfx4/edit">HW3: 2048 (due 7/13)</a> </td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 7/5</th> <!-- Date -->
@@ -113,7 +113,7 @@
     </tr>
     <tr>
       <th>Wed 7/6 </th> <!-- Date -->
-      <td>9. Recursion III (Fractals) <a href="https://docs.google.com/presentation/d/1kGe-Y-mvg4g384OpvtK0gJ9NpA050hsoIuzb4eh-qH4/edit#slide=id.g139f9e034ea_0_257">(slides)</a><a href="https://youtu.be/7-RBA885icY"> (recording)</a></td> <!-- Lecture -->
+      <td>9. Recursion III (Fractals) <a href="https://docs.google.com/presentation/d/1kGe-Y-mvg4g384OpvtK0gJ9NpA050hsoIuzb4eh-qH4/edit#slide=id.g139f9e034ea_0_257">(slides)</a></td> <!-- Lecture -->
       <td>9. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">Testing</a></td> <!-- Lab -->
       <td>4. Recursion<br/>
       <a href="https://drive.google.com/file/d/1iN3W9s0Ctvm1V5klEGxvsVIAX16mDdIQ/view?usp=sharing">Worksheet</a><br/>
@@ -123,7 +123,7 @@
     </tr>
     <tr>
       <th>Thur 7/7</th> <!-- Date -->
-      <td>10. Programming Paradigms<a href="https://docs.google.com/presentation/d/1a2J6eblGOJ8p-Hz9j3vaTWj8Dn8zP6UlQ_SOe8RXecA/edit?usp=sharing">(slides)</a> <a href="https://youtu.be/gHeWsG6ewYU">(recording)</a></td> <!-- Lecture -->
+      <td>10. Programming Paradigms</td> <!-- Lecture -->
       <td>10. <a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment"> HOFs + Functions as Data</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -147,21 +147,22 @@
     <tr>
       <th>Tue 7/12</th> <!-- Date -->
       <td>11. Social Implications</td> <!-- Lecture -->
-      <td>No lab assignment</td> <!-- Lab -->
+      <td>NO LAB</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 7/13 </th> <!-- Date -->
       <td>12. Python I: Intro</td> <!-- Lecture -->
-      <td>11. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">Boards</a></td> <!-- Lab -->
-      <td>5. Intro to Python</td> <!-- Discussion -->
+      <td>11. Boards</td> <!-- Lab -->
+      <td>5. Intro to Python<br/>
+      <a href="https://drive.google.com/file/d/1p3K1cPasKEtmCtzQMWvJ59K-PwmAOdyt/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
       <td>HW3: 2048 due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 7/14</th> <!-- Date -->
       <td>13. Python II: Data Structures</td> <!-- Lecture -->
-      <td>12. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome-parsons.topic&course=&novideo&noreading&noassignment">Welcome to Python!</a></td> <!-- Lab -->
+      <td>12. Welcome to Python!</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release HW4: Snap to Python Translation</td> <!-- Assignment -->
     </tr>
