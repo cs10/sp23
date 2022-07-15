@@ -163,7 +163,7 @@
     </tr>
     <tr>
       <th>Thur 7/14</th> <!-- Date -->
-      <td>13. Python II: Data Structures<a href="https://docs.google.com/presentation/d/1uhpp-v7BzcMiTY0caeAuM4w8lVTDR4qd4eYLOMyq0z4/edit#slide=id.g13cfba3ed9a_0_9">(slides)</a></td> <!-- Lecture -->
+      <td>13. Python II: Data Structures<a href="https://docs.google.com/presentation/d/1uhpp-v7BzcMiTY0caeAuM4w8lVTDR4qd4eYLOMyq0z4/edit#slide=id.g13cfba3ed9a_0_9">(slides)</a> <a href="https://youtu.be/asRoePvLodo">(recording)</a></td> <!-- Lecture -->
       <td>12. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome-parsons.topic&course=&novideo&noreading&noassignment"> Welcome to Python!</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td><a href="https://docs.google.com/document/d/14ifSoEcExk40Cmq3u5O1JhmEX43uyDnpW1dLplumtNo/edit?usp=sharing">release HW4: Snap to Python Translation</a></td> <!-- Assignment -->
