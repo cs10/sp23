@@ -194,7 +194,7 @@
     <tr>
       <th>Wed 7/20 </th> <!-- Date -->
       <td>16. Python IV: HOFs</td> <!-- Lecture -->
-      <td>14. OOP</td> <!-- Lab -->
+      <td>14. <a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">OOP</a></td> <!-- Lab -->
       <td>7. OOP</td> <!-- Discussion -->
       <td>release HW5: OOP Practice</td> <!-- Assignment -->
     </tr>
