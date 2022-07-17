@@ -179,7 +179,7 @@
     <tr>
       <td rowspan=5>5</td>
       <th>Mon 7/18</th> <!-- Date -->
-      <td>14. Guest Lecture</td> <!-- Lecture -->
+      <td>14. List Mutation</td> <!-- Lecture -->
       <td>13. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">Data Structures in Python</a></td> <!-- Lab -->
       <td>6. Python Data Structures</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
