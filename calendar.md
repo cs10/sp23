@@ -189,7 +189,7 @@
     </tr>
     <tr>
       <th>Tue 7/19</th> <!-- Date -->
-      <td>15. Python III: OOP</td> <!-- Lecture -->
+      <td>15. Python III: OOP<a href="https://docs.google.com/presentation/d/1TcOzK1LNdyLW9XGJ0OvFHhZtM9NcQ1lUvUucCZkYEBw/edit#slide=id.g13cfba3ed9a_0_9">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>HW4: Snap to Python Translation due</td> <!-- Assignment -->
