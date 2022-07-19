@@ -179,15 +179,17 @@
     <tr>
       <td rowspan=5>5</td>
       <th>Mon 7/18</th> <!-- Date -->
-      <td>14. List Mutation <a href="https://drive.google.com/file/d/1fR-64L3KBx2QMpMVj0WNuoqHYEDdpxBG/view?usp=sharing">(slides) </a><a href="https://youtu.be/dFeOwjnigfY">(recording)</a></td> <!-- Lecture -->
+      <td>14. List Mutation</td> <!-- Lecture -->
       <td>13. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">Data Structures in Python</a></td> <!-- Lab -->
       <td>6. Python Data Structures<br/>
-      <a href="https://drive.google.com/file/d/1FoN-pIy5pIASJ1Da4VDlbh4pl6I6Mh_O/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
+      <a href="https://drive.google.com/file/d/1FoN-pIy5pIASJ1Da4VDlbh4pl6I6Mh_O/view?usp=sharing">Worksheet</a><br/>
+      <a href="https://docs.google.com/presentation/d/1JEndkfNob5O0drdULSdeM4vMNNPG8B65LuUcv5RCrOg/edit?usp=sharing">Slides</a><br/>
+      <a href="https://drive.google.com/file/d/1THrX-opmn-ClyIsp0BmmWEdXhvfzpz5B/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 7/19</th> <!-- Date -->
-      <td>15. Python III: OOP<a href="https://docs.google.com/presentation/d/1TcOzK1LNdyLW9XGJ0OvFHhZtM9NcQ1lUvUucCZkYEBw/edit#slide=id.g13cfba3ed9a_0_347">(slides)</a></td> <!-- Lecture -->
+      <td>15. Python III: OOP</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>HW4: Snap to Python Translation due</td> <!-- Assignment -->
