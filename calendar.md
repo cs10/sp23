@@ -179,8 +179,8 @@
     <tr>
       <td rowspan=5>5</td>
       <th>Mon 7/18</th> <!-- Date -->
-      <td>14. List Mutation<a href="https://drive.google.com/file/d/1ojJP1Wk8SN3C1J5KPpUxMIHYrZcby2WW/view?usp=sharing">(slides)</a> <a href="https://youtu.be/dFeOwjnigfY">(recording)</a></td> <!-- Lecture -->
-      <td>13. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">Python Data Structures </a></td> <!-- Lab -->
+      <td>14. List Mutation</td> <!-- Lecture -->
+      <td>13. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">Data Structures in Python</a></td> <!-- Lab -->
       <td>6. Python Data Structures<br/>
       <a href="https://drive.google.com/file/d/1FoN-pIy5pIASJ1Da4VDlbh4pl6I6Mh_O/view?usp=sharing">Worksheet</a><br/>
       <a href="https://docs.google.com/presentation/d/1JEndkfNob5O0drdULSdeM4vMNNPG8B65LuUcv5RCrOg/edit?usp=sharing">Slides</a><br/>
@@ -189,7 +189,7 @@
     </tr>
     <tr>
       <th>Tue 7/19</th> <!-- Date -->
-      <td>15. Python III: OOP<a href="https://docs.google.com/presentation/d/1TcOzK1LNdyLW9XGJ0OvFHhZtM9NcQ1lUvUucCZkYEBw/edit#slide=id.g13cfba3ed9a_0_9">(slides)</a><a href="https://youtu.be/m0UHeyhoBzo"> (recording)</a></td> <!-- Lecture -->
+      <td>15. Python III: OOP</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>HW4: Snap to Python Translation due</td> <!-- Assignment -->
@@ -198,7 +198,8 @@
       <th>Wed 7/20 </th> <!-- Date -->
       <td>16. Python IV: HOFs</td> <!-- Lecture -->
       <td>14. <a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">OOP</a></td> <!-- Lab -->
-      <td>7. OOP</td> <!-- Discussion -->
+      <td>7. OOP<br/>
+      <a href="https://drive.google.com/file/d/1Wj9n6TCkD_1GvKcZpB6dJt-OQczEh7VH/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
       <td>release HW5: OOP Practice</td> <!-- Assignment -->
     </tr>
     <tr>
@@ -220,14 +221,14 @@
       <td rowspan=5>6</td>
       <th>Mon 7/25</th> <!-- Date -->
       <td>17. Python 5: Tree Recursion+</td> <!-- Lecture -->
-      <td></td> HW5 Workday<!-- Lab -->
+      <td></td> <!-- Lab -->
       <td>8. Python HOFs, Lambdas, and Tree Recursion</td> <!-- Discussion -->
       <td>HW5: OOP Practice due, release Final Project</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 7/26</th> <!-- Date -->
       <td>18. Social Implications</td> <!-- Lecture -->
-      <td>15. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment">Text Processing</a></td> <!-- Lab -->
+      <td>15. Text Processing</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
