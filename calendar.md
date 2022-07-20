@@ -179,7 +179,8 @@
     <tr>
       <td rowspan=5>5</td>
       <th>Mon 7/18</th> <!-- Date -->
-      <td>14. List Mutation</td> <!-- Lecture -->
+      <td>14. List Mutation<a href="https://drive.google.com/file/d/1fR-64L3KBx2QMpMVj0WNuoqHYEDdpxBG/view?usp=sharing">(slides)</a> <a href="https://youtu.be/dFeOwjnigfY">(recording)</a></td> <!-- Lecture -->
+      <td> <!-- Lecture -->
       <td>13. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">Data Structures in Python</a></td> <!-- Lab -->
       <td>6. Python Data Structures<br/>
       <a href="https://drive.google.com/file/d/1FoN-pIy5pIASJ1Da4VDlbh4pl6I6Mh_O/view?usp=sharing">Worksheet</a><br/>
