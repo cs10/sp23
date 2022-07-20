@@ -227,7 +227,7 @@
     <tr>
       <th>Tue 7/26</th> <!-- Date -->
       <td>18. Social Implications</td> <!-- Lecture -->
-      <td>15. Text Processing</td> <!-- Lab -->
+      <td>15. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment">Text Processing</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
