@@ -189,14 +189,15 @@
     </tr>
     <tr>
       <th>Tue 7/19</th> <!-- Date -->
-      <td>15. Python III: OOP</td> <!-- Lecture -->
+      <td>15. Python III: OOP<a
+      href= "https://docs.google.com/presentation/d/1TcOzK1LNdyLW9XGJ0OvFHhZtM9NcQ1lUvUucCZkYEBw/edit?usp=sharing">(slides)</a></td><!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>HW4: Snap to Python Translation due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 7/20 </th> <!-- Date -->
-      <td>16. Python IV: HOFs<a href="https://docs.google.com/presentation/d/1FNTlONTL7TO_MV0SZh8pR-yXHTpzuuDMHlY3g0esvPk/edit?usp=sharing">(sides)</a></td> <!-- Lecture -->
+      <td>16. Python IV: HOFs<a href="https://docs.google.com/presentation/d/1FNTlONTL7TO_MV0SZh8pR-yXHTpzuuDMHlY3g0esvPk/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td>14. <a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">OOP</a></td> <!-- Lab -->
       <td>7. OOP<br/>
       <a href="https://drive.google.com/file/d/1Wj9n6TCkD_1GvKcZpB6dJt-OQczEh7VH/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
