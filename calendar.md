@@ -207,7 +207,7 @@
     </tr>
     <tr>
       <th>Thur 7/21</th> <!-- Date -->
-      <td>17. Python V: OOP Part 3 + HOFs</td> <!-- Lecture -->
+      <td>17. Python V: OOP Part 3 + HOFs<a href="https://docs.google.com/presentation/d/14DYuRya0E3lHc4AlDfgcgk8bgXsT2fmMUGsvioAHciA/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release Final Project Propasal released</td> <!-- Assignment -->
