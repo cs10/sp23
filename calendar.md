@@ -200,7 +200,9 @@
       <td>16. Python IV: OOP Part 2<a href="https://docs.google.com/presentation/d/1FNTlONTL7TO_MV0SZh8pR-yXHTpzuuDMHlY3g0esvPk/edit?usp=sharing">(slides)</a> <a href="https://youtu.be/_vq4r6WAy1Q">(recording)</a></td> <!-- Lecture -->
       <td>14. <a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">OOP</a></td> <!-- Lab -->
       <td>7. OOP<br/>
-      <a href="https://drive.google.com/file/d/1Wj9n6TCkD_1GvKcZpB6dJt-OQczEh7VH/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
+      <a href="https://drive.google.com/file/d/1Wj9n6TCkD_1GvKcZpB6dJt-OQczEh7VH/view?usp=sharing">Worksheet</a><br/>
+      <a href="https://docs.google.com/presentation/d/14OjqmsZ70PY5CoCgkBdLZf_a5-0S1h5sQOoq64h7zs4/edit?usp=sharing">Slides</a><br/>
+      <a href="https://drive.google.com/file/d/1AUHeWEe-CMenEDf920ySd3Ywic845rlc/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
       <td>release HW5: OOP Practice</td> <!-- Assignment -->
     </tr>
     <tr>
