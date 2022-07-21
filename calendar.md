@@ -203,14 +203,14 @@
       <a href="https://drive.google.com/file/d/1Wj9n6TCkD_1GvKcZpB6dJt-OQczEh7VH/view?usp=sharing">Worksheet</a><br/>
       <a href="https://docs.google.com/presentation/d/14OjqmsZ70PY5CoCgkBdLZf_a5-0S1h5sQOoq64h7zs4/edit?usp=sharing">Slides</a><br/>
       <a href="https://drive.google.com/file/d/1AUHeWEe-CMenEDf920ySd3Ywic845rlc/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
-      <td>release HW5: OOP Practice</td> <!-- Assignment -->
+      <td>release <a href="https://docs.google.com/document/u/0/d/1TOZFy8T__bGBxjSRTsLUsKAk0iNoP1hRPeNLzDycyH8/edit">HW5: OOP Practice</a></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 7/21</th> <!-- Date -->
       <td>17. Python V: OOP Part 3 + HOFs<a href="https://docs.google.com/presentation/d/14DYuRya0E3lHc4AlDfgcgk8bgXsT2fmMUGsvioAHciA/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release Final Project Propasal released</td> <!-- Assignment -->
+      <td>release <a href="https://docs.google.com/document/u/0/d/1AGOYzckzUMD4C_CVb6imQjMBvQQd353GUpzEg_ZLhSo/edit">Final Project Propasal</a></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 7/22</th> <!-- Date -->
