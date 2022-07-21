@@ -245,7 +245,7 @@
     <tr>
       <th>Thur 7/28</th> <!-- Date -->
       <td>20. Guest Lecture</td> <!-- Lecture -->
-      <td>16. Data Science</td> <!-- Lab -->
+      <td>16. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment">Data Science</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
