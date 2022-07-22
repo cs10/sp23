@@ -207,7 +207,7 @@
     </tr>
     <tr>
       <th>Thur 7/21</th> <!-- Date -->
-      <td>17. Python V: OOP Part 3 + HOFs<a href="https://docs.google.com/presentation/d/14DYuRya0E3lHc4AlDfgcgk8bgXsT2fmMUGsvioAHciA/edit?usp=sharing">(slides)</a><a href="https://youtu.be/cql3v-WBysw"> (recording)</td> <!-- Lecture -->
+      <td>17. Python V: OOP Part 3 + HOFs<a href="https://docs.google.com/presentation/d/14DYuRya0E3lHc4AlDfgcgk8bgXsT2fmMUGsvioAHciA/edit?usp=sharing">(slides)</a><a href="https://youtu.be/cql3v-WBysw"> (recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release <a href="https://docs.google.com/document/u/0/d/1AGOYzckzUMD4C_CVb6imQjMBvQQd353GUpzEg_ZLhSo/edit">Final Project Propasal</a></td> <!-- Assignment -->
@@ -224,7 +224,7 @@
       <td rowspan=5>6</td>
       <th>Mon 7/25</th> <!-- Date -->
       <td>17. Python 5: Tree Recursion+</td> <!-- Lecture -->
-      <td></td>  HW5 Workday <!-- Lab -->
+      <td></td>  Project Proposal Reviews + HW5 Workday <!-- Lab -->
       <td>8. Python HOFs, Lambdas, and Tree Recursion</td> <!-- Discussion -->
       <td>HW5: OOP Practice due, release Final Project</td> <!-- Assignment -->
     </tr>
