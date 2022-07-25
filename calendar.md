@@ -225,7 +225,8 @@
       <th>Mon 7/25</th> <!-- Date -->
       <td>17. Python 5: Tree Recursion+</td> <!-- Lecture -->
       <td></td>  Project Proposal Reviews + HW5 Workday <!-- Lab -->
-      <td>8. Python HOFs, Lambdas, and Tree Recursion</td> <!-- Discussion -->
+      <td>8. Lambdas and Number Representation<br/>
+      <a href="https://drive.google.com/file/d/1SEdY3uqb8Da9O_-5a_LGRD5xBPAI-7m8/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
       <td>HW5: OOP Practice due, release Final Project</td> <!-- Assignment -->
     </tr>
     <tr>
@@ -237,9 +238,9 @@
     </tr>
     <tr>
       <th>Wed 7/27 </th> <!-- Date -->
-      <td>19. Number Representation</td> <!-- Lecture -->
+      <td>19. Python 5: Tree Recursion+</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
-      <td>9. Number Representation</td> <!-- Discussion -->
+      <td>9. Python HOFs and Tree Recursion</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
