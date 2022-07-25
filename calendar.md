@@ -261,7 +261,7 @@
     <tr>
       <td rowspan=5>7</td>
       <th>Mon 8/01</th> <!-- Date -->
-      <td>21. Concurrency</td> <!-- Lecture -->
+      <td>21. <a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">Concurrency</a></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>10. Concurrency</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
