@@ -223,7 +223,7 @@
     <tr>
       <td rowspan=5>6</td>
       <th>Mon 7/25</th> <!-- Date -->
-      <td>17. Python 5: Tree Recursion+</td> <!-- Lecture -->
+      <td>18. Number Representation<a href="https://docs.google.com/presentation/d/1o8lMChyXM5Vmh3Ek_xDZ-T5ZgKgglyWYvk_lSVLdcGE/edit#slide=id.g13e9332cfcc_0_481">(slides)</a></td> <!-- Lecture -->
       <td></td>  Project Proposal Reviews + HW5 Workday <!-- Lab -->
       <td>8. Lambdas and Number Representation<br/>
       <a href="https://drive.google.com/file/d/1SEdY3uqb8Da9O_-5a_LGRD5xBPAI-7m8/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
