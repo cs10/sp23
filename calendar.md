@@ -233,7 +233,7 @@
     </tr>
     <tr>
       <th>Tue 7/26</th> <!-- Date -->
-      <td>18. Social Implications</td> <!-- Lecture -->
+      <td>18. Social Implications<a href="https://docs.google.com/presentation/d/18G6nN0dyOE3hEApvGv53O2QftfLQYp-cHjq9z3V93so/edit#slide=id.g1212d069d8f_0_164">(slides)</a></td> <!-- Lecture -->
       <td>15. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment">Text Processing</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
