@@ -226,7 +226,7 @@
       <td>18. Number Representation<a href="https://docs.google.com/presentation/d/1o8lMChyXM5Vmh3Ek_xDZ-T5ZgKgglyWYvk_lSVLdcGE/edit#slide=id.g13e9332cfcc_0_481">(slides)</a> <a href="https://youtu.be/wXKwNx4p-Ko">(recording)</a></td> <!-- Lecture -->
       <td></td>  Project Proposal Reviews + HW5 Workday <!-- Lab -->
       <td>8. Lambdas and Number Representation<br/>
-      <a href="https://drive.google.com/file/d/1SEdY3uqb8Da9O_-5a_LGRD5xBPAI-7m8/view?usp=sharing">Worksheet</a>
+      <a href="https://drive.google.com/file/d/1SEdY3uqb8Da9O_-5a_LGRD5xBPAI-7m8/view?usp=sharing">Worksheet</a><br/>
       <a href="https://docs.google.com/presentation/d/1YwRLCWyKFv1Phk9KW2u1zKMAR_YECRlIO6l5WsnWLnA/edit?usp=sharing">Slides</a><br/>
       <a href="https://drive.google.com/file/d/17IkIC_uG5ax-9CBJcu-b4DSQ70L-gFw1/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
       <td>HW5: OOP Practice due, release Final Project</td> <!-- Assignment -->
