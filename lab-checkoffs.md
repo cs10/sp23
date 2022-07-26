@@ -78,8 +78,8 @@ labs:
       - Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?
       - Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?
       - What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
-      - Please show me your “snowflake” block.
-      - Please show me your “crazy-tree” block.
+      - Please show me your `snowflake` block.
+      - Please show me your `crazy-tree` block.
   - lab_name: Testing + Homework 3
     lab_no: 9
     topic_file: berkeley_bjc/2048-testing/2048.topic
@@ -101,17 +101,17 @@ labs:
     lab_no: 11
     topic_file: berkeley_bjc/lists/tic-tac-toe.topic
     questions:
-    - Why did we have variables like “Size”, “Start”, and “Display Width” when designing our board? What do they do?
+    - Why did we have variables like `Size`, `Start`, and `Display Width` when designing our board? What do they do?
     - Explain an advantage of using an underlying board structure when designing a game.
     - Show your working board game by moving the sprite around the board and clicking to place bugs.
   - lab_name: Welcome to Python
     lab_no: 12
     topic_file: berkeley_bjc/python/besides-blocks-welcome-parsons.topic
     questions:
-    - What is the difference between the "python", "python file.py", and "python -i file.py" terminal commands?
-    - What is the difference between the "print" and "return" python commands?
-    - Show your "reverse_string(string)" function. If you implemented it iteratively, explain the recursive solution. If you implemented it recursively, explain the iterative solution.
-    - Show your "palindrome(string)" function.
+    - What is the difference between the `python`, `python file.py`, and `python -i file.py` terminal commands?
+    - What is the difference between the `print` and `return` Python commands?
+    - Show your `reverse_string(string)`` function. If you implemented it iteratively, explain the recursive solution. If you implemented it recursively, explain the iterative solution.
+    - Show your `palindrome(string)` function.
     - Show your c-curve function and its output.
   - lab_name: Data Structures in Python
     lab_no: 13
@@ -136,9 +136,9 @@ labs:
     questions:
     - What are the arguments of the "open" function and what does it return?
     - How do we choose how something is sorted when using the "sorted" function in Python?
-    - Show us your "izzle" function.
-    - Show us your "top_n_words" and "print_top_n_words" functions.
-    - Show us your "apply_language_game" function.
+    - Show us your `izzle` or `pig_latin` function.
+    - Show us your `top_n_words` and "print_top_n_words" functions.
+    - Show us your `apply_language_game` function.
   - lab_name: Data Science
     lab_no: 16
     topic_file: berkeley_bjc/python/data-lab.topic
