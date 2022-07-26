@@ -261,7 +261,7 @@
     <tr>
       <td rowspan=5>7</td>
       <th>Mon 8/01</th> <!-- Date -->
-      <td>21. <a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">Concurrency</a></td> <!-- Lecture -->
+      <td>21. Concurrency</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>10. Concurrency</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -269,7 +269,7 @@
     <tr>
       <th>Tue 8/02</th> <!-- Date -->
       <td>22. Guest Lecture</td> <!-- Lecture -->
-      <td>17. Concurrency</td> <!-- Lab -->
+      <td>17. <a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">Concurrency</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
