@@ -242,7 +242,8 @@
       <th>Wed 7/27 </th> <!-- Date -->
       <td>19. Python 5: Tree Recursion+</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
-      <td>9. Python HOFs and Tree Recursion</td> <!-- Discussion -->
+      <td>9. Python HOFs and Tree Recursion<br/>
+      <a href="https://drive.google.com/drive/folders/1rEwcyE8s-Z0iwPCUtAF3ZJBVleA76ncM?usp=sharing">Worksheet</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
