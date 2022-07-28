@@ -264,28 +264,28 @@
     <tr>
       <td rowspan=5>7</td>
       <th>Mon 8/01</th> <!-- Date -->
-      <td>21. Concurrency</td> <!-- Lecture -->
+      <td>22. Concurrency</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>10. Concurrency</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 8/02</th> <!-- Date -->
-      <td>22. Guest Lecture</td> <!-- Lecture -->
+      <td>23. Guest Lecture</td> <!-- Lecture -->
       <td>17. <a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">Concurrency</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 8/03 </th> <!-- Date -->
-      <td>23. Alumni Panel</td> <!-- Lecture -->
+      <td>24. Alumni Panel</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>11. Final Review</td> <!-- Discussion -->
       <td></td><!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 8/04</th> <!-- Date -->
-      <td>24. Conclusion and Farewell</td> <!-- Lecture -->
+      <td>25. Conclusion and Farewell</td> <!-- Lecture -->
       <td>In-Lab Final</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Final Project due</td> <!-- Assignment -->
