@@ -233,14 +233,14 @@
     </tr>
     <tr>
       <th>Tue 7/26</th> <!-- Date -->
-      <td>18. Social Implications<a href="https://docs.google.com/presentation/d/18G6nN0dyOE3hEApvGv53O2QftfLQYp-cHjq9z3V93so/edit#slide=id.g1212d069d8f_0_164">(slides)</a> <a href="https://youtu.be/shmILnoIphE">(recording)</a></td> <!-- Lecture -->
+      <td>19. Social Implications<a href="https://docs.google.com/presentation/d/18G6nN0dyOE3hEApvGv53O2QftfLQYp-cHjq9z3V93so/edit#slide=id.g1212d069d8f_0_164">(slides)</a> <a href="https://youtu.be/shmILnoIphE">(recording)</a></td> <!-- Lecture -->
       <td>15. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment">Text Processing</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 7/27 </th> <!-- Date -->
-      <td>19. Python 5: Tree Recursion <a href="https://docs.google.com/presentation/d/1U4PP_s_DY6uijMIO8yCkprwXs8uDrFUwFN-n8XkqknQ/edit?usp=sharing">(slides)</a> <a href="https://youtu.be/-LCD09QxCac">(recording)</a></td> <!-- Lecture -->
+      <td>20. Python 5: Tree Recursion <a href="https://docs.google.com/presentation/d/1U4PP_s_DY6uijMIO8yCkprwXs8uDrFUwFN-n8XkqknQ/edit?usp=sharing">(slides)</a> <a href="https://youtu.be/-LCD09QxCac">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>9. Python HOFs and Tree Recursion<br/>
       <a href="https://drive.google.com/file/d/1S8gp2j67CyC_jPd7lCLZne31iD0x8WfU/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
@@ -248,7 +248,7 @@
     </tr>
     <tr>
       <th>Thur 7/28</th> <!-- Date -->
-      <td>20. Guest Lecture: "A closer look- dictionaries, logic, number rep."</td> <!-- Lecture -->
+      <td>21. Guest Lecture: "A closer look- dictionaries, logic, number rep."</td> <!-- Lecture -->
       <td>16. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment">Data Science</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
