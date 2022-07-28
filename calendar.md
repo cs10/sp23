@@ -240,7 +240,7 @@
     </tr>
     <tr>
       <th>Wed 7/27 </th> <!-- Date -->
-      <td>19. Python 5: Tree Recursion+</td> <!-- Lecture -->
+      <td>19. Python 5: Tree Recursion <a href="https://docs.google.com/presentation/d/1U4PP_s_DY6uijMIO8yCkprwXs8uDrFUwFN-n8XkqknQ/edit?usp=sharing">(slides)</a> <a href="https://youtu.be/-LCD09QxCac">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>9. Python HOFs and Tree Recursion<br/>
       <a href="https://drive.google.com/file/d/1S8gp2j67CyC_jPd7lCLZne31iD0x8WfU/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
