@@ -243,8 +243,8 @@
       <td>20. Python 5: Tree Recursion <a href="https://docs.google.com/presentation/d/1U4PP_s_DY6uijMIO8yCkprwXs8uDrFUwFN-n8XkqknQ/edit?usp=sharing">(slides)</a> <a href="https://youtu.be/-LCD09QxCac">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>9. Python HOFs and Tree Recursion<br/>
-      <a href="https://drive.google.com/file/d/1u0WodSL4CgDSmXnl1wBVknsb04XMBYeb/view?usp=sharing">Worksheet</a>
-      <a href="https://docs.google.com/presentation/d/1HfUoFFqruaRKomCRN2xWzB0PwiAM4Rv39vXVDmhXfSE/edit?usp=sharing">Slides</a>
+      <a href="https://drive.google.com/file/d/1u0WodSL4CgDSmXnl1wBVknsb04XMBYeb/view?usp=sharing">Worksheet</a><br/>
+      <a href="https://docs.google.com/presentation/d/1HfUoFFqruaRKomCRN2xWzB0PwiAM4Rv39vXVDmhXfSE/edit?usp=sharing">Slides</a><br/>
       <a href="https://drive.google.com/file/d/1fkoEAlR8RjMyRaEz4l8DgJoPg87tsvP_/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
