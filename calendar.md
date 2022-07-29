@@ -233,14 +233,14 @@
     </tr>
     <tr>
       <th>Tue 7/26</th> <!-- Date -->
-      <td>18. Social Implications<a href="https://docs.google.com/presentation/d/18G6nN0dyOE3hEApvGv53O2QftfLQYp-cHjq9z3V93so/edit#slide=id.g1212d069d8f_0_164">(slides)</a></td> <!-- Lecture -->
+      <td>19. Social Implications<a href="https://docs.google.com/presentation/d/18G6nN0dyOE3hEApvGv53O2QftfLQYp-cHjq9z3V93so/edit#slide=id.g1212d069d8f_0_164">(slides)</a> <a href="https://youtu.be/shmILnoIphE">(recording)</a></td> <!-- Lecture -->
       <td>15. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment">Text Processing</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 7/27 </th> <!-- Date -->
-      <td>19. Python 5: Tree Recursion+</td> <!-- Lecture -->
+      <td>20. Python 5: Tree Recursion <a href="https://docs.google.com/presentation/d/1U4PP_s_DY6uijMIO8yCkprwXs8uDrFUwFN-n8XkqknQ/edit?usp=sharing">(slides)</a> <a href="https://youtu.be/-LCD09QxCac">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>9. Python HOFs and Tree Recursion<br/>
       <a href="https://drive.google.com/file/d/1u0WodSL4CgDSmXnl1wBVknsb04XMBYeb/view?usp=sharing">Worksheet</a>
@@ -250,7 +250,7 @@
     </tr>
     <tr>
       <th>Thur 7/28</th> <!-- Date -->
-      <td>20. Guest Lecture</td> <!-- Lecture -->
+      <td>21. Guest Lecture: "A closer look- dictionaries, logic, number rep."</td> <!-- Lecture -->
       <td>16. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment">Data Science</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -266,28 +266,28 @@
     <tr>
       <td rowspan=5>7</td>
       <th>Mon 8/01</th> <!-- Date -->
-      <td>21. Concurrency</td> <!-- Lecture -->
+      <td>22. Concurrency</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>10. Concurrency</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 8/02</th> <!-- Date -->
-      <td>22. Guest Lecture</td> <!-- Lecture -->
+      <td>23. Guest Lecture</td> <!-- Lecture -->
       <td>17. <a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">Concurrency</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 8/03 </th> <!-- Date -->
-      <td>23. Alumni Panel</td> <!-- Lecture -->
+      <td>24. Alumni Panel</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>11. Final Review</td> <!-- Discussion -->
       <td></td><!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 8/04</th> <!-- Date -->
-      <td>24. Conclusion and Farewell</td> <!-- Lecture -->
+      <td>25. Conclusion and Farewell</td> <!-- Lecture -->
       <td>In-Lab Final</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Final Project due</td> <!-- Assignment -->
