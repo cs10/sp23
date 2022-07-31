@@ -251,7 +251,7 @@
     <tr>
       <th>Thur 7/28</th> <!-- Date -->
       <td>21. Guest Lecture: "A closer look- dictionaries, logic, number rep."<a 
-      href="https://drive.google.com/file/d/16nJ8KNDb3PA0lg2Kpg5qxySbNd1C-FeP/view?usp=sharing">(slides)</a> <a href="https://youtu.be/Mp7uOFVJopU">(recording)</a></td> <!-- Lecture -->
+      href="https://drive.google.com/file/d/16nJ8KNDb3PA0lg2Kpg5qxySbNd1C-FeP/view?usp=sharing">(slides)</a> <a href="https://youtu.be/-MV_1bfDuYM">(recording)</a></td> <!-- Lecture -->
       <td>16. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment">Data Science</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
