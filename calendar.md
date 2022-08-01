@@ -270,7 +270,7 @@
       <td>22. Concurrency</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>10. Concurrency + Final Review I<br/>
-      <a href="https://drive.google.com/file/d/11aECDaZSZRuTDl2zRMHFoARfM9L0OZPK/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
+      <a href="https://drive.google.com/file/d/1haTQ_iTIfPAgjhoKblUIoKzY1_RUly18/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
