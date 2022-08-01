@@ -250,7 +250,7 @@
     </tr>
     <tr>
       <th>Thur 7/28</th> <!-- Date -->
-      <td>21. Guest Lecture: "A closer look- dictionaries, logic, number rep."<a 
+      <td>21. Guest Lecture: "A closer look- dictionaries, logic, number rep."<a
       href="https://drive.google.com/file/d/16nJ8KNDb3PA0lg2Kpg5qxySbNd1C-FeP/view?usp=sharing">(slides)</a> <a href="https://youtu.be/-MV_1bfDuYM">(recording)</a></td> <!-- Lecture -->
       <td>16. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment">Data Science</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -269,7 +269,8 @@
       <th>Mon 8/01</th> <!-- Date -->
       <td>22. Concurrency</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
-      <td>10. Concurrency</td> <!-- Discussion -->
+      <td>10. Concurrency + Final Review I<br/>
+      <a href="https://drive.google.com/file/d/11aECDaZSZRuTDl2zRMHFoARfM9L0OZPK/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -283,7 +284,7 @@
       <th>Wed 8/03 </th> <!-- Date -->
       <td>24. Alumni Panel</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
-      <td>11. Final Review</td> <!-- Discussion -->
+      <td>11. Final Review II</td> <!-- Discussion -->
       <td></td><!-- Assignment -->
     </tr>
     <tr>
