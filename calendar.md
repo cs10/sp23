@@ -267,7 +267,7 @@
     <tr>
       <td rowspan=5>7</td>
       <th>Mon 8/01</th> <!-- Date -->
-      <td>22. Concurrency</td> <!-- Lecture -->
+      <td>22. Concurrency<a href="https://docs.google.com/presentation/d/1QqtGnbwCsNxb0cH7ttJYY978HIyu-uryeg_TCPlL05Y/edit?usp=sharing">(slides)</a> <a href="https://youtu.be/PGVEPRAYJ0I">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>10. Concurrency + Final Review I<br/>
       <a href="https://drive.google.com/file/d/1pO0iUO6jKAS-tIsgYlxlUjfpHMS5Db_8/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
