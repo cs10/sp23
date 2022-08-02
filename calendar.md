@@ -275,7 +275,7 @@
     </tr>
     <tr>
       <th>Tue 8/02</th> <!-- Date -->
-      <td>23. Guest Lecture</td> <!-- Lecture -->
+      <td>23. Guest Lecture: ML/Deep Learning and Seal Monitoring <a href="https://docs.google.com/presentation/d/1knXOYgLYAZAKBy1Ru5bCV9M_6N2tNGJJ6BZCcBAXhb4/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td>17. <a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">Concurrency</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
