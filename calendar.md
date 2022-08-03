@@ -271,7 +271,7 @@
       <td></td> <!-- Lab -->
       <td>10. Concurrency + Final Review I<br/>
       <a href="https://drive.google.com/file/d/1pO0iUO6jKAS-tIsgYlxlUjfpHMS5Db_8/view?usp=sharing">Worksheet</a><br/>
-      <a href="https://drive.google.com/file/d/1bc2w794WSK_p__QqyNgxz701leq0ez9W/view?usp=sharing">Solutionz</a></td> <!-- Discussion -->
+      <a href="https://drive.google.com/file/d/1bc2w794WSK_p__QqyNgxz701leq0ez9W/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
