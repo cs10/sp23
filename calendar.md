@@ -270,7 +270,8 @@
       <td>22. Concurrency</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>10. Concurrency + Final Review I<br/>
-      <a href="https://drive.google.com/file/d/1pO0iUO6jKAS-tIsgYlxlUjfpHMS5Db_8/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
+      <a href="https://drive.google.com/file/d/1pO0iUO6jKAS-tIsgYlxlUjfpHMS5Db_8/view?usp=sharing">Worksheet</a><br/>
+      <a href="https://drive.google.com/file/d/1bc2w794WSK_p__QqyNgxz701leq0ez9W/view?usp=sharing">Solutionz</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -284,7 +285,8 @@
       <th>Wed 8/03 </th> <!-- Date -->
       <td>24. Alumni Panel</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
-      <td>11. Final Review II</td> <!-- Discussion -->
+      <td>11. Final Review II<br/>
+      <a href="https://drive.google.com/file/d/1FXZlhyBpjupvwPLnRWJ5OwDjbvD7Mo8L/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
       <td></td><!-- Assignment -->
     </tr>
     <tr>
