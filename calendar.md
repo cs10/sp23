@@ -291,7 +291,7 @@
     </tr>
     <tr>
       <th>Thur 8/04</th> <!-- Date -->
-      <td>25. Conclusion and Farewell</td> <!-- Lecture -->
+      <td>25. Conclusion and Farewell<a href="https://docs.google.com/presentation/d/11dPL4hFnQ-Zzkxz85KgdRflBD379G7f9VObeHDNQ1gY/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td>In-Lab Final</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Final Project due</td> <!-- Assignment -->
