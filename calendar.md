@@ -276,22 +276,23 @@
     </tr>
     <tr>
       <th>Tue 8/02</th> <!-- Date -->
-      <td>23. Guest Lecture: ML/Deep Learning and Seal Monitoring <a href="https://docs.google.com/presentation/d/1knXOYgLYAZAKBy1Ru5bCV9M_6N2tNGJJ6BZCcBAXhb4/edit?usp=sharing">(slides)</a> <a href="https://youtu.be/LsvcWLSek2A">(recording)</a></td> <!-- Lecture -->
+      <td>23. Guest Lecture: ML/Deep Learning and Seal Monitoring <a href="https://docs.google.com/presentation/d/1knXOYgLYAZAKBy1Ru5bCV9M_6N2tNGJJ6BZCcBAXhb4/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td>17. <a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">Concurrency</a></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 8/03 </th> <!-- Date -->
-      <td>24. Alumni Panel<a href="https://docs.google.com/presentation/d/16VVSUqmxcQJtGMuV7HW_BrTtKcW50jyUhlDfbe6qSjQ/edit?usp=sharing">(slides)</a> <a href="https://youtu.be/cL_WuyqZbtQ">(recording)</a></td> <!-- Lecture -->
+      <td>24. Alumni Panel</td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>11. Final Review II<br/>
-      <a href="https://drive.google.com/file/d/1FXZlhyBpjupvwPLnRWJ5OwDjbvD7Mo8L/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
+      <a href="https://drive.google.com/file/d/1FXZlhyBpjupvwPLnRWJ5OwDjbvD7Mo8L/view?usp=sharing">Worksheet</a><br/>
+      <a href="https://drive.google.com/file/d/1hHYfpNymJ9D1r0FaZCDD65kh2ijLuj26/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
       <td></td><!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 8/04</th> <!-- Date -->
-      <td>25. Conclusion and Farewell<a href="https://docs.google.com/presentation/d/11dPL4hFnQ-Zzkxz85KgdRflBD379G7f9VObeHDNQ1gY/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td>25. Conclusion and Farewell</td> <!-- Lecture -->
       <td>In-Lab Final</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Final Project due</td> <!-- Assignment -->
