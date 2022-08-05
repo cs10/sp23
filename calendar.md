@@ -286,7 +286,8 @@
       <td>24. Alumni Panel<a href="https://docs.google.com/presentation/d/16VVSUqmxcQJtGMuV7HW_BrTtKcW50jyUhlDfbe6qSjQ/edit?usp=sharing">(slides)</a> <a href="https://youtu.be/cL_WuyqZbtQ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Lab -->
       <td>11. Final Review II<br/>
-      <a href="https://drive.google.com/file/d/1FXZlhyBpjupvwPLnRWJ5OwDjbvD7Mo8L/view?usp=sharing">Worksheet</a></td> <!-- Discussion -->
+      <a href="https://drive.google.com/file/d/1FXZlhyBpjupvwPLnRWJ5OwDjbvD7Mo8L/view?usp=sharing">Worksheet</a><br/>
+      <a href="https://drive.google.com/file/d/1hHYfpNymJ9D1r0FaZCDD65kh2ijLuj26/view?usp=sharing">Solutions</a></td> <!-- Discussion -->
       <td></td><!-- Assignment -->
     </tr>
     <tr>
