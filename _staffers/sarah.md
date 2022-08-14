@@ -1,6 +1,6 @@
 ---
 name: Sarah Taylor (she/her)
-role: Reader
+role: TA
 email: 20sgtaylor@berkeley.edu
 website:
 photo: sarah.jpg
