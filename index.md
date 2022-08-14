@@ -7,7 +7,7 @@ nav_order: 1
 
 # **CS 10: The Beauty and Joy of Computing**
 {: .mb-2 }
-UC Berkeley, Fall 2022
+UC Berkeley, Fall 2022 **[Under Construction]**
 {: .mb-2 .fs-6 .text-grey-dk-100 }
 
 {{ site.description }}
