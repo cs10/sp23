@@ -1,7 +1,7 @@
-title: CS10 Summer 2022
+title: CS10 Fall 2022
 tagline:
 description: A gentle but thorough introduction to computer science.
-author: Madeleine LaBute
+author: Vedansh Malhotra
 baseurl: /su22 # the subpath of your site, e.g. /blog
 url: https://cs10.org
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
@@ -10,7 +10,7 @@ logo: "./assets/images/bjc.png"
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
-color_scheme: light
+color_scheme: dark
 search_enabled: true
 heading_anchors: true
 permalink: pretty
