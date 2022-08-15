@@ -1,7 +1,7 @@
 ---
 name: Vedansh Malhotra
 role: Head TA
-email:
+email: vedansh@berkeley.edu
 website: https://www.linkedin.com/in/vedanshmalhotra/
 photo: vedansh.png
 ---
