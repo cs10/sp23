@@ -6,6 +6,7 @@ nav_order: 10
 ---
 
 # Staff
+### Add 'berkeley.edu' in front of all emails. 
 
 ## Instructors
 
