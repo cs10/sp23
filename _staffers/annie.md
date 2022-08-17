@@ -2,7 +2,7 @@
 name: Annie Miller
 role: Reader
 email: anniemiller@
-website: www.linkedin.com/in/anniemiller0
+website: https://www.linkedin.com/in/anniemiller0/
 photo: annie.jpg
 ---
 
