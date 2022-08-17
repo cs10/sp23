@@ -1,7 +1,7 @@
 ---
 name: Sarah Taylor (she/her)
 role: TA
-email: 20sgtaylor@berkeley.edu
+email: 20sgtaylor@
 website:
 photo: sarah.jpg
 ---
