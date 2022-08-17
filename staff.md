@@ -8,7 +8,7 @@ nav_order: 10
 # Staff
 ### Add 'berkeley.edu' to the end of all emails. 
 
-## Instructors
+## Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
