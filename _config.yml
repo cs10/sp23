@@ -2,7 +2,7 @@ title: CS10 Fall 2022
 tagline:
 description: A gentle but thorough introduction to computer science.
 author: Vedansh Malhotra
-baseurl: /su22 # the subpath of your site, e.g. /blog
+baseurl: /fa22 # the subpath of your site, e.g. /blog
 url: https://cs10.org
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -20,9 +20,9 @@ external_navigation:
   - title: Snap!
     url: https://snap.berkeley.edu/
   - title: Ed Discussion
-    url: https://edstem.org/us/courses/23249/discussion/
+    url: https://edstem.org/us/courses/25159/discussion/
   - title: Gradescope
-    url: https://www.gradescope.com/courses/404659/
+    url: https://www.gradescope.com/courses/419007/
   - title: Ohyay
     url: https://ohyay.co/s/cs10/
 footer_content:
