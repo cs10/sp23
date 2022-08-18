@@ -13,7 +13,7 @@ UC Berkeley, Fall 2022 **[Under Construction]**
 {{ site.description }}
 {: .mb-2 .fs-5 }
 
-**Instructor:** Professor Dan Garcia
+**Instructor:** Teaching Professor Dan Garcia
 {: .fs-4 }
 
 <div class="d-flex">  <!-- TODO: put alonzo on the right handside -->

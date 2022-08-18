@@ -1,5 +1,5 @@
 ---
-name: Dan Garcia
+name: Teaching Professor Dan Garcia
 role: Instructor
 email: ddgarcia@
 website: https://people.eecs.berkeley.edu/~ddgarcia/
