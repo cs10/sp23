@@ -23,7 +23,7 @@ Welcome to CS10: The Beauty and Joy of Computing! We’re really excited to have
 
 ## Platforms
 
-This Summer, CS10 will be be primarily in person, but we will be able to provide remote accommodations as needed:
+This Fall, CS10 will be be primarily in person, but we will be able to provide remote accommodations as needed:
 
 * **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org
 * **Ed**: This will be our main Q&A platform, where you can ask questions, see announcements, and participate in our meme contest (yes, a meme contest).
