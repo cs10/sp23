@@ -19,7 +19,7 @@ description: >-
 
 ## Welcome
 
-Welcome to CS10: The Beauty and Joy of Computing! We’re really excited to have you on board with us this Summer for a gentle but thorough introduction to computer science. Our course will start out in the blocks-based language Snap<em>!</em>, but will transition into Python once you have learned some fundamentals of programming. By the end of the class, we hope you walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue.
+Welcome to CS10: The Beauty and Joy of Computing! We’re really excited to have you on board with us this Fall for a gentle but thorough introduction to computer science. Our course will start out in the blocks-based language Snap<em>!</em>, but will transition into Python once you have learned some fundamentals of programming. By the end of the class, we hope you walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue.
 
 ## Platforms
 
@@ -27,25 +27,26 @@ This Summer, CS10 will be be primarily in person, but we will be able to provide
 
 * **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org
 * **Ed**: This will be our main Q&A platform, where you can ask questions, see announcements, and participate in our meme contest (yes, a meme contest).
-* **Gradescope**: This is where you will submit homeworks, the Final Project, and lecture self-checks.
-* **Zoom**: Lectures (when remote) will be held via Zoom.
-* **OhYay**:  Online lab sections and office hours will be held via Ohyay. Ohyay is a new tool which lets us build some interactive spaces.
+* **Gradescope**: This is where you will submit Reading Quizzes, Project 4, and the Final Project.
+* **Zoom**: [FIXME] Lectures (when remote) will be held via Zoom.
+* **OhYay**:  Hybrid lab sections and office hours will be held via Ohyay. Ohyay is a new tool which lets us build some interactive spaces.
+* **PrarieLearn**: The three exams: Quest, Midterm, and Final will be administered via PrarieLearn. You will also submit Projects 1-3 and Project 5 here. 
 
 ## Primary Course Components
 
-* **Lecture**: Lecture will be live and in person in HP Auditorium (306 Soda Hall). Lecture recordings will also be posted on cs10.org after class. Lecture introduces concepts and gives you and overview of what is happening in labs and discussions. Each lecture will be followed with self-check questions which you can answer online via Gradescope. Self-checks will be very short assignments that shouldn't take you more than 10-15 minutes. Each one will be due at 11:59pm the day after its corresponding lecture, giving you a little over 24 hours to complete them. These are mainly there to ensure you are understanding at a basic level what is being taught in lecture and to help you stay caught up in the class. There will be 24 total self-checks, but only your top 20 will be counted toward your grade (e.g. you get 4 lecture self-check drops).
+* **Lecture**: Lecture will be live and in person in HP Auditorium (306 Soda Hall). Lecture will also be live-cast [FIXME] and recordings will also be posted on cs10.org after class. Lecture introduces concepts and gives you and overview of what is happening in labs and discussions. 
 
-* **Lab Sections**: Labs will be held synchronously and are the primary place you will learn to program. Attendance is not mandatory, though we highly recommend you attend each one and get your labs checked off before the start of the next lab section. To earn full credit for a lab, it must be completed, submitted, and checked off. Checkoff can be done either in lab or in office hours. If you have a special circumstance where you are unable to check-off a lab, please email cs10@berkeley.edu. Each lab will be due by the end of the following lab day (a lab assigned at the beginning of Monday's lab will be due by the end of Tuesday). Thursday labs will be due by the end of the following Monday. There will be 17 total labs — but only your top 16 lab scores will count towards your grade (e.g. you get one lab drop). Each lab is worth 2.5 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 1 point will be deducted for any given lab. You should plan on attending the lab you sign up for the entire term, but you may attend other lab sections to get checked off or get extra help.
+* **Lab Sections**: Labs will be held synchronously and are the primary place you will learn to program. Attendance is not mandatory, though we highly recommend you attend each one. To earn full credit for a lab, it must be completed, submitted, and checked. Checkoff can be done either in lab or in office hours. If you have a special circumstance where you are unable to check-off a lab, please email cs10@berkeley.edu. Each lab will be due by the end of the following lab day (a lab assigned at the beginning of XXX's lab will be due by the end of XXX). XXX labs will be due by the end of the following XXX. There will be 17 total labs — but only your top 16 lab scores will count towards your grade (e.g. you get one lab drop). Each lab is worth 2.5 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 1 point will be deducted for any given lab. You should plan on attending the lab you sign up for the entire term, but you may attend other lab sections to get checked off or get extra help.
 
-* **Discussion Sections**: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming. You will receive credit for attending discussion by filling out a form each time. There will be a total of 11 discussions, but you may attend 10 to receive full credit (e.g. you have one discussion attendance drop). If you have express permission, you will be able to receive these points remotely and asynchronously.
+* **Discussion Sections**: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming. While we <b> strongly encourage </b> students to attend Discussions in-person, we will also post recordings for students who can not attend some sections. 
 
 * **Office Hours**: During office hours, you can meet with a TA for help with course material, assignments, or bigger picture questions.
 
-* **Instructor Office Hours**: Maddie and Deeksha will be holding instructor OH which you may attend for more conceptual help or to discuss anything you like (e.g. career/major advice or how you're doing in the class) within reason.
+* **Instructor Office Hours**: Professor Garcia will be holding Instructor OH which you may attend for more conceptual help or to discuss anything you like (e.g. career/major advice or how you're doing in the class) within reason.
 
-* **Homework and Final Project Description**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the class. Note that you may use 6 slip days (explained in more detail below) total this semester on assignments in  this category.
+* **Projects**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the class. Note that you may use 6 [FIXME] slip days (explained in more detail below) total this semester on assignments in  this category.
 
-* **Homework/Final Project Parties**: Once a week or so, we will hold a Homework Party. These will serve as specialized office hours where you will be able to come work and get help on whatever homework is currently assigned. We strongly encourage you to attend these as they will help you finish your assignments on time.
+* **Homework/Final Project Parties**: Once a week or so, we will hold a Project Party. These will serve as specialized office hours where you will be able to come work and get help on whatever project is currently assigned. We strongly encourage you to attend these as they will help you finish your assignments on time.
 
 
 ## Grading Breakdown
