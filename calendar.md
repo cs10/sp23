@@ -29,7 +29,7 @@
     <tr>
       <th>Wed 6/22 </th> <!-- Date -->
       <td>2. Functions + Build your own Blocks <a href="https://youtu.be/7aBX93awOuA">(recording)</a> <a href="https://docs.google.com/presentation/d/1Nv7wDxVOI4C5Et2-K-UNAxBqHMnzud7muP39tl0iqiA/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
-      <td>2. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=&novideo&noreading&noassignment">Build Your Own Blocks</a></td> <!-- Lab -->
+      <td>2. <!--a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=&novideo&noreading&noassignment"-->Build Your Own Blocks</a></td> <!-- Lab -->
       <td>1. Booleans, Conditionals, Domain/Range<br/>
       <a href="https://drive.google.com/file/d/1uVUsnNV9IpOFV356mY2GetOKUYLko_y8/view?usp=sharing">Worksheet</a><br/>
       <a href="https://docs.google.com/presentation/d/1J1DeaCF4PxwfL94Bo1YbxOPd29pZY5DrMMAaE-aPV-4/edit?usp=sharing">Slides</a><br/>
