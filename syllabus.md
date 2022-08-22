@@ -53,7 +53,7 @@ This Fall, CS10 will be be primarily in person, but we will be able to provide r
 
 | Assignment                     |  Points  |
 | :----:                         |  :----:  |
-| Quest                          | 20       |
+| Quest                          | 40       |
 | Midterm (In-Lab and Paper)     | 80       |
 | Final                          | 100      |
 | Project 1: Wordmatch           | 10       |
@@ -61,25 +61,25 @@ This Fall, CS10 will be be primarily in person, but we will be able to provide r
 | Project 3: 2048                | 30       |
 | Project 4: Explore             | 40       |
 | Project 5: Python              | 50       |
-| Final Project                  | 75       |
+| Final Project                  | 80       |
 | Labs                           | 30       |
 | Reading Quizzes                | 20       |
 
-**Total: 475 Points**
+**Total: 500 Points**
 
 | Letter Grade       |    Range                          |
 | :----:             |    :----:                         |
-| A+:                |    460-475                        |
-| A:                 |    435-459                        |
-| A-:                |    427-434                        |
-| B+:                |    418-426                        |
-| B:                 |    399-417                        |
-| B-:                |    380-398                        |
-| C+:                |    356-379                        |
-| C:                 |    342-355                        |
-| C-:                |    332-341                        |
-| D:                 |    285-331                        |
-| F:                 |    0-285                          |
+| A+                 |    485-500                        |
+| A                  |    460-484                        |
+| A-                 |    450-459                        |
+| B+                 |    440-449                        |
+| B                  |    420-439                        |
+| B-                 |    400-419                        |
+| C+                 |    375-399                        |
+| C                  |    360-374                        |
+| C-                 |    350-359                        |
+| D                  |    300-349                        |
+| F                  |    0-299                          |
 
 ## Pro-Student Grading Policies
 
