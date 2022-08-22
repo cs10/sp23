@@ -53,37 +53,37 @@ This Fall, CS10 will be be primarily in person, but we will be able to provide r
 
 | Assignment                     |  Points  |
 | :----:                         |  :----:  |
+| Quest                          | 20       |
 | Midterm (In-Lab and Paper)     | 80       |
-| Final                          | 120      |
-| Homework 0: Introduce Yourself | 5        |
-| Homework 1: Wordmatch          | 15       |
-| Homework 2: Mastermind         | 25       |
+| Final                          | 100      |
+| Project 1: Wordmatch           | 10       |
+| Homework 2: Mastermind         | 20       |
 | Homework 3: 2048               | 30       |
-| Homework 4: Python Translation | 25       |
-| Homework 5: OOP                | 25       |
-| Final Project                  | 65       |
-| Labs                           | 40       |
-| Discussion Attendance          | 20       |
-| Lecture Self-Checks            | 20       |
+| Project 4: Explore             | 40       |
+| Project 5: Python              | 50       |
+| Final Project                  | 75       |
+| Labs                           | 30       |
+| Reading Quizzes                | 20       |
 
-**Total: 470 Points**
+**Total: 475 Points**
 
 | Letter Grade       |    Range                          |
 | :----:             |    :----:                         |
-| A:                 |    432-470                        |
-| A-:                |    423-431                        |
-| B+:                |    414-422                        |
-| B:                 |    395-413                        |
-| B-:                |    376-394                        |
-| C+:                |    353-375                        |
-| C:                 |    338-352                        |
-| C-:                |    329-337                        |
-| D:                 |    281-328                        |
-| F:                 |    0-280                          |
+| A+:                |    460-475                        |
+| A:                 |    435-459                        |
+| A-:                |    427-434                        |
+| B+:                |    418-426                        |
+| B:                 |    399-417                        |
+| B-:                |    380-398                        |
+| C+:                |    356-379                        |
+| C:                 |    342-355                        |
+| C-:                |    332-341                        |
+| D:                 |    285-331                        |
+| F:                 |    0-285                          |
 
 ## Pro-Student Grading Policies
 
-* **Absolute-Clobber Policy**: By the end of the semester, if your final exam percentage is higher than your midterm exam percentage, your midterm score will be replaced with your final exam percentage.
+* **Absolute-Clobber Policy**: Every exam score can be clobbered by a future exam. If your percentage score on the midterm is better than your percentage score on the quest, then we will replace your quest score with your percentage score on the midterm. Similarly, the final exam score can be used to clobber both the midterm and the quest. 
 * **Slip Days**: Each student will receive 6 slip days, to be used for _**homeworks and the final project only**_. Each slip day allows you to extend the deadline period by one day with no penalty. For example, if a project is due Friday at 11:59 PM PT, you may turn it in without penalty up until Saturday at 11:59 PM PT by using one slip day. **Note: You can use a maximum of three slip days per project.**
 * **Late Submissions**: Late submissions for projects will be handled on a case-by-case basis. If you are out of slip days for a project but cannot make a deadline, please contact us at cs10@berkeley.edu figure out an extension. If you do not reach out to anyone in advance, we reserve the right to mark the submission down by 10% for each day that it is late.
 
