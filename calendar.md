@@ -60,7 +60,7 @@
       <td rowspan=5>2</td> <!-- Week Number -->
       <th>Mon 8/29</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="https://www.youtube.com/watch?v=dU1xS07N-FA">Learning to Code</a></td> <!-- Readings -->
+      <td><a href="https://www.youtube.com/watch?v=dU1xS07N-FA">1. Learning to Code</a></td> <!-- Readings -->
       <td>2. Build Your Own Blocks<br/>
         (due 8/31)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">1. Welcome to CS 10!</a></td> <!-- Discussion -->
@@ -110,7 +110,7 @@
       <td rowspan=5>3</td> <!-- Week Number -->
       <th>Mon 9/5</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="http://cs10.org/fa17/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub">Introduction to Abstraction</a></td> <!-- Readings -->
+      <td><a href="http://cs10.org/fa17/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub">1. Introduction to Abstraction</a></td> <!-- Readings -->
       <td>NO CLASS<br/>
         (Labor Day)</td> <!-- Lab -->
       <td>NO CLASS<br/>
@@ -161,10 +161,10 @@
       <td rowspan=5>4</td> <!-- Week Number -->
       <th>Mon 9/12</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="https://www.sciencenewsforstudents.org/article/explainer-what-is-an-algorithm">What is an Algorithm?</a><br/>
-      <a href="https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world/up-next">How Algorithms Shape Our World</a><br/>
-      <a href="https://news.ycombinator.com/item?id=8630311">Algorithms are Great and All, but They Can Also Ruin Lives</a>
-      <a href="http://io9.gizmodo.com/the-10-algorithms-that-dominate-our-world-1580110464"><(optional) The 10 Algorithms that Dominate Our World</a></td> <!-- Readings -->
+      <td><a href="https://www.sciencenewsforstudents.org/article/explainer-what-is-an-algorithm">1. What is an Algorithm?</a><br/>
+      <a href="https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world/up-next">2. How Algorithms Shape Our World</a><br/>
+      <a href="https://news.ycombinator.com/item?id=8630311">3. Algorithms are Great and All, but They Can Also Ruin Lives</a>
+      <a href="http://io9.gizmodo.com/the-10-algorithms-that-dominate-our-world-1580110464">4. (optional) The 10 Algorithms that Dominate Our World</a></td> <!-- Readings -->
       <td>5. Algorithms<br/>
         (due 9/20)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">3. Domain/Range, Scoping, Lists & HOFs</a></td> <!-- Discussion -->
@@ -213,9 +213,9 @@
       <td rowspan=5>5</td> <!-- Week Number -->
       <th>Mon 9/19</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="https://spectrum.ieee.org/gordon-moore-the-man-whose-name-means-progress#toggle-gdpr">Gordon Moore: The Man Whose Name Means Progress</a><br/>
-      <a href="https://www.nytimes.com/2015/09/27/technology/smaller-faster-cheaper-over-the-future-of-computer-chips.html?_r=0">(optional) Smaller, Faster, Cheaper, Over: The Future of Computer Chips</a><br/>
-      <a href="https://www.unep.org/news-and-stories/press-release/un-report-time-seize-opportunity-tackle-challenge-e-waste">(optional) UN report: Time to seize opportunity, tackle challenge of e-waste</a></td> <!-- Readings -->
+      <td><a href="https://spectrum.ieee.org/gordon-moore-the-man-whose-name-means-progress#toggle-gdpr">1. Gordon Moore: The Man Whose Name Means Progress</a><br/>
+      <a href="https://www.nytimes.com/2015/09/27/technology/smaller-faster-cheaper-over-the-future-of-computer-chips.html?_r=0">2. (optional) Smaller, Faster, Cheaper, Over: The Future of Computer Chips</a><br/>
+      <a href="https://www.unep.org/news-and-stories/press-release/un-report-time-seize-opportunity-tackle-challenge-e-waste">3. (optional) UN report: Time to seize opportunity, tackle challenge of e-waste</a></td> <!-- Readings -->
       <td>6. Algorithmic Complexity<br/>
         (due 9/21)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">4. Algorithms</a></td> <!-- Discussion -->
@@ -264,8 +264,8 @@
       <td rowspan=5>6</td> <!-- Week Number -->
       <th>Mon 9/26</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="http://cs10.org/sp19/resources/readings/btb/chapter1.pdf">Blown to Bits: Chapter 1</a><br/>
-      <a href="https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/">Big O Notation</a></td> <!-- Readings -->
+      <td><a href="http://cs10.org/sp19/resources/readings/btb/chapter1.pdf">1. Blown to Bits: Chapter 1</a><br/>
+      <a href="https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/">2. Big O Notation</a></td> <!-- Readings -->
       <td>8. Boards<br/>
         (due 9/28)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">5. Algorithmic Complexity</a></td> <!-- Discussion -->
@@ -313,8 +313,8 @@
       <td rowspan=5>7</td> <!-- Week Number -->
       <th>Mon 10/3</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="https://www.youtube.com/watch?v=t7Xr3AsBEK4">Connected, but Alone?</a><br/>
-      <a href="https://drive.google.com/drive/folders/1liEi-2_a8yPSfgaApedtHIWWTVX2-_kN">(optional) Cogs in the Machine of Our Own Lives</a></td> <!-- Readings -->
+      <td><a href="https://www.youtube.com/watch?v=t7Xr3AsBEK4">1. Connected, but Alone?</a><br/>
+      <a href="https://drive.google.com/drive/folders/1liEi-2_a8yPSfgaApedtHIWWTVX2-_kN">2. (optional) Cogs in the Machine of Our Own Lives</a></td> <!-- Readings -->
       <td>10. Recursive Reporters<br/>
         (due 10/5)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">6. Recursion I</a></td> <!-- Discussion -->
@@ -363,7 +363,7 @@
       <td rowspan=5>8</td> <!-- Week Number -->
       <th>Mon 10/10</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="https://www.businessinsider.com/how-app-developers-keep-us-addicted-to-our-smartphones-2018-1#-18">Addicted to Apps</a></td> <!-- Readings -->
+      <td><a href="https://www.businessinsider.com/how-app-developers-keep-us-addicted-to-our-smartphones-2018-1#-18">1. Addicted to Apps</a></td> <!-- Readings -->
       <td>11. Functions as Data, HOFs<br/>
         (due 10/12)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">7. Recursion II</a></td> <!-- Discussion -->
@@ -409,8 +409,8 @@
       <td rowspan=5>9</td> <!-- Week Number -->
       <th>Mon 10/17</th> <!-- Date -->
       <td><b>MIDTERM</b></td> <!-- Lecture -->
-      <td><a href="https://blog.trinket.io/why-python/">Why Python is a Great First Language</a><br/>
-      <a href="https://medium.com/@oceankidbilly/python-vs-r-vs-cobol-which-is-best-for-data-science-7b2979c6a000">(optional) Python vs. R vs. COBOL: Which is best for Data Science?</a></td> <!-- Readings -->
+      <td><a href="https://blog.trinket.io/why-python/">1. Why Python is a Great First Language</a><br/>
+      <a href="https://medium.com/@oceankidbilly/python-vs-r-vs-cobol-which-is-best-for-data-science-7b2979c6a000">2. (optional) Python vs. R vs. COBOL: Which is best for Data Science?</a></td> <!-- Readings -->
       <td><b>In Lab Midterm</b></td> <!-- Lab -->
       <td>NO CLASS<br/>
         (MIDTERM)</td> <!-- Discussion -->
@@ -456,7 +456,7 @@
       <td rowspan=5>10</td> <!-- Week Number -->
       <th>Mon 10/24</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="https://techcrunch.com/2019/01/24/starcraft-ii-playing-ai-alphastar-takes-out-pros-undefeated/">StarCraft II-playing AI AlphaStar takes out pros undefeated</a></td> <!-- Readings -->
+      <td><a href="https://techcrunch.com/2019/01/24/starcraft-ii-playing-ai-alphastar-takes-out-pros-undefeated/">1. StarCraft II-playing AI AlphaStar takes out pros undefeated</a></td> <!-- Readings -->
       <td>13. Data Structures in Python<br/>
         (due 10/26)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">9. Intro to Python</a></td> <!-- Discussion -->
@@ -510,9 +510,9 @@
       <td rowspan=5>11</td> <!-- Week Number -->
       <th>Mon 10/31</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="https://www.thinkful.com/blog/what-is-data-science/">What is Data Science?</a><br/>
-      <a href="https://hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist">How to Start Thinking Like a Data Scientist</a><br/>
-      <a href="http://www.tylervigen.com/spurious-correlations">Spurious Correlations</a></td> <!-- Readings -->
+      <td><a href="https://www.thinkful.com/blog/what-is-data-science/">1. What is Data Science?</a><br/>
+      <a href="https://hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist">2. How to Start Thinking Like a Data Scientist</a><br/>
+      <a href="http://www.tylervigen.com/spurious-correlations">3. Spurious Correlations</a></td> <!-- Readings -->
       <td>15. Text Processing in Python<br/>
         (due 11/7)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">10. List Comprehension & Dictionaries</a></td> <!-- Discussion -->
@@ -610,7 +610,7 @@
       <td rowspan=5>13</td> <!-- Week Number -->
       <th>Mon 11/14</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html">The Secret History of Women in Coding</a></td> <!-- Readings -->
+      <td><a href="https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html">1. The Secret History of Women in Coding</a></td> <!-- Readings -->
       <td>17. Concurrency<br/>
         (due 11/21)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">12. Python HOFs, Lambdas, Tree Recursion</a></td> <!-- Discussion -->
