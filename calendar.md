@@ -353,426 +353,488 @@
 
     <!-- WEEK EIGHT -->
     <tr>
-      <td rowspan=5>8</td>
-      <th>Mon 3/07</th> <!-- Date -->
-      <td>13. Procedures as Data - Higher Order Procedures<a href="https://youtu.be/bwEdOUi_gPI">(Recording)</a> | <a href="https://docs.google.com/presentation/d/1Pq6FlYlbSAn5rQZ9KY5aS-wNsqSnfcnzbc4UGL2TOGU/edit?usp=sharing">(Slides)</a></td> <!-- Lecture -->
-      <td> <a href="https://www.businessinsider.com/how-app-developers-keep-us-addicted-to-our-smartphones-2018-1"> 6. How app developers are keeping us addicted to our phones </a>  </td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=&novideo&noreading&noassignment">11: Functions as Data, HOFs</a> (due 3/16)</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Tue 3/08</th> <!-- Date -->
+      <td rowspan=5>8</td> <!-- Week Number -->
+      <th>Mon 10/10</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=&novideo&noreading&noassignment">11: Functions as Data, HOFs</a> (due 3/17)</td> <!-- Lab -->
+      <td>11. Functions as Data, HOFs<br/>
+        (due 10/12)</td> <!-- Lab -->
+      <td><a href="https://cs10.org/fa22/discussion/">7. Recursion II</a></td> <!-- Discussion -->
+      <td>release Reading Quiz 7<br/>
+        (due 10/14)</td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 10/11</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>11. Functions as Data, HOFs<br/>
+        (due 10/13)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Wed 3/09</th> <!-- Date -->
-      <td>14. Programming Paradigms<a href="https://youtu.be/1rdEigeCuNo">(recording)</a> | <a href="https://docs.google.com/presentation/d/16YWT03vdsVoth_EiYLwvKpC8f6c7tNlQdWVMbtajvKY/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
-      <td>RQ 6 (MW Labs)</td> <!-- Readings -->
+      <th>Wed 10/12 </th> <!-- Date -->
+      <td>AI</td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
       <td>Midterm Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Thur 3/10</th> <!-- Date -->
+      <th>Thur 10/13</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>RQ 6 (TTh Labs)</td> <!-- Readings -->
+      <td></td> <!-- Readings -->
       <td>Midterm Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Fri 3/11</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <th>Fri 10/14</th> <!-- Date -->
+      <td>14. Programming Paradigms</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1_U36sr7Ecqc4CsAjAOOlf6PBRAG6hIpN/view?usp=sharing">Midterm Review</a><a href="https://drive.google.com/file/d/1UmaYWMbc6ekyYftVBh3wBTavoYZZgZJW/view?usp=sharing">(solutions)</a></td> <!-- Discussion -->
-      <td>Midterm Review Session</td> <!-- Assignment -->
+      <td>Midterm Review Session</a></td> <!-- Discussion -->
+      <td>Reading Quiz 7 Due</td> <!-- Assignment -->
     </tr>
-    <!-- WEEK NINE ------------------------------------------------------------ -->
+
+    <!-- WEEK NINE -->
     <tr>
-      <td rowspan=5>9</td>
-      <th>Mon 3/14</th> <!-- Date -->
-      <td>MIDTERM (Review Lecture) <a href="https://youtu.be/QN-6euPxsBw"> (recording)</a> | <a href="https://docs.google.com/presentation/d/1LXrT0DoGkTPCN5oWQZbBT3rDkJTbV3qNeYiZOQ11ebg/edit?usp=sharing"> (slides)</a></td> <!-- Lecture -->
-      <td><a href="https://www.youtube.com/watch?v=7Pq-S557XQU"> 7. Humans Need Not Apply (Optional) </a></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <td rowspan=5>9</td> <!-- Week Number -->
+      <th>Mon 10/17</th> <!-- Date -->
+      <td>MIDTERM</td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>In Lab Midterm</td> <!-- Lab -->
+      <td>NO CLASS<br/>
+        (MIDTERM)</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Tue 3/15</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <th>Tue 10/18</th> <!-- Date -->
+      <td>MIDTERM</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>In Lab Midterm</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Wed 3/16</th> <!-- Date -->
-      <td>15. Python I - Intro to Python <a href="https://youtu.be/0sd4Qt4lXCU">(recording)</a> | <a href="https://docs.google.com/presentation/d/1pUK80tYKFJNMfzz8-_4MSyaYi31FVHiqTJXZKMmuRic/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <th>Wed 10/19</th> <!-- Date -->
+      <td>15. Python I - Intro</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome-parsons.topic&course=&novideo&noreading&noassignment">12: Welcome to Python</a> (due 3/30)</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td>Proj 2 due</td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Thur 3/17</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome-parsons.topic&course=&novideo&noreading&noassignment">12: Welcome to Python</a> (due 3/31)</td> <!-- Lab -->
+      <td>12. Welcome to Python<br/>
+        (due 10/24)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Fri 3/18</th> <!-- Date -->
+      <th>Thur 10/20</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1VLEeb8M2gOP7csN75K6052bFquZUjj3s/view?usp=sharing">9. Intro to Python</a><a href="https://drive.google.com/file/d/1ZC9A2j9aga-K0hGeucp3GT0laDbpgXUF/view?usp=sharing"> (solutions)</a></td> <!-- Discussion -->
-      <td>PROJ 2 comments due;</td> <!-- Assignment -->
-    </tr>
-    <!-- WEEK TEN ------------------------------------------------------------ -->
-    <tr>
-      <td rowspan=5>10</td>
-      <th>Mon 3/21</th> <!-- Date -->
-      <td>Holiday</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>12. Welcome to Python<br/>
+        (due 10/25)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Tue 3/22</th> <!-- Date -->
-      <td>Holiday</td> <!-- Lecture -->
+      <th>Fri 10/21</th> <!-- Date -->
+      <td>16. Python II - Data Types & Structures</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
+      <td><a href="https://cs10.org/fa22/discussion/">9. Intro to Python</a></td> <!-- Discussion -->
+      <td>PROJ 4 (POST) Due</td> <!-- Assignment -->
+    </tr>
+
+    <!-- WEEK TEN -->
+    <tr>
+      <td rowspan=5>10</td> <!-- Week Number -->
+      <th>Mon 10/24</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>13. Data Structures in Python<br/>
+        (due 10/26)</td> <!-- Lab -->
+      <td><a href="https://cs10.org/fa22/discussion/">9. Intro to Python</a></td> <!-- Discussion -->
+      <td>PROJ 4 (COMMENTS) Due<br/>
+        release PROJ 5: Pytris<br/>
+          (due 11/07)<br/>
+            release Reading Quiz 8<br/>
+              (due 10/28)</td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 10/25</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>13. Data Structures in Python<br/>
+        (due 10/27)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Wed 3/23</th> <!-- Date -->
-      <td>Holiday</td> <!-- Lecture -->
+      <th>Wed 10/26</th> <!-- Date -->
+      <td>17. Python III - OOP</td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>14. OOP in Python<br/>
+        (due 10/31)</td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td>release PROJ 6 Proposal<br/>
+        (due 11/4)</td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Thur 10/27</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>14. OOP in Python<br/>
+        (due 11/1)</td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Fri 10/28</th> <!-- Date -->
+      <td>18. Python IV - HOFs</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td><a href="https://cs10.org/fa22/discussion/">10. List Comprehension & Dictionaries</a></td> <!-- Discussion -->
+      <td>Reading Quiz 8 Due<br/>
+        release PROJ 6: Final<br/>
+          (due 12/02)</td> <!-- Assignment -->
     </tr>
+
+    <!-- WEEK ELEVEN -->
     <tr>
-      <th>Thur 3/24</th> <!-- Date -->
-      <td>Holiday</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Fri 3/25</th> <!-- Date -->
-      <td>Holiday</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
-    </tr>
-    <!-- WEEK ELEVEN ------------------------------------------------------------ -->
-    <tr>
-      <td rowspan=5>11</td>
-      <th>Mon 3/28</th> <!-- Date -->
-      <td>16. Python II - Built-in Types, Data Structures<a href="https://youtu.be/kopMlRlL2mc">(recording)</a> | <a href="https://docs.google.com/presentation/d/145bYNQlNhShWFMye1s7boUhsUoTIfXeY8zAel3d-1j8/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://blog.trinket.io/why-python/"> 8. Why Python </a></td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">13: Data Structures in Python</a> (due 4/04)</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td> <a href="https://docs.google.com/document/d/10GK7Kemb--Xxf3WHBnKieltJ1nfczszcNIVeqQZW4WM/edit?usp=sharing">release Final Proj Proposal (due 4/02)</a></td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Tue 3/29</th> <!-- Date -->
+      <td rowspan=5>11</td> <!-- Week Number -->
+      <th>Mon 10/31</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">13: Data Structures in Python</a> (due 4/05)</td> <!-- Lab -->
-      <td></td><!-- Discussion -->
-      <td>release Homework 3 (due 4/14)</td> <!-- Assignment -->
+      <td>15. Text Processing in Python<br/>
+        (due 11/7)</td> <!-- Lab -->
+      <td><a href="https://cs10.org/fa22/discussion/">10. List Comprehension & Dictionaries</a></td> <!-- Discussion -->
+      <td>release Reading Quiz 9<br/>
+        (due 11/4)</td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Wed 3/30</th> <!-- Date -->
-      <td>17. Python III - OOP in Python<a href="https://youtu.be/JjjwbFK_0mM">(recording)</a> | <a href="https://docs.google.com/presentation/d/1nuEamcljAMW2KRmR1YXp7dMKUSZfTrjxKlCNW9yIb7E/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
-      <td>RQ 8 (MW Labs)</td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-oop-joshhug-edition.topic&course=&novideo&noreading&noassignment">Lab 14: OOP in Python </a> (due 4/06)</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Thur 3/31</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
-      <td>RQ 8 (TTh Labs)</td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-oop-joshhug-edition.topic&course=&novideo&noreading&noassignment">Lab 14: OOP in Python </a> (due 4/07)</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Fri 4/01</th> <!-- Date -->
+      <th>Tue 11/1</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1q4LSm4RX_Kr7-WWqBskfZSfAENPKxdhq/view?usp=sharing">10. List Comprehensions & Dictionaries</a><a href="https://drive.google.com/file/d/1ornaVe8d3zxx0U9v2JPB6zlMFQrjfZxx/view?usp=sharing">(solutions)</a></td> <!-- Discussion -->
-      <td>Final Proj Proposal due 4/02</td> <!-- Assignment -->
-    </tr>
-    <!-- WEEK TWELVE ------------------------------------------------------------ -->
-    <tr>
-      <td rowspan=5>12</td>
-      <th>Mon 4/04</th> <!-- Date -->
-      <td>18. Python IV - OOP part II<a href="https://youtu.be/KPWX5DlQuMo">(recording)</a> | <a href="https://docs.google.com/presentation/d/1W3SwBmybIiPKT3z8GR95wHrJwoZ_QmDDRTIz1AbZ8qo/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment">15: Text Processing in Python </a>(due 4/11)</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td>Final Project Proposals Review</td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Tue 4/05</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
-      <td><a href="https://techcrunch.com/2019/01/24/starcraft-ii-playing-ai-alphastar-takes-out-pros-undefeated/">9. StarCraft II-playing AI AlphaStar takes out pros undefeated</a></td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment">15: Text Processing in Python</a> (due 4/12)</td> <!-- Lab -->
-      <td></td><!-- Discussion -->
-      <td>Final Project Proposals Review</td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Wed 4/06</th> <!-- Date -->
-      <td>19. Python IV: HOFs<a href="https://youtu.be/UxOH3zh3UYc">(recording)</a></td> <!-- Lecture -->
-      <td>RQ 9 (MW Labs)</td> <!-- Readings -->
-      <td>HW 3 Work Session</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td>Final Project Proposals Review; Proj 3 Party</td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Thur 4/07</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
-      <td>RQ 9 (TTh Labs)</td> <!-- Readings -->
-      <td>HW 3 Work Session</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td>Final Project Proposals Review</td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Fri 4/08</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/148beOH3iVCOnBtgG1iHVLe1OQ5yWc580/view?usp=sharing">11. OOP</a><a href="https://drive.google.com/file/d/18AOJMHmzFSerXKp99NTrhz5oU89V-ltW/view?usp=sharing"> (solutions)</a></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
-    </tr>
-    <!-- WEEK THIRTEEN ------------------------------------------------------------ -->
-    <tr>
-      <td rowspan=5>13</td>
-      <th>Mon 4/11</th> <!-- Date -->
-      <td>LECTURE CANCELLED</td> <!-- Lecture -->
-      <td><a href="https://www.thinkful.com/blog/what-is-data-science/">10a. What is Data Science</a>
-      <a href="https://hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist">10b. How to Start Thinking Like a Data Scientist</a>
-      <a href="http://www.tylervigen.com/spurious-correlations">10c. Spurious Correlations</a>
-      </td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment">16: Intro to Data Science </a>(due 4/18)</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td><a href="https://docs.google.com/document/d/18GOC6ESA4zw8wsoO-kOSX2iUbhkFL6aCa71LSos_XJc/edit?usp=sharing">release Final Technical Spec (due 4/27)</a></td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Tue 4/12</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment">16: Intro to Data Science </a> (due 4/19)</td> <!-- Lab -->
+      <td>15. Text Processing in Python<br/>
+        (due 11/8)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Wed 4/13</th> <!-- Date -->
-      <td>20. Social Implications: Privacy<a href="https://youtu.be/twWfUC4-j70"> (recording)</a> | <a href="https://docs.google.com/presentation/d/1jpTprQd_Fp5zWMoEOTZ41LaUtavjKPzwtUhCetMmtAo/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
-      <td>RQ 10 (MW Labs)</td> <!-- Readings -->
-      <td>Final Project Work Session</td> <!-- Lab -->
+      <th>Wed 11/2</th> <!-- Date -->
+      <td>19. Social Implications III</td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>PROJ 5 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Thur 4/14</th> <!-- Date -->
+      <th>Thur 11/3</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>RQ 10 (TTh Labs)</td> <!-- Readings -->
-      <td>Final Project Work Session</td> <!-- Lab -->
+      <td></td> <!-- Readings -->
+      <td>PROJ 5 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Homework 3 due</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Fri 4/15</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <th>Fri 11/4</th> <!-- Date -->
+      <td>20. Python V - Tree Recursion & Game Theory</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1tgBZqAgLFHRWGSYWeDBhc8b3vIO8On-I/view?usp=sharing">12. Python HOFs, Lambdas, Tree Recursion</a><a href="https://drive.google.com/file/d/17akeORdoirOHy5bXegTMaEiO1oKFcPfz/view?usp=sharing"> (solutions)</a> </td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td><a href="https://cs10.org/fa22/discussion/">11. OOP</a></td> <!-- Discussion -->
+      <td>Reading Quiz 9 Due<br/>
+        PROJ 6 Proposal Due</td> <!-- Assignment -->
     </tr>
-    <!-- WEEK FOURTEEN ------------------------------------------------------------ -->
+
+    <!-- WEEK TWELVE -->
     <tr>
-      <td rowspan=5>14</td>
-      <th>Mon 4/18</th> <!-- Date -->
-      <td>21. Concurrency<a href="https://youtu.be/Ge57N9p7U6k">(recording)</a> | <a href="https://docs.google.com/presentation/d/1KP0t3-GUKy34V7zTLnuAHSfZ69DKrOUAMEkrdz5uA6E/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
-      <td><a href="https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing">11. The Secret History of Women in Coding</a></td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/concurrency.topic&course=&novideo&noreading&noassignment">17: Concurrency</a> (due 4/25)</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Tue 4/19</th> <!-- Date -->
+      <td rowspan=5>12</td> <!-- Week Number -->
+      <th>Mon 11/7</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/concurrency.topic&course=&novideo&noreading&noassignment">17: Concurrency</a> (due 4/26)</td> <!-- Lab -->
+      <td>16. Intro to Data Science<br/>
+        (due 11/14)</td> <!-- Lab -->
+      <td><a href="https://cs10.org/fa22/discussion/">11. OOP</a></td> <!-- Discussion -->
+      <td>PROJ 5 Due<br/>
+        release Reading Quiz 10<br/>
+          (due 11/11)</td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 11/8</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>16. Intro to Data Science<br/>
+        (due 11/15)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Wed 4/20</th> <!-- Date -->
-      <td>22. Limits of Computing<a href="https://youtu.be/cVTOFH8aGlg">(recording)</a> | <a href="https://docs.google.com/presentation/d/10M9oPo9hu_eLOlz7LmuPSghdGuIXrs4EcETQYkhH6-4/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
-      <td>RQ 11 (MW Labs)</td> <!-- Readings -->
-      <td>Final Project Work Session</td> <!-- Lab -->
+      <th>Wed 11/9</th> <!-- Date -->
+      <td>21. Concurrency</td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>NO CLASS<br/>
+        (Proposal Reviews)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Thur 4/21</th> <!-- Date -->
+      <th>Thur 11/10</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>RQ 11 (TTh Labs)</td> <!-- Readings -->
-      <td>Final Project Work Session</td> <!-- Lab -->
+      <td></td> <!-- Readings -->
+      <td>NO CLASS<br/>
+        (Proposal Reviews)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Final Proj Party</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Fri 4/22</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <th>Fri 11/4</th> <!-- Date -->
+      <td>NO CLASS<br/>
+        (Veteran's Day)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>OFFICE HOURS</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>NO CLASS<br/>
+        (Veteran's Day)</td> <!-- Discussion -->
+      <td>Reading Quiz 10 Due</td> <!-- Assignment -->
     </tr>
-    <!-- WEEK FIFTEEN ------------------------------------------------------------ -->
+
+    <!-- WEEK THIRTEEN -->
     <tr>
-      <td rowspan=5>15</td>
-      <th>Mon 4/25</th> <!-- Date -->
-      <td>24. Alumni Panel<a href="https://youtu.be/5rNg3YXFZ9s">(recording)</a> | <a href="https://docs.google.com/presentation/d/1c-9e0IJR-vgMJs6Wl9QWbDKRfvIKgXuaLSZCL4FANvI/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
-    </tr>
-    <tr>
-      <th>Tue 4/26</th> <!-- Date -->
+      <td rowspan=5>13</td> <!-- Week Number -->
+      <th>Mon 11/14</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Final Project Work Session</td> <!-- Lab -->
+      <td>17. Concurrency<br/>
+        (due 11/21)</td> <!-- Lab -->
+      <td><a href="https://cs10.org/fa22/discussion/">12. Python HOFs, Lambdas, Tree Recursion</a></td> <!-- Discussion -->
+      <td>release Reading Quiz 11<br/>
+        (due 11/18)</td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 11/15</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>17. Concurrency<br/>
+        (due 11/22)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Wed 4/27</th> <!-- Date -->
-      <td>25. Conclusion and Farewell<a href="https://youtu.be/T0hhojruato">(recording)</a></td> <!-- Lecture -->
+      <th>Wed 11/16</th> <!-- Date -->
+      <td>22. HCI</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td><strong>In-Lab Final Exam</strong></td> <!-- Lab -->
+      <td>PROJ 6 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Final Proj due</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Thur 4/28</th> <!-- Date -->
+      <th>Thur 11/17</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td><strong>In-Lab Final Exam</strong></td> <!-- Lab -->
+      <td>PROJ 6 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Fri 4/29</th> <!-- Date -->
+      <th>Fri 11/18</th> <!-- Date -->
+      <td>23. Limits of Computing</td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td></td> <!-- Lab -->
+      <td><a href="https://cs10.org/fa22/discussion/">13. Social Implications</a></td> <!-- Discussion -->
+      <td>Reading Quiz 11 Due</td> <!-- Assignment -->
+    </tr>
+
+    <!-- WEEK FOURTEEN -->
+    <tr>
+      <td rowspan=5>14</td> <!-- Week Number -->
+      <th>Mon 11/21</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1xFa-RcWCrtPqAYQ1gycIESYznOq0bfaz/view?usp=sharing">13. Final Review + Farewell</a><a href="https://drive.google.com/file/d/1vZXt1tZAXwfvNB-bz-LoNOC-mlIpNAPd/view?usp=sharing">(solution)</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
-    </tr>
-    <!-- WEEK SIXTEEN ------------------------------------------------------------ -->
-    <tr>
-      <td rowspan=5>16</td>
-      <th>Mon 5/02</th> <!-- Date -->
-      <td>No Class</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <td>18. Snap! & Python Libraries<br/>
+        (due 11/28)</td> <!-- Lab -->
+      <td><a href="https://cs10.org/fa22/discussion/">13. Social Implications</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Tue 5/03</th> <!-- Date -->
-      <td>No Class</td> <!-- Lecture -->
+      <th>Tue 11/22</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>18. Snap! & Python Libraries<br/>
+        (due 11/29)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Wed 5/04</th> <!-- Date -->
-      <td>No Class</td> <!-- Lecture -->
+      <th>Wed 11/23</th> <!-- Date -->
+      <td>NO CLASS<br/>
+        (Thanksgiving)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>NO CLASS<br/>
+        (Thanksgiving)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Thur 5/05</th> <!-- Date -->
-      <td>No Class</td> <!-- Lecture -->
+      <th>Thur 11/24</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>NO CLASS<br/>
+        (Thanksgiving)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Fri 5/06</th> <!-- Date -->
-      <td>No Class</td> <!-- Lecture -->
+      <th>Fri 11/25</th> <!-- Date -->
+      <td>NO CLASS<br/>
+        (Thanksgiving)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
+      <td>NO CLASS<br/>
+        (Thanksgiving)</td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+
+    <!-- WEEK FIFTEEN -->
+    <tr>
+      <td rowspan=5>15</td> <!-- Week Number -->
+      <th>Mon 11/28</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>PROJ 6 Work Session</td> <!-- Lab -->
+      <td><a href="https://cs10.org/fa22/discussion/">14. Final Review & Farewell</a></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 11/29</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>PROJ 6 Work Session</td> <!-- Lab -->
+      <td></td><!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Wed 11/30</th> <!-- Date -->
+      <td>24. Alumni Panel</td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>PROJ 6 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
-    <!-- FINAL'S WEEK ------------------------------------------------------------ -->
+    <tr>
+      <th>Thur 12/1</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>PROJ 6 Work Session</td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Fri 12/2</th> <!-- Date -->
+      <td>25. Conclusion & Farewell</td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td></td> <!-- Lab -->
+      <td><a href="https://cs10.org/fa22/discussion/">14. Final Review & Farewell</a></td> <!-- Discussion -->
+      <td>PROJ 6 Due</td> <!-- Assignment -->
+    </tr>
+
+    <!-- WEEK SIXTEEN - RRR WEEK-->
+    <tr>
+      <td rowspan=5>16</td> <!-- Week Number -->
+      <th>Mon 12/5</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>NO CLASS<br/>
+        (RRR Week)</td> <!-- Lab -->
+      <td>NO CLASS<br/>
+        (RRR Week)</td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 12/6</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>NO CLASS<br/>
+        (RRR Week)</td> <!-- Lab -->
+      <td></td><!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Wed 12/7</th> <!-- Date -->
+      <td>NO CLASS<br/>
+        (RRR Week)</td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>NO CLASS<br/>
+        (RRR Week)</td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Thur 12/8</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>NO CLASS<br/>
+        (RRR Week)</td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Fri 12/9</th> <!-- Date -->
+      <td>NO CLASS<br/>
+        (RRR Week)</td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td></td> <!-- Lab -->
+      <td>NO CLASS<br/>
+        (RRR Week)</td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+
+    <!-- WEEK SEVENTEEN - FINALS WEEK -->
     <tr>
       <td rowspan=5>17</td>
-      <th>Mon 5/09</th> <!-- Date -->
-      <td>No Class</td> <!-- Lecture -->
+      <th>Mon 12/12</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <td>NO CLASS<br/>
+        (Finals Week)</td> <!-- Lab -->
+      <td>NO CLASS<br/>
+        (Finals Week)</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Tue 5/10</th> <!-- Date -->
-      <td><b>Final Exam</b></td> <!-- Lecture -->
+      <th>Tue 12/13</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>NO CLASS<br/>
+        (Finals Week)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>FINAL 7-10 PM</td> <!-- Assignment -->
+      <td><b>release FINAL</b><br/>
+        (due 12/16)</td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Wed 5/11</th> <!-- Date -->
-      <td>No Class</td> <!-- Lecture -->
+      <th>Wed 12/14</th> <!-- Date -->
+      <td>NO CLASS<br/>
+        (Finals Week)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>NO CLASS<br/>
+        (Finals Week)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Thur 5/12</th> <!-- Date -->
-      <td>No Class</td> <!-- Lecture -->
+      <th>Thur 12/15</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>NO CLASS<br/>
+        (Finals Week)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Fri 5/13</th> <!-- Date -->
-      <td>No Class</td> <!-- Lecture -->
+      <th>Fri 12/16</th> <!-- Date -->
+      <td>NO CLASS<br/>
+        (Finals Week)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>NO CLASS<br/>
+        (Finals Week)</td> <!-- Discussion -->
+      <td><b>FINAL Due</b></td> <!-- Assignment -->
     </tr>
   </tbody>
 </table>
