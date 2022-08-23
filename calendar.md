@@ -91,7 +91,7 @@
       <th>Thur 9/1</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td><td>3. Conditionals, Reporters, & Abstraction<br/>
+      <td>3. Conditionals, Reporters, & Abstraction<br/>
         (due 9/7)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -125,7 +125,7 @@
       <td>4. Lists & HOFs<br/>
         (due 9/8)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>PROJ 1 PARTY</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 9/7 </th> <!-- Date -->
@@ -167,18 +167,18 @@
       <td><a href="https://cs10.org/fa22/discussion/">3. Domain/Range, Scoping, Lists & HOFs</a></td> <!-- Discussion -->
       <td>release Reading Quiz 3<br/>
         (due 9/16)<br/>
-          release QUEST<br/>
+          release <b>QUEST</b><br/>
             (due 9/13)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 9/13</th> <!-- Date -->
-      <td>QUEST<br/>
+      <td><b>QUEST<b/><br/>
         (due 9/13)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>NO CLASS<br/>
         (QUEST)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>QUEST Due</td> <!-- Assignment -->
+      <td><b>QUEST Due<b/></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 9/14 </th> <!-- Date -->
@@ -194,7 +194,7 @@
       <td></td> <!-- Readings -->
       <td>PROJ 2 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>PROJ 2 Party</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 9/16</th> <!-- Date -->
@@ -240,8 +240,8 @@
       <th>Thur 9/22</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td><td>7. Testing + Proj 3<br/>
-        (due 9/27)</td></td> <!-- Lab -->
+      <td>7. Testing + Proj 3<br/>
+        (due 9/27)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -311,7 +311,7 @@
       <td>10. Recursive Reporters<br/>
         (due 10/5)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">6. Recursion I</a></td> <!-- Discussion -->
-      <td>PROJ 3 Party<br/>
+      <td><br/>
         release Reading Quiz 6<br/>
           (due 10/7)</td> <!-- Assignment -->
     </tr>
@@ -322,7 +322,7 @@
       <td>10. Recursive Reporters<br/>
         (due 10/5)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>PROJ 3 Party</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 10/5 </th> <!-- Date -->
@@ -401,18 +401,18 @@
     <tr>
       <td rowspan=5>9</td> <!-- Week Number -->
       <th>Mon 10/17</th> <!-- Date -->
-      <td>MIDTERM</td> <!-- Lecture -->
+      <td><b>MIDTERM</b></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>In Lab Midterm</td> <!-- Lab -->
+      <td><b>In Lab Midterm</b></td> <!-- Lab -->
       <td>NO CLASS<br/>
         (MIDTERM)</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 10/18</th> <!-- Date -->
-      <td>MIDTERM</td> <!-- Lecture -->
+      <td><b>MIDTERM</b></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>In Lab Midterm</td> <!-- Lab -->
+      <td><b>In Lab Midterm</b></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -474,7 +474,7 @@
       <td>14. OOP in Python<br/>
         (due 10/31)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release PROJ 6 Proposal<br/>
+      <td>release FINAL PROJ Proposal<br/>
         (due 11/4)</td> <!-- Assignment -->
     </tr>
     <tr>
@@ -493,7 +493,7 @@
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">10. List Comprehension & Dictionaries</a></td> <!-- Discussion -->
       <td>Reading Quiz 8 Due<br/>
-        release PROJ 6: Final<br/>
+        release FINAL PROJ<br/>
           (due 12/02)</td> <!-- Assignment -->
     </tr>
 
@@ -541,7 +541,7 @@
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">11. OOP</a></td> <!-- Discussion -->
       <td>Reading Quiz 9 Due<br/>
-        PROJ 6 Proposal Due</td> <!-- Assignment -->
+        FINAL PROJ Proposal Due</td> <!-- Assignment -->
     </tr>
 
     <!-- WEEK TWELVE -->
@@ -620,7 +620,7 @@
       <th>Wed 11/16</th> <!-- Date -->
       <td>22. HCI</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>PROJ 6 Work Session</td> <!-- Lab -->
+      <td>FINAL PROJ Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -628,7 +628,7 @@
       <th>Thur 11/17</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>PROJ 6 Work Session</td> <!-- Lab -->
+      <td>FINAL PROJ Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -697,7 +697,7 @@
       <th>Mon 11/28</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>PROJ 6 Work Session</td> <!-- Lab -->
+      <td>FINAL PROJ Work Session</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">14. Final Review & Farewell</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -705,7 +705,7 @@
       <th>Tue 11/29</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>PROJ 6 Work Session</td> <!-- Lab -->
+      <td>FINAL PROJ Work Session</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -713,7 +713,7 @@
       <th>Wed 11/30</th> <!-- Date -->
       <td>24. Alumni Panel</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>PROJ 6 Work Session</td> <!-- Lab -->
+      <td>FINAL PROJ Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -721,7 +721,7 @@
       <th>Thur 12/1</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>PROJ 6 Work Session</td> <!-- Lab -->
+      <td>FINAL PROJ Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -731,7 +731,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">14. Final Review & Farewell</a></td> <!-- Discussion -->
-      <td>PROJ 6 Due</td> <!-- Assignment -->
+      <td>FINAL PROJ Due</td> <!-- Assignment -->
     </tr>
 
     <!-- WEEK SIXTEEN - RRR WEEK-->
