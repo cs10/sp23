@@ -85,7 +85,7 @@ This Fall, CS10 will be be primarily in person, but we will be able to provide r
 
 * **Absolute-Clobber Policy**: Every exam score can be clobbered by a future exam. If your percentage score on the midterm is better than your percentage score on the quest, then we will replace your quest score with your percentage score on the midterm. Similarly, the final exam score can be used to clobber both the midterm and the quest. 
 
-* **Late Submissions**: Late submissions for projects will be handled on a case-by-case basis. If you are out of slip days for a project but cannot make a deadline, please fill out the extension form linked below. If you do not reach out to anyone in advance, we reserve the right to mark the submission down by 10% for each day that it is late.
+* **Late Submissions**: Late submissions for projects will be handled on a case-by-case basis. If for some reason you cannot make a deadline, please fill out the extension form linked below. If you do not reach out to anyone in advance, we reserve the right to mark the submission down by 10% for each day that it is late.
 
 ## Exam Policy
 
@@ -108,7 +108,7 @@ Maintaining academic integrity is a crucial part of your learning experience, as
 * Copying part or all of another student’s project code with the exception of your partner(s) assuming that the project you are working on allows for partnered work. This includes students from previous semesters (we still have their code and will know if you do this).
 * Sharing or receiving the exact steps used to solve a project problem (even if code is not explicitly sent).
 * Copying part or all of another student’s exam answers.
-* Collaborating with another student when taking the midterm or final exams by receiving or giving assistance of any kind.
+* Collaborating with another student when taking the quest, midterm, or final exams by receiving or giving assistance of any kind.
 * Copying code from online sources without crediting them
 
 **What constitutes collaboration?**
