@@ -46,7 +46,7 @@ This Fall, CS10 will be be primarily in person, but we will be able to provide r
 
 * **Projects**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the class. 
 
-* **Homework/Final Project Parties**: These will serve as specialized office hours where you will be able to come work and get help on whatever project is currently assigned. We strongly encourage you to attend these as they will help you finish your assignments on time.
+* **Project Parties**: These will serve as specialized office hours where you will be able to come work and get help on whatever project is currently assigned. We strongly encourage you to attend these as they will help you finish your assignments on time.
 
 
 ## Grading Breakdown
@@ -125,7 +125,7 @@ We will set up a meeting with you to discuss the situation and determine the con
 We recognize that computer science is a demographically skewed field in the United States, and that even at Berkeley, minoritized students can find themselves feeling alone. It is our goal in this course to deliver an equitable learning experience for everyone involved. Concretely, this means a few things:
 - In addition to teaching the technical skills necessary for programming, we will also teach the social implications of computer science. In doing so, we will directly address the contributions of underrepresented groups to the field, which are often overlooked.
 - We will do our absolute best to show you that while bias, discrimination, and judgment still exist, they should not stand in the way of you learning computer science. While acknowledging the struggles many students may face, we also hope to show that computer science is a field anyone can be successful in (in other words, there is no innate "talent" or "trait" required to understand computer science). Of course, different people have different opportunities, but one of the goals of CS10 is to equalize the playing field.
-- Discrimination or disrespect on the basis of race, ethnicity, religion, socioeconomic status, ability, gender, or sexual orientation will be tolerated under no circumstances. Should someone make you feel uncomfortable or disrespected in any way, please let Madeleine or Deeksha know immediately via email or by coming to office hours. You can also fill out the [EECS Incident Reporting Form](https://eecs.link/climate).
+- Discrimination or disrespect on the basis of race, ethnicity, religion, socioeconomic status, ability, gender, or sexual orientation will be tolerated under no circumstances. Should someone make you feel uncomfortable or disrespected in any way, please let the instructor / head-TA know immediately via email (cs10@) or by coming to office hours. You can also fill out the [EECS Incident Reporting Form](https://eecs.link/climate).
 
 ## Academic Accommodations Hub
 Here's a link to the [Academic Accommodations Hub.](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub). 
