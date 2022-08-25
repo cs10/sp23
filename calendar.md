@@ -48,7 +48,7 @@
     </tr>
     <tr>
       <th>Fri 8/26</th> <!-- Date -->
-      <td>2. Functions</td> <!-- Lecture -->
+      <td>2. Functions<a href="https://drive.google.com/file/d/1Ht3y1NOwtOJbOYcEeuLHSUqmyhAw7OW-/view?usp=sharing">(slides)</a><a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">1. Welcome to CS 10!</a></td> <!-- Discussion -->
