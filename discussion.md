@@ -10,7 +10,7 @@ nav_order: 4
 This page will be updated with discussion worksheets and solutions throughout the semester.
 NOTE: The asynchronous discussion link will take you to video walkthroughs of discussion problems. However, they are from a previous semester so they will not always be the correct problems.
 
-**Discussion 1**{: .label .label-discussion } Welcome to CS 10! | [worksheet](https://drive.google.com/file/d/1ZrWBkoT7jbmlGnjZSDkCYm0L4XPZMrTL/view?usp=sharing) | 
+**Discussion 1**{: .label .label-discussion } Welcome to CS 10! | [worksheet](https://drive.google.com/file/d/1P3He36WVhoJWzSJAUCkd3yqbR8KHloHq/view?usp=sharing) | 
 
 <!-- **Discussion 2**{: .label .label-discussion } Number Representation, Booleans, and Conditions | [worksheet](https://drive.google.com/file/d/1klLzhoJV69Nt1vyhMciKMqyxZn89O3mf/view?usp=sharing) | [solutions](https://drive.google.com/file/d/153tYV9IdKeaKZ66BKcoY3zKEpOlXwN97/view?usp=sharing) | [Asynchronous discussion](https://www.youtube.com/playlist?list=PLFtj8IkGH5MIvW8lYOoODMcF4uMd3AfOQ)
 
