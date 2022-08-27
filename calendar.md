@@ -61,7 +61,7 @@
       <th>Mon 8/29</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa22/readings/">Week 2 Readings</a></td> <!-- Readings -->
-      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">2. Build Your Own Blocks<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">2. Build Your Own Blocks</a><br/>
         (due 8/31)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">1. Welcome to CS 10!</a></td> <!-- Discussion -->
       <td>release Proj 1: Wordle Lite<br/>
