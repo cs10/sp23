@@ -36,7 +36,7 @@ nav_order: 10
 </div>
 
 
-## Readers (will be updated soon!)
+## Readers
 
 {% assign readers = site.staffers | where: 'role', 'Reader' %}
 <div class="role">
