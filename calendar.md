@@ -64,9 +64,9 @@
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">2. Build Your Own Blocks</a><br/>
         (due 8/31)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">1. Welcome to CS 10!</a></td> <!-- Discussion -->
-      <td>release Proj 1: Wordle Lite<br/>
+      <td><a href="https://docs.google.com/document/d/14yTQOcw_RqoeyT5H0eQZNCjQj1QWi84-KD8yaVftsCQ/edit?usp=sharing">Proj 1: Wordle™ Lite</a><br/>
         (due 09/07)<br/>
-          release Reading Quiz 1<br/>
+          Reading Quiz 1<br/>
             (due 9/2)</td> <!-- Assignment -->
     </tr>
     <tr>
