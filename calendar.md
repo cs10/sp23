@@ -92,7 +92,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">3. Conditionals, Reporters, & Abstraction</a><br/>
-        (due 9/8)</td> <!-- Lab -->
+        (due 9/6)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
