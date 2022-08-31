@@ -95,8 +95,9 @@ There will be three exams: The Quest, the Midterm and the Final Exam. Exams will
 If you have a DSP accommodation through the university that is not addressed by the above policies, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to [cs10@berkeley.edu](mailto:cs10@berkeley.edu). 
 
 ## Extension Requests
-Please use this extension request form (link will be added soon! in the meanwhile, email [cs10@berkeley.edu](mailto:cs10@berkeley.edu) if you need to request an extension) to request extensions on deadlines for any assignments. Note that extensions will be reviewed approximately every two business days. While extensions may not be visible on PrarieLearn / Gradescope, they will be factored in when we compute your final grade.
+Please use this [extension request form](https://forms.gle/krWTHUdob4gbZLJn9) to request extensions on deadlines for any assignments. <b>NOTE: If you added the course late, please use your updated deadline as the 'original due date'.</b> Extensions will be reviewed approximately every two business days. <b>Important</b>: While extensions may not be visible on PrarieLearn / Gradescope (your assignments may be marked 'late'), they will be factored in when we compute your final grade. 
 
+[Extenuating Circumstances form](https://forms.gle/njTDd3cVn9a55ybf6) This form is for any circumstances that can't be resolved with extensions. Don't be afraid to reach out! We're here to help you succeed in our course.
 
 ## Academic Integrity
 
