@@ -80,7 +80,7 @@
     </tr>
     <tr>
       <th>Wed 8/31 </th> <!-- Date -->
-      <td>3. Numbers and Abstraction</td> <!-- Lecture -->
+      <td>3. Numbers and Abstraction <a href="https://drive.google.com/file/d/1ICST50BEh2AkzKCBSQWyapqgEzorKVu9/view?usp=sharing">(slides)</a><a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">3. Conditionals, Reporters, & Abstraction</a><br/>
         (due 9/6)</td> <!-- Lab -->
@@ -98,7 +98,7 @@
     </tr>
     <tr>
       <th>Fri 9/2</th> <!-- Date -->
-      <td>4. Lists, Scoping, & HOFs</td> <!-- Lecture -->
+      <td>4. Lists, Scoping, & HOFs<a href="https://drive.google.com/file/d/1IYVISNMnsXPEzfnNM33-0ffODSf-4h5e/view?usp=sharing">(slides)</a><a href="https://drive.google.com/file/d/1IaP-Y6_87H8iXwYDXRFwt6mU_DjFxp5K/view?usp=sharing">(code)</a><a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">2. Number Rep & Control Structures</a></td> <!-- Discussion -->
