@@ -10,7 +10,7 @@ nav_order: 4
 This page will be updated with discussion worksheets and solutions throughout the semester.
 NOTE: The asynchronous discussion link will take you to video walkthroughs of discussion problems. However, they are from a previous semester so they will not always be the correct problems.
 
-**Discussion 1**{: .label .label-discussion } Welcome to CS 10! | [worksheet](https://drive.google.com/file/d/1P3He36WVhoJWzSJAUCkd3yqbR8KHloHq/view?usp=sharing) |
+**Discussion 1**{: .label .label-discussion } Welcome to CS 10! | [worksheet](https://drive.google.com/file/d/1P3He36WVhoJWzSJAUCkd3yqbR8KHloHq/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1pwEOzDH-7FpjL6xl2x_ITFdS02cELZw8/view?usp=sharing) | [recording](https://berkeley.zoom.us/rec/share/dhlwfS6wSoMU7X3lyjAjsg9pGMLwak1-w-ztVoFgkcFFIwapofBqy_8WZRMZ1BYz._UK-DwGX73atXtEf%20%20Passcode:%20FPV6$f.R) | password : FPV6$f.R 
 
 **Discussion 2**{: .label .label-discussion } Number Representation and Control Structures | [worksheet](https://drive.google.com/file/d/1yoUfUe7dnLM63h0ZSf5WcY_UMx_pKVuk/view?usp=sharing) |
 
