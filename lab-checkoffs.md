@@ -33,6 +33,16 @@ labs:
       - Show us your traffic signal and letter grade blocks.
       - Show us the `is _ between _ and _ ?` block.
       - Show and explain your sum of two smallest block.
+
+  - lab_name: Lists and HOFs
+    lab_no: 4
+    topic_file: berkeley_bjc/lists/lists-I.topic
+    questions:
+      - What is a list? Why would we use a list of 10 elements instead of just making 10 variables?
+      - What do `map`, `keep`, and `combine` each do?
+      - What is the difference between the `for each (item)` loop and the `for (i)` loop we have used in previous labs?
+      - Show us your `acronym` block.
+      - Show us your `expand` block.
   
 ---
 # Lab Check-Offs
