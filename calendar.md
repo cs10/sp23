@@ -149,7 +149,7 @@
     </tr>
     <tr>
       <th>Fri 9/9</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
+      <td>6.1 Social Implications (I)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">3. Domain/Range, Scoping, Lists & HOFs</a></td> <!-- Discussion -->
@@ -180,7 +180,7 @@
     </tr>
     <tr>
       <th>Wed 9/14 </th> <!-- Date -->
-      <td>6. Social Implications I</td> <!-- Lecture -->
+      <td>6.2 Social Implications II</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 2 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
