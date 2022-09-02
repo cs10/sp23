@@ -123,7 +123,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">
-        (due 9/8)4. Lists & HOFs</a><br/></td> <!-- Lab -->
+        4. Lists & HOFs (due 9/8)</a><br/></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -131,7 +131,7 @@
       <th>Wed 9/7 </th> <!-- Date -->
       <td>5. Algorithms</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment"> (due 9/12)4. Lists & HOFs</a><br/>4. Lists & HOFs<br/></td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">4. Lists & HOFs (due 9/12)</a><br/></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 1 Due<br/>
         release PROJ 2: Mastermind<br/>
