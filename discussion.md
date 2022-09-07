@@ -12,7 +12,7 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 
 **Discussion 1**{: .label .label-discussion } Welcome to CS 10! | [worksheet](https://drive.google.com/file/d/1P3He36WVhoJWzSJAUCkd3yqbR8KHloHq/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1pwEOzDH-7FpjL6xl2x_ITFdS02cELZw8/view?usp=sharing) | [recording](https://berkeley.zoom.us/rec/share/dhlwfS6wSoMU7X3lyjAjsg9pGMLwak1-w-ztVoFgkcFFIwapofBqy_8WZRMZ1BYz._UK-DwGX73atXtEf%20%20Passcode:%20FPV6$f.R) | password : FPV6$f.R
 
-**Discussion 2**{: .label .label-discussion } Number Representation and Control Structures | [worksheet](https://drive.google.com/file/d/1lefXU8Q6FQy4cdYtL-0m31O2iCAXeF_U/view?usp=sharing) | [presentation](https://drive.google.com/file/d/1YUkszs8uK9e7gOqQGctzM88ATomybowM/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me)
+**Discussion 2**{: .label .label-discussion } Number Representation and Control Structures | [worksheet](https://drive.google.com/file/d/1lefXU8Q6FQy4cdYtL-0m31O2iCAXeF_U/view?usp=sharing) | [solutions](https://drive.google.com/file/d/19IPWvxwy3BbNdjy6J8qnaInU7V-Pootd/view?usp=sharing) | [presentation](https://drive.google.com/file/d/1YUkszs8uK9e7gOqQGctzM88ATomybowM/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me)
 
 **Discussion 3**{: .label .label-discussion } Domain/Range, Scoping, Lists & HOFs | [worksheet](https://drive.google.com/file/d/1rzj4QvmI2OqFB5DVPyQbcdz3i9EQ1VOl/view?usp=sharing) |
 
