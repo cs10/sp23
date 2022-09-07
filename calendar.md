@@ -75,7 +75,7 @@
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">2. Build Your Own Blocks</a><br/>
         (due 9/1)</td> <!-- Lab -->
-      <td></td><!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">1. Welcome to CS 10!</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -124,7 +124,7 @@
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">
         4. Lists & HOFs </a><br/>(due 9/8)</td> <!-- Lab -->
-      <td></td><!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">2. Number Rep & Control Structures</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -164,18 +164,15 @@
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment">5. Algorithms</a><br/>
         (due 9/19)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">3. Domain/Range, Scoping, Lists & HOFs</a></td> <!-- Discussion -->
-      <td>release <b>QUEST</b><br/>
-        (due 9/13)</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 9/13</th> <!-- Date -->
-      <td><b>QUEST</b><br/>
-        (due 9/13)</td> <!-- Lecture -->
+      <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>NO CLASS<br/>
-        (QUEST)</td> <!-- Lab -->
-      <td></td><!-- Discussion -->
-      <td><b>QUEST Due</b></td> <!-- Assignment -->
+      <td></td> <!-- Lab -->
+      <td><a href="https://cs10.org/fa22/discussion/">3. Domain/Range, Scoping, Lists & HOFs</a></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 9/14 </th> <!-- Date -->
@@ -199,7 +196,8 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">4. Algorithms</a></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td><td>release <b>QUEST</b><br/>
+        (due 9/18)</td></td> <!-- Assignment -->
     </tr>
 
     <!-- WEEK FIVE -->
@@ -220,7 +218,7 @@
       <td></td> <!-- Readings -->
       <td>6. Algorithmic Complexity<br/>
         (due 9/22)</td> <!-- Lab -->
-      <td></td><!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">4. Algorithms</a></td> <!-- Discussion -->
       <td>PROJ 2 Due</td> <!-- Assignment -->
     </tr>
     <tr>
@@ -269,7 +267,7 @@
       <td></td> <!-- Readings -->
       <td>8. Boards<br/>
         (due 9/28)</td> <!-- Lab -->
-      <td></td><!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">5. Algorithmic Complexity</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -316,7 +314,7 @@
       <td></td> <!-- Readings -->
       <td>10. Recursive Reporters<br/>
         (due 10/5)</td> <!-- Lab -->
-      <td></td><!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">6. Recursion I</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -363,7 +361,7 @@
       <td></td> <!-- Readings -->
       <td>11. Functions as Data, HOFs<br/>
         (due 10/13)</td> <!-- Lab -->
-      <td></td><!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">7. Recursion II</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -408,7 +406,8 @@
       <td><b>MIDTERM</b></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><b>In Lab Midterm</b></td> <!-- Lab -->
-      <td></td><!-- Discussion -->
+      <td>NO CLASS<br/>
+        (MIDTERM)</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -458,7 +457,7 @@
       <td></td> <!-- Readings -->
       <td>13. Data Structures in Python<br/>
         (due 10/27)</td> <!-- Lab -->
-      <td></td><!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">9. Intro to Python</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -508,7 +507,7 @@
       <td></td> <!-- Readings -->
       <td>15. Text Processing in Python<br/>
         (due 11/8)</td> <!-- Lab -->
-      <td></td><!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">10. List Comprehension & Dictionaries</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -556,7 +555,7 @@
       <td></td> <!-- Readings -->
       <td>16. Intro to Data Science<br/>
         (due 11/15)</td> <!-- Lab -->
-      <td></td><!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">11. OOP</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -606,7 +605,7 @@
       <td></td> <!-- Readings -->
       <td>17. Concurrency<br/>
         (due 11/22)</td> <!-- Lab -->
-      <td></td><!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">12. Python HOFs, Lambdas, Tree Recursion</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -652,7 +651,7 @@
       <td></td> <!-- Readings -->
       <td>18. Snap! & Python Libraries<br/>
         (due 11/29)</td> <!-- Lab -->
-      <td></td><!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">13. Social Implications</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -700,7 +699,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>FINAL PROJ Work Session</td> <!-- Lab -->
-      <td></td><!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">14. Final Review & Farewell</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
