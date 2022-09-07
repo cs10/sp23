@@ -129,7 +129,7 @@
     </tr>
     <tr>
       <th>Wed 9/7 </th> <!-- Date -->
-      <td>5. Algorithms</td> <!-- Lecture -->
+      <td>5. Algorithms<a href="https://docs.google.com/presentation/d/1gozRmEGpizb1R1e1G9u94DdBs13hOSvs/edit?usp=sharing&ouid=100468452242476439424&rtpof=true&sd=true">(slides)</a><a href="https://drive.google.com/file/d/1IaP-Y6_87H8iXwYDXRFwt6mU_DjFxp5K/view?usp=sharing">(code)</a><a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">4. Lists & HOFs </a><br/>(due 9/12)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -148,7 +148,7 @@
     </tr>
     <tr>
       <th>Fri 9/9</th> <!-- Date -->
-      <td>6.1 Social Implications (I)</td> <!-- Lecture -->
+      <td>6.1 Social Implications (I)<a href="https://docs.google.com/presentation/d/1TWeFdTZapeCdxtAH6MM1qktNuuzod29c/edit?usp=sharing&ouid=100468452242476439424&rtpof=true&sd=true">(slides)</a><a href="https://drive.google.com/file/d/1IaP-Y6_87H8iXwYDXRFwt6mU_DjFxp5K/view?usp=sharing">(code)</a><a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">3. Domain/Range, Scoping, Lists & HOFs</a></td> <!-- Discussion -->
