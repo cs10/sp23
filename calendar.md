@@ -134,7 +134,6 @@
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">4. Lists & HOFs </a><br/>(due 9/12)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 1 Due<br/>
-    </tr>
     <tr>
       <th>Thur 9/8</th> <!-- Date -->
       <td></td> <!-- Lecture -->
@@ -150,8 +149,8 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">3. Domain/Range, Scoping, Lists & HOFs</a></td> <!-- Discussion -->
-      <td>Reading Quiz 2 Due
-        release PROJ 2: Mastermind<br/>
+      <td>Reading Quiz 2 Due<br/>
+        release PROJ 2: Wordle™<br/>
           (due 9/20)</td> <!-- Assignment --> <!-- Assignment -->
     </tr>
 
