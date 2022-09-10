@@ -56,8 +56,8 @@ This Fall, CS10 will be be primarily in person, but we will be able to provide r
 | Quest                          | 40       |
 | Midterm (In-Lab and Paper)     | 80       |
 | Final                          | 100      |
-| Project 1: Wordmatch           | 10       |
-| Project 2: Mastermind          | 20       |
+| Project 1: Wordle™-lite        | 10       |
+| Project 2: Wordle™             | 20       |
 | Project 3: 2048                | 30       |
 | Project 4: Explore             | 40       |
 | Project 5: Python              | 50       |
