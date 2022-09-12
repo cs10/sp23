@@ -150,7 +150,7 @@
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">3. Domain/Range, Scoping, Lists & HOFs</a></td> <!-- Discussion -->
       <td>Reading Quiz 2 Due<br/>
-        release PROJ 2: Wordle™<br/>
+        <a href = "https://docs.google.com/document/d/1gKmtcHqM0AV8dVmt-PwnpNOtqtdfCsd1uc3gcmf5o5w/edit?usp=sharing">(release PROJ 2: Wordle™)</a><br/>
           (due 9/20)</td> <!-- Assignment --> <!-- Assignment -->
     </tr>
 
