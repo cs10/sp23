@@ -175,7 +175,8 @@
     </tr>
     <tr>
       <th>Wed 9/14 </th> <!-- Date -->
-      <td>6.2 Social Implications II</td> <!-- Lecture -->
+      <td>6.2 Social Implications (II- Education)<a href="https://drive.google.com/file/d/16pjTWrRbxxRCWQgf4Y3jvoit52mdt6gw/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 2 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -191,7 +192,9 @@
     </tr>
     <tr>
       <th>Fri 9/16</th> <!-- Date -->
-      <td>7. Algorithmic Complexity</td> <!-- Lecture -->
+      <td>7. Algorithmic Complexity<a href="https://drive.google.com/file/d/16jJ5OPidC_xtu-lVUcIA4ZPNxekNbAIs/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
+      <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">4. Algorithms</a></td> <!-- Discussion -->
