@@ -16,7 +16,7 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 
 **Discussion 3**{: .label .label-discussion } Domain/Range, Scoping, Lists & HOFs | [worksheet](https://drive.google.com/file/d/1j_i6bn_cXE7g8YE3HxYD3Bo3-NlB9-Qh/view?usp=sharing) | [presentation](https://drive.google.com/file/d/1MMTqk-6YZBwF8v8V4FMIjNn1yc8D5lZw/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me) | [solutions](https://drive.google.com/file/d/1NWCG4VxOlN027iYnBOThYg658oJdhzyo/view?usp=sharing)
 
-<!-- **Discussion 4**{: .label .label-discussion } Algorithms | [worksheet](https://drive.google.com/file/d/1uYVlRPLmk6aRTzuu7AQWqkzKgcsCKsU5/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1LdQvx2bLkpylsbJyO8dDjbTHi79AR8Hh/view?usp=sharing) | [section recording](https://www.youtube.com/watch?v=emZedghuigs&feature=youtu.be) | [walkthrough videos](https://drive.google.com/drive/folders/1mfbweQQoaaI_JYZvfnevV3NU44tgQ2R_?usp=sharing) | [content guide](https://docs.google.com/document/u/1/d/1wBmBy4Pszd2yxhLc6H_Sp7EyW55IPuOVIkOOGwfR9l0/edit?usp=sharing) -->
+**Discussion 4**{: .label .label-discussion } Algorithms | [worksheet](https://drive.google.com/file/d/1KgrwtGlwsa_JhIwPUnDNUhN-QWGEq0XY/view?usp=sharing)
 
 <!-- **Discussion 5**{: .label .label-discussion } Algorithmic Complexity | [worksheet](https://drive.google.com/file/d/1Bp95TI0rfoe8130YZTzZMTmoLfeAcuM5/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1Dt9OUBqbC6bg-7wCRO9hQFLodeZv-4dv/view?usp=sharing) | [section recording] | [walkthrough videos](https://drive.google.com/drive/folders/1y-OWV7sT5FDijsZWNYnkA5bliJkrX64e?usp=sharing) -->
 
