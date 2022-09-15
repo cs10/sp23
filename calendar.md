@@ -198,8 +198,8 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">4. Algorithms</a></td> <!-- Discussion -->
-      <td><td>release <b>QUEST</b><br/>
-        (due 9/18)</td></td> <!-- Assignment -->
+      <td>release <b>QUEST</b><br/>
+        (due 9/18)</td> <!-- Assignment -->
     </tr>
 
     <!-- WEEK FIVE -->

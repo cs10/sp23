@@ -32,10 +32,9 @@ Below, you can find various resources to help with your understanding of the mat
 * [CS 61A's Terminal Guide](https://inst.eecs.berkeley.edu/~cs61a/sp19/articles/unix.html)
 * [Jake's Python Debugging Guide](https://docs.google.com/document/u/1/d/e/2PACX-1vRqCD_Vmn0tYhoOrcju_9b3mrmjLYuJt2VJDMYpUDpTxFIfvY4AFWWQh0Hwl3Yj7kduSe0gYV5UvLdT/pub?embedded=true)
 
-## Homework Walkthroughs (called projects in regular semesters)
+## Project Walkthroughs and Hint Videos
 
-* [Homework 1: Matching Slots Block Walkthrough](https://www.youtube.com/watch?v=U4xvWhSZUM4)
-* [Homework 2: Out-of-Place Block Walkthrough](https://www.youtube.com/playlist?list=PLVTwPOvE0LgaTklE0KzLL8gmsVN0PmdcH)
+* [Project 2: Matching 123 Slots Hint Video](https://youtu.be/RID64PQzznQ)
 
 ## Past Exams
 
