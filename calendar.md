@@ -194,7 +194,6 @@
       <th>Fri 9/16</th> <!-- Date -->
       <td>7. Algorithmic Complexity<a href="https://drive.google.com/file/d/16jJ5OPidC_xtu-lVUcIA4ZPNxekNbAIs/view?usp=sharing">(slides)</a>
       <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
-      <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">4. Algorithms</a></td> <!-- Discussion -->
