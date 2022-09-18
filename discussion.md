@@ -18,7 +18,7 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 
 **Discussion 4**{: .label .label-discussion } Algorithms | [worksheet](https://drive.google.com/file/d/1KgrwtGlwsa_JhIwPUnDNUhN-QWGEq0XY/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1oUzy9jU9QYE1AsSTWWMoHiyH5EAd1X_W/view?usp=sharing) | [presentation](https://drive.google.com/file/d/1HtEeRGLLoJOFO5CD2gfHPWibSxtRsXxb/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me)
 
-<!-- **Discussion 5**{: .label .label-discussion } Algorithmic Complexity | [worksheet](https://drive.google.com/file/d/1Bp95TI0rfoe8130YZTzZMTmoLfeAcuM5/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1Dt9OUBqbC6bg-7wCRO9hQFLodeZv-4dv/view?usp=sharing) | [section recording] | [walkthrough videos](https://drive.google.com/drive/folders/1y-OWV7sT5FDijsZWNYnkA5bliJkrX64e?usp=sharing) -->
+**Discussion 5**{: .label .label-discussion } Algorithmic Complexity | [worksheet](https://drive.google.com/file/d/1sqd5264K2lrOAfej3mHzZ_pxAH5TsfCm/view?usp=sharing)
 
 <!-- **Discussion 6**{: .label .label-discussion } Intro to Recursion | [worksheet](https://drive.google.com/file/d/12bZHY-gG_ThpvvLZIvQADUczMtPN_aQV/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1ayqkvSAeX44FAVjtrfeqsqwqNX1hJjN-/view?usp=sharing) | [section recording] | [walkthrough videos](https://drive.google.com/drive/folders/10URH3Od0V-AtaqOKYLzX1zECqLJoRA9L?usp=sharing) -->
 
