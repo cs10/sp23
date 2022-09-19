@@ -226,7 +226,7 @@
       <th>Wed 9/21 </th> <!-- Date -->
       <td>8. Testing + 2048</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>7. Testing + Proj 3<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">7. Testing + Proj 3</a><br/>
         (due 9/26)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release PROJ 3: 2048<br/>
@@ -236,7 +236,7 @@
       <th>Thur 9/22</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>7. Testing + Proj 3<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">7. Testing + Proj 3</a><br/>
         (due 9/27)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->

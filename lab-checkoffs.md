@@ -53,6 +53,7 @@ labs:
       - What might some "trade-offs" to different computer science algorithms be?
       - How can abstraction and algorithms relate in computer science?
       - Please show both your `findNumberInUnsortedList` and `findNumberInSortedList` functions and describe the difference in the algorithms used.
+  
   - lab_name: Algorithmic Complexity
     lab_no: 6
     topic_file: berkeley_bjc/areas/algorithm-complexity.topic
@@ -62,6 +63,16 @@ labs:
       - What is the difference between “Worst-Case” and “Best Case” Runtimes when running the Are the numbers of (LIST) distinct block? Why?
       - What happened with the time it took for your computer to counter up the numbers between 1 and x when you started doubling the numbers? Tripling the numbers? What do you think would happen with the time I multiplied your top number by 8?
       - Please show me your Non-Gauss and Gauss Add all numbers in. Which was faster? Why?
+
+  - lab_name: Testing + Homework 3
+    lab_no: 7
+    topic_file: berkeley_bjc/2048-testing/2048.topic
+    questions:
+      - How does the test block work? What is its domain and range?
+      - How will writing tests help you for the 2048 assignment?
+      - How do merge up and merge column work? What is the domain/range of each block?
+      - What is the domain and range of the update display block?
+      - Show us the output of your test block on the merge column. Explain why this output makes sense.
   
 ---
 # Lab Check-Offs
@@ -112,15 +123,7 @@ On this page, you will find a list of check-off questions for each lab.
       - Please show me your `snowflake` block.
       - Please show me your `crazy-tree` block.
   
-  - lab_name: Testing + Homework 3
-    lab_no: 9
-    topic_file: berkeley_bjc/2048-testing/2048.topic
-    questions:
-      - How does the test block work? What is its domain and range?
-      - How will writing tests help you for the 2048 assignment?
-      - How do merge up and merge column work? What is the domain/range of each block?
-      - What is the domain and range of the update display block?
-      - Show us the output of your test block on the merge column. Explain why this output makes sense.
+
  
   - lab_name: HOFS and Functions as Data
     lab_no: 10
