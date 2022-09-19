@@ -207,7 +207,7 @@
       <th>Mon 9/19</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa22/readings/">Week 5 Readings</a></td> <!-- Readings -->
-      <td>6. Algorithmic Complexity<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment"> 6. Algorithmic Complexity</a><br/>
         (due 9/21)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">4. Algorithms</a></td> <!-- Discussion -->
       <td>release Reading Quiz 3<br/>
@@ -217,7 +217,7 @@
       <th>Tue 9/20</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>6. Algorithmic Complexity<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment">6. Algorithmic Complexity</a><br/>
         (due 9/22)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">4. Algorithms</a></td> <!-- Discussion -->
       <td>PROJ 2 Due</td> <!-- Assignment -->
