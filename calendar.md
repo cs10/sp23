@@ -246,9 +246,9 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">5. Algorithmic Complexity</a></td> <!-- Discussion -->
-      <td>Reading Quiz 3 Due</td>
-      <td>release PROJ 3: 2048<br/>
-        (due 10/06)</td> <!-- Assignment -->
+      <td>Reading Quiz 3 Due<br/>
+        release PROJ 3: 2048<br/>
+          (due 10/06)</td> <!-- Assignment -->
     </tr>
 
     <!-- WEEK SIX -->
