@@ -229,8 +229,7 @@
       <td>7. Testing + Proj 3<br/>
         (due 9/26)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release PROJ 3: 2048<br/>
-        (due 10/06)</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 9/22</th> <!-- Date -->
@@ -247,7 +246,9 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">5. Algorithmic Complexity</a></td> <!-- Discussion -->
-      <td>Reading Quiz 3 Due</td> <!-- Assignment -->
+      <td>Reading Quiz 3 Due</td>
+      <td>release PROJ 3: 2048<br/>
+        (due 10/06)</td> <!-- Assignment -->
     </tr>
 
     <!-- WEEK SIX -->
