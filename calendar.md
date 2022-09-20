@@ -151,7 +151,7 @@
       <td><a href="https://cs10.org/fa22/discussion/">3. Domain/Range, Scoping, Lists & HOFs</a></td> <!-- Discussion -->
       <td>Reading Quiz 2 Due<br/>
         <a href = "https://docs.google.com/document/d/1gKmtcHqM0AV8dVmt-PwnpNOtqtdfCsd1uc3gcmf5o5w/edit?usp=sharing">(release PROJ 2: Wordle™)</a><br/>
-          (due 9/20)</td> <!-- Assignment --> <!-- Assignment -->
+          (due 9/22)</td> <!-- Assignment --> <!-- Assignment -->
     </tr>
 
     <!-- WEEK FOUR -->
@@ -220,7 +220,7 @@
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment">6. Algorithmic Complexity</a><br/>
         (due 9/22)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">4. Algorithms</a></td> <!-- Discussion -->
-      <td>PROJ 2 Due</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 9/21 </th> <!-- Date -->
@@ -239,7 +239,7 @@
       <td>7. Testing + Proj 3<br/>
         (due 9/27)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>PROJ 2 Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 9/23</th> <!-- Date -->
