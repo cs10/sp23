@@ -6,7 +6,7 @@ nav_order: 10
 ---
 
 # Staff
-### Add 'berkeley.edu' to the end of all emails. 
+### Add 'berkeley.edu' to the end of all emails.
 
 ## Instructor
 
@@ -43,4 +43,16 @@ nav_order: 10
   {% for staffer in readers %}
   {{ staffer }}
   {% endfor %}
+</div>
+
+
+## Academic Interns (AI's)
+
+<div class="role">
+  |Title  |Link  |
+  |---|---|
+  {% for staff in site.staffers | where: 'role', 'AI' %}
+    |{{ staff }}|
+    {% endif %}
+    {%- endfor -%}
 </div>
