@@ -49,13 +49,8 @@ nav_order: 10
 ## Academic Interns (AI's)
 
 {% assign ais = site.staffers | where: 'role', 'AI' %}
-
-
 <div class="role">
-  |Title  |Link  |
-  |---|---|
   {% for staffer in ais %}
-    |{{ staffer }}|
-    {% endif %}
+    {{ staffer }}
     {% endfor %}
 </div>
