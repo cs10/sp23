@@ -1,6 +1,6 @@
 ---
 name: JiHo Bang
-role: Academic Intern
+role: AI
 email: jihobang@
 website:
 photo: jiho.png

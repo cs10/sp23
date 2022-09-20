@@ -1,7 +1,7 @@
 ---
 name: Rachel Hong
 role: AI
-email: rachelgiahong@berkeley.edu
+email: rachelgiahong@
 website: https://www.linkedin.com/in/rachel-hong-a596a5221
 photo: rachel.jpeg
 ---

@@ -1,6 +1,6 @@
 ---
 name: Manaar Salama
-role: Academic Intern
+role: AI
 email: mgsalama@berkeley.edu
 photo: manaar.jpg
 ---

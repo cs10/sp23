@@ -1,6 +1,6 @@
 ---
 name: Dream Lopez
-role: AI+
+role: AI
 email: dreamlopez@
 website: www.linkedin.com/in/dream-lopez
 photo: dreamlopez.png

@@ -1,7 +1,7 @@
 ---
 name: Myrah Shah
 role: AI
-email: myrahshah
+email: myrahshah@
 website: https://www.linkedin.com/in/myrahshah/
 photo: myrah.JPG
 ---

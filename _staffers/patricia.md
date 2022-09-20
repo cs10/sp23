@@ -1,6 +1,6 @@
 ---
 name: Patricia Suwardi
-role: AI and Lab Development AI+
+role: AI
 email: psuwardi@
 website: https://www.linkedin.com/in/patricia-suwardi
 photo: patricia.png

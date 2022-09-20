@@ -1,7 +1,7 @@
 ---
 name: Marius Castro
 role: AI
-email: mariuscastro@berkeley.edu
+email: mariuscastro@
 website:
 photo: marius.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 name: Sammie Shenon
-role: Academic Intern
+role: AI
 email: sshenon@berkeley.edu
 website: www.linkedin.com/in/sammieshenon
 photo: sammie.png

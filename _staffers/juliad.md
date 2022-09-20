@@ -1,6 +1,6 @@
 ---
 name: Julia Dashzeveg
-role: Lab AI
+role: AI
 email: juliamd@
 website: https://www.linkedin.com/in/julia-dashzeveg-21aa001bb/
 photo: juliad.png

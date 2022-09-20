@@ -1,6 +1,6 @@
 ---
 name: Jasper Shine
-role: Academic Intern
+role: AI
 email: jshine@
 website: https://www.linkedin.com/in/jaspershine/
 photo: jasper.png
