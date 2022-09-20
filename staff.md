@@ -51,6 +51,6 @@ nav_order: 10
 {% assign ai = site.staffers | where: 'role', 'AI' %}
 <table style="width:100%">
   {% tablerow staffer in ai cols:4 %}
-    <tr> {{ staffer }} </tr>
+    <dir> {{ staffer }} </dir>
   {% endtablerow %}
 </table>
