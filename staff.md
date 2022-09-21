@@ -49,8 +49,8 @@ nav_order: 10
 ## Academic Interns (AI's)
 
 {% assign ai = site.staffers | where: 'role', 'AI' %}
-<table style="width:100%">
-  {% tablerow staffer in ai cols:4 %}
-    <dir> {{ staffer }} </dir>
-  {% endtablerow %}
-</table>
+<div class="role">
+  {% for staffer in ai %}
+  {{ staffer }}
+  {% endfor %}
+</div>
