@@ -223,8 +223,9 @@
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Wed 9/21 </th> <!-- Date -->
-      <td>8. Testing + 2048</td> <!-- Lecture -->
+      <th>Wed 9/21</th> <!-- Date -->
+      <td>8. Testing + 2048 <a href="https://drive.google.com/file/d/1JWHWjvo4kloDMv2i-yBbnsGhRWLFsHym/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">7. Testing + Proj 3</a><br/>
         (due 9/26)</td> <!-- Lab -->
@@ -242,7 +243,8 @@
     </tr>
     <tr>
       <th>Fri 9/23</th> <!-- Date -->
-      <td>9. Recursion I (Functional)</td> <!-- Lecture -->
+      <td>9. Recursion I (Functional)<a href="https://drive.google.com/file/d/1J8JQICpKN5ZpinUb3LdqSsE2X1Naox-s/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">5. Algorithmic Complexity</a></td> <!-- Discussion -->
@@ -274,7 +276,8 @@
     </tr>
     <tr>
       <th>Wed 9/28 </th> <!-- Date -->
-      <td>10. Recursion II (Fractals)</td> <!-- Lecture -->
+      <td>10. Recursion II (Fractals)<a href="https://drive.google.com/file/d/1JHsHL9dTLXTXNEwC2eFlcWORQTRxO0lC/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>9. Trees & Fractals<br/>
         (due 10/3)</td> <!-- Lab -->
@@ -292,7 +295,8 @@
     </tr>
     <tr>
       <th>Fri 9/30</th> <!-- Date -->
-      <td>11. Recursion III (Count Change)</td> <!-- Lecture -->
+      <td>11. Recursion III (Count Change)<a href="https://drive.google.com/file/d/1JG95SUV897etJy0pqwwAV-zxICYRUdUh/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">6. Recursion I</a></td> <!-- Discussion -->
