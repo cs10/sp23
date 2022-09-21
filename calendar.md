@@ -234,8 +234,8 @@
     <tr>
       <th>Thur 9/22</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">7. Testing + Proj 3</a></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td></td> <!-- Readings -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">7. Testing + Proj 3</a></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 2 Due</td> <!-- Assignment -->
     </tr>
