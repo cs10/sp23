@@ -308,7 +308,7 @@
       <td rowspan=5>7</td> <!-- Week Number -->
       <th>Mon 10/3</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa22/readings/">Week 7 Readings (optional)</a></td> <!-- Readings -->
+      <td><a href="https://cs10.org/fa22/readings/">Week 7 Readings </a></td> <!-- Readings -->
       <td>10. Recursive Reporters<br/>
         (due 10/5)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">6. Recursion I</a></td> <!-- Discussion -->
