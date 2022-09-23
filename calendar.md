@@ -249,7 +249,7 @@
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">5. Algorithmic Complexity</a></td> <!-- Discussion -->
       <td>Reading Quiz 3 Due<br/>
-        release PROJ 3: 2048<br/>
+        <a href= "https://docs.google.com/document/d/16quGw0eUFT__z67uH7NLr-twGBnXriL4SEIkn0XBLaM/edit?usp=sharing">PROJ 3: 2048 released</a><br/>
           (due 10/06)</td> <!-- Assignment -->
     </tr>
 
