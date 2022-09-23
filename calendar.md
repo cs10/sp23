@@ -259,7 +259,7 @@
       <th>Mon 9/26</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa22/readings/">Week 6 Readings</a></td> <!-- Readings -->
-      <td>8. Boards<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8. Boards</a><br/>
         (due 9/28)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">5. Algorithmic Complexity</a></td> <!-- Discussion -->
       <td>release Reading Quiz 4<br/>
@@ -269,7 +269,7 @@
       <th>Tue 9/27</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>8. Boards<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8. Boards</a><br/>
         (due 9/28)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">5. Algorithmic Complexity</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -279,7 +279,7 @@
       <td>10. Recursion II (Fractals)<a href="https://drive.google.com/file/d/1JHsHL9dTLXTXNEwC2eFlcWORQTRxO0lC/view?usp=sharing">(slides)</a>
       <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>9. Trees & Fractals<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">9. Trees & Fractals</a><br/>
         (due 10/3)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -288,7 +288,7 @@
       <th>Thur 9/29</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>9. Trees & Fractals<br/>
+      <td><href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">9. Trees & Fractals</a><br/>
         (due 10/4)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->

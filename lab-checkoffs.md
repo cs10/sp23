@@ -73,6 +73,25 @@ labs:
       - How do merge up and merge column work? What is the domain/range of each block?
       - What is the domain and range of the update display block?
       - Show us the output of your test block on the merge column. Explain why this output makes sense.
+
+  - lab_name: Boards
+    lab_no: 8
+    topic_file: berkeley_bjc/lists/tic-tac-toe.topic
+    questions:
+    - Why did we have variables like `Size`, `Start`, and `Display Width` when designing our board? What do they do?
+    - Explain an advantage of using an underlying board structure when designing a game.
+    - Show your working board game by moving the sprite around the board and clicking to place bugs.
+
+  - lab_name: Trees and Fractals
+    lab_no: 9
+    topic_file: berkeley_bjc/recur/recursion-trees-fractals.topic
+    questions:
+      - Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?
+      - Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?
+      - What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
+      - Please show me your `snowflake` block.
+      - Please show me your `crazy-tree` block.
+  
   
 ---
 # Lab Check-Offs
@@ -113,16 +132,7 @@ On this page, you will find a list of check-off questions for each lab.
       - Show us the recursive numbers block.
       - Show us the recursive ends-e block.
  
-  - lab_name: Trees and Fractals
-    lab_no: 8
-    topic_file: berkeley_bjc/recur/recursion-trees-fractals.topic
-    questions:
-      - Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?
-      - Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?
-      - What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
-      - Please show me your `snowflake` block.
-      - Please show me your `crazy-tree` block.
-  
+ 
 
  
   - lab_name: HOFS and Functions as Data
@@ -134,13 +144,7 @@ On this page, you will find a list of check-off questions for each lab.
     - Show us your `factorion` block and explain how it works.
     - Show us your `list all factorions` function. How does this compare to the `list all pandigital numbers` function?
   
-  - lab_name: Boards
-    lab_no: 11
-    topic_file: berkeley_bjc/lists/tic-tac-toe.topic
-    questions:
-    - Why did we have variables like `Size`, `Start`, and `Display Width` when designing our board? What do they do?
-    - Explain an advantage of using an underlying board structure when designing a game.
-    - Show your working board game by moving the sprite around the board and clicking to place bugs.
+  
   
   - lab_name: Welcome to Python
     lab_no: 12
