@@ -632,7 +632,7 @@
     </tr>
     <tr>
       <th>Fri 11/18</th> <!-- Date -->
-      <td>23. Limits of Computing</td> <!-- Lecture -->
+      <td>23. Guest Lecture: Limits of Computing (Professor Jelani Nelson)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">13. Social Implications</a></td> <!-- Discussion -->
