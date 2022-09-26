@@ -325,7 +325,7 @@
     </tr>
     <tr>
       <th>Wed 10/5 </th> <!-- Date -->
-      <td>12. Social Implications II</td> <!-- Lecture -->
+      <td>12. Guest Lecture: Saving the World with Computing (Professor Katherine Yelick)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 3 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
