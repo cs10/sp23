@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <th>Wed 8/24 </th> <!-- Date -->
-      <td>1. Welcome to CS10 & Abstraction <a href="https://drive.google.com/file/d/1Hv8dMrVC98y015EojMSMRQ5PLBhlplJ0/view?usp=sharing">(slides)</a><a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a> </td> <!-- Lecture -->
+      <td>1. Welcome to CS10 & Abstraction <a href="https://drive.google.com/file/d/1GQWC_Jj8RS0tSGT5xhliHrHbLNzE7FYU/view?usp=sharing">(slides)</a><a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a> </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=&novideo&noreading&noassignment">1. Welcome to Snap!</a><br/>(No checkoff)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
