@@ -325,7 +325,7 @@
     </tr>
     <tr>
       <th>Wed 10/5 </th> <!-- Date -->
-      <td>12. Guest Lecture: Saving the World with Computing (Professor Katherine Yelick)</td> <!-- Lecture -->
+      <td>12. Guest Lecture: Saving the World with Computing <a href="https://people.eecs.berkeley.edu/~yelick/"></a>(Professor Katherine Yelick)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 3 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -632,7 +632,7 @@
     </tr>
     <tr>
       <th>Fri 11/18</th> <!-- Date -->
-      <td>23. Guest Lecture: Limits of Computing (Professor Jelani Nelson)</td> <!-- Lecture -->
+      <td>23. Guest Lecture: Limits of Computing <a href="https://people.eecs.berkeley.edu/~minilek/">(Professor Jelani Nelson)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">13. Social Implications</a></td> <!-- Discussion -->
