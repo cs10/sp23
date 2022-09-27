@@ -325,7 +325,7 @@
     </tr>
     <tr>
       <th>Wed 10/5 </th> <!-- Date -->
-      <td>12. Guest Lecture: Saving the World with Computing <a href="https://people.eecs.berkeley.edu/~yelick/"></a>(Professor Katherine Yelick)</td> <!-- Lecture -->
+      <td>12. Guest Lecture: Saving the World with Computing <a href="https://people.eecs.berkeley.edu/~yelick/">(Professor Katherine Yelick)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 3 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
