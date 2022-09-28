@@ -18,7 +18,7 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 
 **Discussion 4**{: .label .label-discussion } Algorithms | [worksheet](https://drive.google.com/file/d/1KgrwtGlwsa_JhIwPUnDNUhN-QWGEq0XY/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1oUzy9jU9QYE1AsSTWWMoHiyH5EAd1X_W/view?usp=sharing) | [presentation](https://drive.google.com/file/d/1HtEeRGLLoJOFO5CD2gfHPWibSxtRsXxb/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me)
 
-**Discussion 5**{: .label .label-discussion } Algorithmic Complexity | [worksheet](https://drive.google.com/file/d/1sqd5264K2lrOAfej3mHzZ_pxAH5TsfCm/view?usp=sharing) | [presentation](https://drive.google.com/file/d/12pDbXtzehynbTxKZ9zkoCDHWIxUlq6YC/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me) | [walkthrough videos](https://youtube.com/playlist?list=PLO1S2CinoAzXXhu0GqFhLeVS3bUr7JV8f)
+**Discussion 5**{: .label .label-discussion } Algorithmic Complexity | [worksheet](https://drive.google.com/file/d/1sqd5264K2lrOAfej3mHzZ_pxAH5TsfCm/view?usp=sharing) | [solutions](https://drive.google.com/file/d/17PJXH_MzLtG3fmBMHsq8tilKip__Tgiu/view?usp=sharing) | [presentation](https://drive.google.com/file/d/12pDbXtzehynbTxKZ9zkoCDHWIxUlq6YC/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me) | [walkthrough videos](https://youtube.com/playlist?list=PLO1S2CinoAzXXhu0GqFhLeVS3bUr7JV8f)
 
 **Discussion 6**{: .label .label-discussion } Recursion I | [worksheet](https://drive.google.com/file/d/1b8KyxNkerot0yO6JTm-8khO_FA5vOyx5/view?usp=sharing)
 
