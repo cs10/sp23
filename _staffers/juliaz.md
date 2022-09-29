@@ -1,7 +1,7 @@
 ---
 name: Julia Zhang
 role: AI
-email: juliazhang2025@berkeley.edu
+email: juliazhang2025@
 website: https://www.linkedin.com/in/julia-zhang-b4a707225/
 photo: juliaz.jpg
 ---

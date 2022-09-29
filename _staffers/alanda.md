@@ -1,7 +1,7 @@
 ---
 name: Alanda Nguyen
 role: AI
-email: a.nguyen31@berkeley.edu
+email: a.nguyen31@
 website:
 photo: alanda.png
 ---

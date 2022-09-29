@@ -1,7 +1,7 @@
 ---
 name: Calvin Duong
 role: AI
-email: calvinduong11@berkeley.edu
+email: calvinduong11@
 website: https://www.linkedin.com/in/calvinduong11/
 photo: calvin.png
 ---

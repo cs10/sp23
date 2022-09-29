@@ -319,7 +319,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>10. Recursive Reporters<br/>
-        (due 10/5)</td> <!-- Lab -->
+        (due 10/6)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">6. Recursion I</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
