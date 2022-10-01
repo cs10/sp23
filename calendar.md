@@ -309,7 +309,7 @@
       <th>Mon 10/3</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa22/readings/">Week 7 Readings </a></td> <!-- Readings -->
-      <td>10. Recursive Reporters<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment"> 10. Recursive Reporters</a><br/>
         (due 10/5)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">6. Recursion I</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -318,7 +318,7 @@
       <th>Tue 10/4</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>10. Recursive Reporters<br/>
+      <td><a href= "https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment"> 10. Recursive Reporters</a><br/>
         (due 10/6)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">6. Recursion I</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -401,7 +401,7 @@
       <th>Mon 10/17</th> <!-- Date -->
       <td><b>MIDTERM</b></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa22/readings/">Week 9 Readings</a></td> <!-- Readings -->
-      <td><b>In Lab Midterm</b></td> <!-- Lab -->
+      <td><b>Midterm (W/ Snap! Portion)</b></td> <!-- Lab -->
       <td>NO CLASS<br/>
         (MIDTERM)</td> <!-- Discussion -->
       <td>release Reading Quiz 7<br/>
@@ -411,7 +411,7 @@
       <th>Tue 10/18</th> <!-- Date -->
       <td><b>MIDTERM</b></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td><b>In Lab Midterm</b></td> <!-- Lab -->
+      <td><b>Midterm (w/ Snap! Portion)</b></td> <!-- Lab -->
       <td>NO CLASS<br/>
         (MIDTERM)</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
