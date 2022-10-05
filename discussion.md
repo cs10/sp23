@@ -20,7 +20,7 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 
 **Discussion 5**{: .label .label-discussion } Algorithmic Complexity | [worksheet](https://drive.google.com/file/d/1sqd5264K2lrOAfej3mHzZ_pxAH5TsfCm/view?usp=sharing) | [solutions](https://drive.google.com/file/d/17PJXH_MzLtG3fmBMHsq8tilKip__Tgiu/view?usp=sharing) | [presentation](https://drive.google.com/file/d/12pDbXtzehynbTxKZ9zkoCDHWIxUlq6YC/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me) | [walkthrough videos](https://youtube.com/playlist?list=PLO1S2CinoAzXXhu0GqFhLeVS3bUr7JV8f)
 
-**Discussion 6**{: .label .label-discussion } Recursion I | [worksheet](https://drive.google.com/file/d/1vN1l534w5z_OylAAqcfp7jHCW4Lfu_aO/view?usp=sharing) | [presentation](https://drive.google.com/file/d/1I0tQoace2Ao_21BocIkgMxs-p2KX6IHg/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me)
+**Discussion 6**{: .label .label-discussion } Recursion I | [worksheet](https://drive.google.com/file/d/1bAUQl9_YaNusE2boPh92T-wAE_SNZ9Hx/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1vzNo8G5G6KvFPKq7TCkeZdish4ygti8j/view?usp=sharing) | [presentation](https://drive.google.com/file/d/1I0tQoace2Ao_21BocIkgMxs-p2KX6IHg/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me)
 
 **Discussion 7**{: .label .label-discussion } Recursion II | [worksheet](https://drive.google.com/file/d/1zqozyyZu5Dq3czPnRNlSfGanupkGACQt/view?usp=sharing) |
 
