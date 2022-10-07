@@ -325,7 +325,8 @@
     </tr>
     <tr>
       <th>Wed 10/5 </th> <!-- Date -->
-      <td>12. Guest Lecture: Saving the World with Computing <a href="https://people.eecs.berkeley.edu/~yelick/">(Professor Katherine Yelick)</a></td> <!-- Lecture -->
+      <td>12. Guest Lecture: Saving the World with Computing <a href="https://people.eecs.berkeley.edu/~yelick/">(Professor Katherine Yelick)</a><a href="https://drive.google.com/file/d/188lKBHwk5bCmo6SxL3oHOHqmnkC8tq6-/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 3 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -341,7 +342,8 @@
     </tr>
     <tr>
       <th>Fri 10/7</th> <!-- Date -->
-      <td>13. Procedures as Data</td> <!-- Lecture -->
+      <td>13. Procedures as Data<a href="https://drive.google.com/file/d/1Jk1x2B0Bkvm6TQ1U-VGkgZ8mRtyiL25T/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">7. Recursion II</a></td> <!-- Discussion -->
