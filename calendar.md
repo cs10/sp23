@@ -358,7 +358,7 @@
       <th>Mon 10/10</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa22/readings/">Week 8 Readings</a></td> <!-- Readings -->
-      <td>11. Functions as Data, HOFs<br/>
+      <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment">11. Functions as Data, HOFs</a><br/>
         (due 10/12)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">7. Recursion II</a></td> <!-- Discussion -->
       <td>release Reading Quiz 6<br/>
@@ -368,7 +368,7 @@
       <th>Tue 10/11</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>11. Functions as Data, HOFs<br/>
+      <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment">11. Functions as Data, HOFs</a><br/>
         (due 10/13)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">7. Recursion II</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->

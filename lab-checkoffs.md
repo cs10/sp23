@@ -101,6 +101,16 @@ labs:
       - Explain how the sort block works, how the merge block works, and how they work together.
       - Show us the recursive numbers block.
       - Show us the recursive ends-e block.
+
+  - lab_name: HOFS and Functions as Data
+    lab_no: 11
+    topic_file: berkeley_bjc/hofs/hofs-practice.topic
+    questions:
+    - What is a higher-order function? Can you give an example of one?
+    - Show us your `pandigital` block and explain how it works.
+    - Show us your `factorion` block and explain how it works.
+    - Show us your `list all factorions` function. How does this compare to the `list all pandigital numbers` function?
+  
   
 ---
 # Lab Check-Offs
@@ -136,15 +146,6 @@ On this page, you will find a list of check-off questions for each lab.
  
 
  
-  - lab_name: HOFS and Functions as Data
-    lab_no: 10
-    topic_file: berkeley_bjc/hofs/hofs-practice.topic
-    questions:
-    - What is a higher-order function? Can you give an example of one?
-    - Show us your `pandigital` block and explain how it works.
-    - Show us your `factorion` block and explain how it works.
-    - Show us your `list all factorions` function. How does this compare to the `list all pandigital numbers` function?
-  
   
   
   - lab_name: Welcome to Python
