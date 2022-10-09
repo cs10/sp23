@@ -38,7 +38,7 @@ Below, you can find various resources to help with your understanding of the mat
 
 ## Past Exams
 
-| Year        |  Quest | Midterm (Without-Snap) | Midterm (With-Snap!) | Final (Paper) | Final (In-Lab) |    
+| Year        |  Quest | Midterm (Without-Snap!) | Midterm (With-Snap!) | Final (Paper) | Final (In-Lab) |    
 | :----:      | :----: | :----:          | :----:           | :----:        | :----:         |
 | Summer 2022 | - |[Exam](https://drive.google.com/file/d/13yRMg8UbTQpS-X7u78j7MhXx9OUhrt82/view) [Solutions](https://drive.google.com/file/d/1s9n_CoJB5RpaNuUmxPBRxVfXgPOQLWIz/view)| [Exam + Solutions](https://drive.google.com/file/d/1CO4AartRWdyw-vIgIS1lzzcqgDSbFB9S/view)| [Exam](https://drive.google.com/file/d/1G_blwdl9uMn2jTvMjbs7ZVy2Hnc5JJiS/view?usp=sharing) [Solutions](https://drive.google.com/file/d/1RNL6ChgNuiQ00ngHOBjoVq4I8UEOlzzL/view?usp=sharing) | [Exam](https://drive.google.com/file/d/1OyR9Zk3q11Xi6xqzQSmq8QdVb3OVHjIW/view?usp=sharing) [Skeleton Code + Solutions](https://drive.google.com/drive/folders/1_u7rsTT0RpfIIxDUVApwJjVgUo2-lEp6?usp=sharing) |
 | Spring 2020 | [Exam](https://drive.google.com/file/d/1sCleoTMSogFmyihz1-ns71riunWtl1ir/view?usp=sharing) [Solutions](https://drive.google.com/file/d/1lSs3TXCJrqB22zgLBByZTI1-5ITqfE9K/view) | - | - | [Exam](https://drive.google.com/file/d/1IXByRzNhPgjmiDDb9kufU4x02Gx2xI9C/view?usp=sharing) [Solutions](https://drive.google.com/file/d/192pX5wig1Y-2p9OVktznTe0Obf5faode/view?usp=sharing) | [Exam](https://drive.google.com/file/d/1ZuWs6FWDZAsVCJSDLiPXIfLePhm-eBfT/view?usp=sharing) [Solutions](https://drive.google.com/file/d/1yEzOB_eSSu4HC_RSUsx7ei77j66dhCeY/view?usp=sharing) |
