@@ -394,7 +394,8 @@
       <td>14. Programming Paradigms</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>Midterm Review Session</td> <!-- Discussion -->
+      <td>NO CLASS<br/>
+        (MIDTERM)</td> <!-- Discussion -->
       <td>Reading Quiz 6 Due</td> <!-- Assignment -->
     </tr>
 
