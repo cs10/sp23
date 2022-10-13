@@ -348,7 +348,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">7. Recursion II</a></td> <!-- Discussion -->
-      <td>release PROJ 4: Explore Post<br/>
+      <td><a href="https://docs.google.com/document/d/1kEgJvL23z8bw-bxC8AQzDeio9AaqxkzP3IycVj-jh6Q/edit?usp=sharing">(PROJ 4: Explore Post released)</a><br/>
         (due 10/21)</td> <!-- Assignment -->
     </tr>
 
