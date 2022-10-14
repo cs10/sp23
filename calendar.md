@@ -393,7 +393,9 @@
     </tr>
     <tr>
       <th>Fri 10/14</th> <!-- Date -->
-      <td>14. Programming Paradigms</td> <!-- Lecture -->
+      
+      <td>14. Programming Paradigms <a href="https://drive.google.com/file/d/1JdHNUIjQcy5Q0dMiDBzwjUEGfB7Jviea/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td>NO CLASS<br/>
