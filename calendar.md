@@ -374,7 +374,7 @@
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-    
+
       <th>Wed 10/12 </th> <!-- Date -->
       <td>AI<a href="https://docs.google.com/presentation/d/1JiQEpmHBf-POcfnpGeLai86LD2pn0ECq8gO0Y5VvqIM/edit?usp=sharing">(slides)</a>
       <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
@@ -396,7 +396,7 @@
       <td>14. Programming Paradigms</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>NO DISCUSSION SECTION<br/>
+      <td>NO CLASS<br/>
         (MIDTERM)</td> <!-- Discussion -->
       <td>Reading Quiz 6 Due</td> <!-- Assignment -->
     </tr>
