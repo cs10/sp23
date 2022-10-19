@@ -412,8 +412,7 @@
       <td><b>Midterm (W/ Snap! Portion)</b></td> <!-- Lab -->
       <td>NO CLASS<br/>
         (MIDTERM)</td> <!-- Discussion -->
-      <td>release Reading Quiz 7<br/>
-        (due 10/21)</td> <!-- Assignment -->
+      <td>Reading Quiz 7 CANCELLED<br/></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 10/18</th> <!-- Date -->
@@ -448,8 +447,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">9. Intro to Python</a></td> <!-- Discussion -->
-      <td>PROJ 4 (POST) Due<br/>
-        Reading Quiz 7 Due</td> <!-- Assignment -->
+      <td>PROJ 4 (POST) Due<br/></td> <!-- Assignment -->
     </tr>
 
     <!-- WEEK TEN -->
