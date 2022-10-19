@@ -425,7 +425,8 @@
     </tr>
     <tr>
       <th>Wed 10/19</th> <!-- Date -->
-      <td>15. Python I - Intro</td> <!-- Lecture -->
+      <td>15. Python I - Intro <a href="https://drive.google.com/file/d/1UymqXIrZBWwdTSdUarsroUqjkCdLjND4/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment">12. Welcome to Python</a><br/>
         (due 10/24)</td> <!-- Lab -->
@@ -443,7 +444,8 @@
     </tr>
     <tr>
       <th>Fri 10/21</th> <!-- Date -->
-      <td>16. Python II - Data Types & Structures</td> <!-- Lecture -->
+      <td>16. Python II - Data Types & Structures <a href="https://drive.google.com/file/d/1JrqKmU8hsAu45mqHBpVLQVb3JLsa1bhg/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">9. Intro to Python</a></td> <!-- Discussion -->
