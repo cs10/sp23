@@ -428,7 +428,7 @@
       <th>Wed 10/19</th> <!-- Date -->
       <td>15. Python I - Intro</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>12. Welcome to Python<br/>
+      <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment">12. Welcome to Python</a><br/>
         (due 10/24)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -437,7 +437,7 @@
       <th>Thur 10/20</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>12. Welcome to Python<br/>
+      <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment">12. Welcome to Python</a><br/>
         (due 10/25)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
