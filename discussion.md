@@ -24,9 +24,7 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 
 **Discussion 7**{: .label .label-discussion } Recursion II | [worksheet](https://drive.google.com/file/d/1EtgjaQK1KV78s1ApXIbAQnisKFM9tu4u/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1MyhKzZTWeC0MRbEsb2csfyrIMHZC3WRP/view?usp=sharing) | [presentation](https://drive.google.com/file/d/1VF1ZTzY2t1owZwi7PKjL4P0Roj4l001x/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me)
 
-<!-- **Discussion 8**{: .label .label-discussion } Midterm Review | [worksheet](https://drive.google.com/file/d/1_U36sr7Ecqc4CsAjAOOlf6PBRAG6hIpN/view) | [solutions](https://drive.google.com/file/d/1UmaYWMbc6ekyYftVBh3wBTavoYZZgZJW/view?usp=sharing) | [section recording](https://youtu.be/jHDEcPEPHes) | [walkthrough videos](https://drive.google.com/drive/folders/1ctcN3Ks3KO6Ur439g3qy4Bl3990WC5jH?usp=sharing) -->
-
-<!-- **Discussion 9**{: .label .label-discussion } Intro to Python | [worksheet](https://drive.google.com/file/d/1VLEeb8M2gOP7csN75K6052bFquZUjj3s/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1ZC9A2j9aga-K0hGeucp3GT0laDbpgXUF/view?usp=sharing) | [section recording](https://youtu.be/sty57uPVeEA) -->
+**Discussion 9**{: .label .label-discussion } Intro to Python | [worksheet](https://drive.google.com/file/d/1pCpin8SJ9YVmeVvhcqOV1wqYUGIUTHI1/view?usp=sharing)
 
 <!-- **Discussion 10**{: .label .label-discussion } Python Data Structures | [worksheet](https://drive.google.com/file/d/1q4LSm4RX_Kr7-WWqBskfZSfAENPKxdhq/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1ornaVe8d3zxx0U9v2JPB6zlMFQrjfZxx/view?usp=sharing) | [section recording](https://youtu.be/sty57uPVeEA) | [walkthrough videos](https://drive.google.com/drive/folders/10FLSnXl8kVdQWLkGXfdDVS9Uu4D8x0en?usp=sharing) -->
 

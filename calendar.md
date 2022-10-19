@@ -393,7 +393,7 @@
     </tr>
     <tr>
       <th>Fri 10/14</th> <!-- Date -->
-      
+
       <td>14. Programming Paradigms <a href="https://drive.google.com/file/d/1JdHNUIjQcy5Q0dMiDBzwjUEGfB7Jviea/view?usp=sharing">(slides)</a>
       <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
@@ -591,7 +591,7 @@
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Fri 11/4</th> <!-- Date -->
+      <th>Fri 11/11</th> <!-- Date -->
       <td>NO CLASS<br/>
         (Veteran's Day)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
