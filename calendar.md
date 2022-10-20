@@ -425,7 +425,7 @@
     </tr>
     <tr>
       <th>Wed 10/19</th> <!-- Date -->
-      <td>15. Python I - Intro <a href="https://drive.google.com/file/d/1UymqXIrZBWwdTSdUarsroUqjkCdLjND4/view?usp=sharing">(slides)</a>
+      <td>15. Python I - Intro <a href="https://drive.google.com/file/d/1LHC1kGUkH_q588tzPFmZ67RwiUXkWAQG/view?usp=sharing">(slides)</a>
       <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-welcome-parsons.topic&course&novideo&noreading&noassignment">12. Welcome to Python</a><br/>
