@@ -129,6 +129,15 @@ labs:
     - What is a dictionary?
     - What does 0-indexing mean?
     - Show us the result of running the autograder.
+
+  - lab_name: Object-Oriented Programming (OOP)
+    lab_no: 14
+    topic_file: berkeley_bjc/python/besides-blocks-oop-joshhug-edition.topic
+    questions:
+    - Describe the purpose of an `init` function.
+    - To access a class attribute, should you use the class name or an instance name?
+    - Name two different ways to assign instance attributes.
+    - Show us your `outdated` and `add_genre` methods, as well as what the autograder outputs.
   
   
 ---
@@ -171,15 +180,7 @@ On this page, you will find a list of check-off questions for each lab.
   
   -
  
-  - lab_name: Object-Oriented Programming (OOP)
-    lab_no: 14
-    topic_file: berkeley_bjc/python/besides-blocks-oop-joshhug-edition.topic
-    questions:
-    - Describe the purpose of an `init` function.
-    - To access a class attribute, should you use the class name or an instance name?
-    - Name two different ways to assign instance attributes.
-    - Show us your `outdated` and `add_genre` methods.
-    - Show us your completed MemePage and Member classes.
+  
  
   - lab_name: Text Processing in Python
     lab_no: 15
