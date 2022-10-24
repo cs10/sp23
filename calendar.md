@@ -521,7 +521,7 @@
       <td></td> <!-- Readings -->
       <td>15. Text Processing in Python<br/>
         (due 11/8)</td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa22/discussion/">10. List Comprehension & Dictionaries</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">10. Data Structures in Python</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
