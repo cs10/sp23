@@ -458,7 +458,7 @@
       <th>Mon 10/24</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>13. Data Structures in Python<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">13. Data Structures in Python</a><br/>
         (due 10/26)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">9. Intro to Python</a></td> <!-- Discussion -->
       <td>PROJ 4 (COMMENTS) Due<br/>
@@ -469,7 +469,7 @@
       <th>Tue 10/25</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>13. Data Structures in Python<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">13. Data Structures in Python</a><br/>
         (due 10/27)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">9. Intro to Python</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -478,7 +478,7 @@
       <th>Wed 10/26</th> <!-- Date -->
       <td>17. Python III - OOP</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>14. OOP in Python<br/>
+      <td><a href="https://cs10.org/bjc-r/cur/programming/python/object-oriented-programming-joshhug/oop_intro.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">14. OOP in Python</a><br/>
         (due 10/31)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release FINAL PROJ Proposal<br/>
@@ -488,7 +488,7 @@
       <th>Thur 10/27</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>14. OOP in Python<br/>
+      <td><a href="https://cs10.org/bjc-r/cur/programming/python/object-oriented-programming-joshhug/oop_intro.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">14. OOP in Python</a><br/>
         (due 11/1)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
