@@ -462,7 +462,7 @@
         (due 10/26)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">9. Intro to Python</a></td> <!-- Discussion -->
       <td>PROJ 4 (COMMENTS) Due<br/>
-        release PROJ 5: Pytris<br/>
+        <a href="https://cbt-dev.berkeley.edu/pl">(PROJ 5: Pytris released)</a><br/>
           (due 11/07)<br/></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -476,7 +476,8 @@
     </tr>
     <tr>
       <th>Wed 10/26</th> <!-- Date -->
-      <td>17. Python III - OOP</td> <!-- Lecture -->
+      <td>17. Python III - OOP <a href="https://drive.google.com/file/d/1Kseb1MGEAPi0wrcy6uAIjIRTUYi5P721/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/cur/programming/python/object-oriented-programming-joshhug/oop_intro.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">14. OOP in Python</a><br/>
         (due 10/31)</td> <!-- Lab -->
@@ -495,7 +496,8 @@
     </tr>
     <tr>
       <th>Fri 10/28</th> <!-- Date -->
-      <td>18. Python IV - HOFs</td> <!-- Lecture -->
+      <td>18. Python IV - HOFs<a href="https://drive.google.com/file/d/1N21XtUXDR3TjlYbt7ydAAehEL_rjFHcS/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">10. Data Structures in Python</a></td> <!-- Discussion -->
