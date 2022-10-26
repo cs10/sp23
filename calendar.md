@@ -462,7 +462,7 @@
         (due 10/26)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">9. Intro to Python</a></td> <!-- Discussion -->
       <td>PROJ 4 (COMMENTS) Due<br/>
-        <a href="https://cbt-dev.berkeley.edu/pl">(PROJ 5: Pytris released)</a><br/>
+        <a href="https://cbt-dev.berkeley.edu/pl/course_instance/57/assessment/1027">(PROJ 5: Pytris released)</a><br/>
           (due 11/07)<br/></td> <!-- Assignment -->
     </tr>
     <tr>
