@@ -24,7 +24,7 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 
 **Discussion 7**{: .label .label-discussion } Recursion II | [worksheet](https://drive.google.com/file/d/1EtgjaQK1KV78s1ApXIbAQnisKFM9tu4u/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1MyhKzZTWeC0MRbEsb2csfyrIMHZC3WRP/view?usp=sharing) | [presentation](https://drive.google.com/file/d/1VF1ZTzY2t1owZwi7PKjL4P0Roj4l001x/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me)
 
-**Discussion 9**{: .label .label-discussion } Intro to Python | [worksheet](https://drive.google.com/file/d/155Tcy9PaqWO9fR_zLu_ooj4xzWdxJb4-/view?usp=sharing)
+**Discussion 9**{: .label .label-discussion } Intro to Python | [worksheet](https://drive.google.com/file/d/155Tcy9PaqWO9fR_zLu_ooj4xzWdxJb4-/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1wH1GZZu2t257RQyd9NJhTiwQTbtEZylS/view?usp=sharing) | [presentation](https://drive.google.com/file/d/1Tx4H2WPAKeEJXhcIcGlZJV8-XuQ3BRHw/view?usp=sharing)
 
 **Discussion 10**{: .label .label-discussion } Data Structures in Python | [worksheet](https://drive.google.com/file/d/1pKY23LDM83yPg_8wF20I2OYXYDviSLtS/view?usp=sharing)
 
