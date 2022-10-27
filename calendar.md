@@ -482,7 +482,7 @@
       <td><a href="https://cs10.org/bjc-r/cur/programming/python/object-oriented-programming-joshhug/oop_intro.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">14. OOP in Python</a><br/>
         (due 10/31)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><a href="https://docs.google.com/document/d/1pJx3BaK6VbGlFtB0yQCAlifpxa5ftz8HQPphCWRUPXM/edit"></a>(FINAL PROJ Proposal RELEASED)<br/>
+      <td><a href="https://docs.google.com/document/d/1pJx3BaK6VbGlFtB0yQCAlifpxa5ftz8HQPphCWRUPXM/edit">(FINAL PROJ Proposal RELEASED)</a><br/>
         (due 11/4)</td> <!-- Assignment -->
     </tr>
     <tr>
