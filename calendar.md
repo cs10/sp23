@@ -511,7 +511,7 @@
       <th>Mon 10/31</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa22/readings/">Week 11 Readings</a></td> <!-- Readings -->
-      <td>15. Text Processing in Python<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment"> 15. Text Processing in Python</a><br/>
         (due 11/7)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">10. Data Structures in Python</a></td> <!-- Discussion -->
       <td>release Reading Quiz 8<br/>
@@ -521,7 +521,7 @@
       <th>Tue 11/1</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>15. Text Processing in Python<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment">15. Text Processing in Python</a><br/>
         (due 11/8)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">10. Data Structures in Python</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
