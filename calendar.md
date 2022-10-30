@@ -501,7 +501,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">10. Data Structures in Python</a></td> <!-- Discussion -->
-      <td>release FINAL PROJ<br/>
+      <td><a href="https://docs.google.com/document/d/1LbLsoBVBQTiD_BA6tVqQfzzK5OSF4TpzBSnJfJyhyjE/edit?usp=sharing">(FINAL PROJ released)</a><br/>
         (due 12/02)</td> <!-- Assignment -->
     </tr>
 
