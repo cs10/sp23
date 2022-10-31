@@ -528,7 +528,7 @@
     </tr>
     <tr>
       <th>Wed 11/2</th> <!-- Date -->
-      <td>19. Social Implications III</td> <!-- Lecture -->
+      <td>19. Guest Lecture: Usable AI Tools <a href="https://hhnigatu.github.io/">(Hellina Nigatu)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 5 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
