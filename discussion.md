@@ -24,11 +24,11 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 
 **Discussion 7**{: .label .label-discussion } Recursion II | [worksheet](https://drive.google.com/file/d/1EtgjaQK1KV78s1ApXIbAQnisKFM9tu4u/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1MyhKzZTWeC0MRbEsb2csfyrIMHZC3WRP/view?usp=sharing) | [presentation](https://drive.google.com/file/d/1VF1ZTzY2t1owZwi7PKjL4P0Roj4l001x/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me)
 
-**Discussion 9**{: .label .label-discussion } Intro to Python | [worksheet](https://drive.google.com/file/d/155Tcy9PaqWO9fR_zLu_ooj4xzWdxJb4-/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1wH1GZZu2t257RQyd9NJhTiwQTbtEZylS/view?usp=sharing) | [presentation](https://drive.google.com/file/d/1Tx4H2WPAKeEJXhcIcGlZJV8-XuQ3BRHw/view?usp=sharing)
+**Discussion 9**{: .label .label-discussion } Intro to Python | [worksheet](https://drive.google.com/file/d/155Tcy9PaqWO9fR_zLu_ooj4xzWdxJb4-/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1wH1GZZu2t257RQyd9NJhTiwQTbtEZylS/view?usp=sharing) | [presentation](https://drive.google.com/file/d/1Tx4H2WPAKeEJXhcIcGlZJV8-XuQ3BRHw/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me)
 
 **Discussion 10**{: .label .label-discussion } Data Structures in Python | [worksheet](https://drive.google.com/file/d/1pKY23LDM83yPg_8wF20I2OYXYDviSLtS/view?usp=sharing)
 
-<!-- **Discussion 11**{: .label .label-discussion } OOP | [worksheet](https://drive.google.com/file/d/148beOH3iVCOnBtgG1iHVLe1OQ5yWc580/view?usp=sharing) | [solutions](https://drive.google.com/file/d/18AOJMHmzFSerXKp99NTrhz5oU89V-ltW/view?usp=sharing) | [section recording](https://youtu.be/WieaCg2o1Tk) | [walkthrough videos] -->
+**Discussion 11**{: .label .label-discussion } OOP | [worksheet](https://drive.google.com/file/d/1-y3kN19Tg4dT3g9HFkZwFVpknGEJo7bu/view?usp=share_link)
 
 <!-- **Discussion 12**{: .label .label-discussion } Python HOFs, Lambdas, Tree Recursion | [worksheet](https://drive.google.com/file/d/1tgBZqAgLFHRWGSYWeDBhc8b3vIO8On-I/view?usp=sharing) | [solutions](https://drive.google.com/file/d/17akeORdoirOHy5bXegTMaEiO1oKFcPfz/view?usp=sharing) | [section recording] | [walkthrough videos](https://drive.google.com/drive/folders/1ustbJk-j7EK-1YY02sFueidW28EHjgM5?usp=sharing) -->
 
