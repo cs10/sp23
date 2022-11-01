@@ -244,7 +244,7 @@
     <tr>
       <th>Fri 9/23</th> <!-- Date -->
       <td>9. Recursion I (Functional)<a href="https://drive.google.com/file/d/1J8JQICpKN5ZpinUb3LdqSsE2X1Naox-s/view?usp=sharing">(slides)</a>
-      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a><a href="https://drive.google.com/drive/folders/1J6FHScaZao_3C1tw4s31dTOR5dtOxciV?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">5. Algorithmic Complexity</a></td> <!-- Discussion -->
@@ -277,7 +277,7 @@
     <tr>
       <th>Wed 9/28 </th> <!-- Date -->
       <td>10. Recursion II (Fractals)<a href="https://drive.google.com/file/d/1JHsHL9dTLXTXNEwC2eFlcWORQTRxO0lC/view?usp=sharing">(slides)</a>
-      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a><a href="https://drive.google.com/drive/folders/17z8mv-9O-61rkj9uBCKFlCkS0yIO6H0r?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">9. Trees & Fractals</a><br/>
         (due 10/3)</td> <!-- Lab -->
@@ -296,7 +296,7 @@
     <tr>
       <th>Fri 9/30</th> <!-- Date -->
       <td>11. Recursion III (Count Change)<a href="https://drive.google.com/file/d/1JG95SUV897etJy0pqwwAV-zxICYRUdUh/view?usp=sharing">(slides)</a>
-      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a><a href="https://drive.google.com/drive/folders/1J9xiJTnrS1UA9o09GU4HPwPUWDWGC0Pi?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">6. Recursion I</a></td> <!-- Discussion -->
@@ -477,7 +477,7 @@
     <tr>
       <th>Wed 10/26</th> <!-- Date -->
       <td>17. Python III - OOP <a href="https://drive.google.com/file/d/1Kseb1MGEAPi0wrcy6uAIjIRTUYi5P721/view?usp=sharing">(slides)</a>
-      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a><a href="https://drive.google.com/drive/folders/1Kcx6BqNAgZLU2DVZ99gwcN-f5FjOyE1p?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/cur/programming/python/object-oriented-programming-joshhug/oop_intro.html?topic=berkeley_bjc%2Fpython%2Fbesides-blocks-oop-joshhug-edition.topic&course&novideo&noreading&noassignment">14. OOP in Python</a><br/>
         (due 10/31)</td> <!-- Lab -->
@@ -497,7 +497,7 @@
     <tr>
       <th>Fri 10/28</th> <!-- Date -->
       <td>18. Python IV - HOFs<a href="https://drive.google.com/file/d/1N21XtUXDR3TjlYbt7ydAAehEL_rjFHcS/view?usp=sharing">(slides)</a>
-      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a><a href="https://drive.google.com/drive/folders/1Kw1n9d-cZxEp0sxE-al3thHbZkH-hdbc?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">10. Data Structures in Python</a></td> <!-- Discussion -->
