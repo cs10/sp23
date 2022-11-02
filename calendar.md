@@ -528,7 +528,8 @@
     </tr>
     <tr>
       <th>Wed 11/2</th> <!-- Date -->
-      <td>19. Guest Lecture: Usable AI Tools <a href="https://hhnigatu.github.io/">(Hellina Nigatu)</a></td> <!-- Lecture -->
+      <td>19. Guest Lecture: Usable AI Tools <a href="https://hhnigatu.github.io/">(Hellina Nigatu)</a><a href="https://docs.google.com/presentation/d/16-op0_SpOwPFMQx0v1_wc40qVesSC1jrWyVwHorn9u4/edit?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 5 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -544,7 +545,10 @@
     </tr>
     <tr>
       <th>Fri 11/4</th> <!-- Date -->
-      <td>20. Python V - Tree Recursion & Game Theory</td> <!-- Lecture -->
+      <td>20. Python V - Tree Recursion & Game Theory
+      <a href="https://drive.google.com/file/d/1Np4WflUZ1Qnh_hUB_p_c9c744ZQxONm1/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a>
+      <a href="https://drive.google.com/file/d/1NodPUjX-wJr917E80xIVRhijMtEygX4S/view?usp=sharing">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">11. OOP</a></td> <!-- Discussion -->
@@ -576,7 +580,10 @@
     </tr>
     <tr>
       <th>Wed 11/9</th> <!-- Date -->
-      <td>21. Concurrency</td> <!-- Lecture -->
+      <td>21. Concurrency
+      <a href="https://drive.google.com/file/d/1O-kfUjjaF1rGoT0LxrnVQs6wVjq81JKY/view?usp=sharing">(slides)</a>
+      <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> 
+      <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>NO CLASS<br/>
         (Proposal Reviews)</td> <!-- Lab -->
