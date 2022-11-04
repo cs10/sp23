@@ -731,7 +731,7 @@
       <td></td> <!-- Readings -->
       <td>FINAL PROJ Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>FINAL PROJ Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 12/1</th> <!-- Date -->
@@ -747,7 +747,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">14. Final Review & Farewell</a></td> <!-- Discussion -->
-      <td>FINAL PROJ Due</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
 
     <!-- WEEK SIXTEEN - RRR WEEK-->
