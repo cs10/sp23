@@ -562,7 +562,7 @@
       <th>Mon 11/7</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa22/readings/">Week 12 Readings</a></td> <!-- Readings -->
-      <td><a href=1"https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment"> 6. Intro to Data Science </a><br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment"> 6. Intro to Data Science </a><br/>
         (due 11/14)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">11. OOP</a></td> <!-- Discussion -->
       <td>PROJ 5 Due<br/>
