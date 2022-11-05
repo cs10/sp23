@@ -149,8 +149,16 @@ labs:
     - Show us your `top_n_words` and "print_top_n_words" functions.
     - Show us your `apply_language_game` function.
     - Show us the result of running the autograder.
-  
-  
+
+  - lab_name: Data Science
+    lab_no: 16
+    topic_file: berkeley_bjc/python/data-lab.topic
+    questions:
+    - What are some important commands that you can use to keep only certain rows in a table?
+    - Describe the three main steps of working with data as given in this lab.
+    - What commands did you use to find the price of the most expensive listing in San Francisco?
+    - Show us your scatter plot. What are some things you notice from this plot?
+ 
   
 ---
 # Lab Check-Offs
@@ -179,32 +187,7 @@ On this page, you will find a list of check-off questions for each lab.
 <!--
 
 
-- 
-  
-  
- 
- 
-
- 
-  
-  
-  
-  
-  -
- 
-  
- 
- 
-  - lab_name: Data Science
-    lab_no: 16
-    topic_file: berkeley_bjc/python/data-lab.topic
-    questions:
-    - What are some important commands that you can use to keep only certain rows in a table?
-    - Describe the three main steps of working with data as given in this lab.
-    - What commands did you use to find the price of the most expensive listing in San Francisco?
-    - Show us your scatter plot. What are some things you notice from this plot?
- 
-  - lab_name: Concurrency
+-   - lab_name: Concurrency
     lab_no: 17
     topic_file: berkeley_bjc/areas/concurrency.topic
     questions:
@@ -213,6 +196,15 @@ On this page, you will find a list of check-off questions for each lab.
     - What is the difference between determinism and nondeterminism in the context of concurrency?
     - How does Snap! handle concurrency?
 
+  
+  
+
+  -
+ 
+  
+ 
+ 
+  
 
 
 **Lab 12**{: .label .label-lab }[Welcome to Python!](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome-parsons.topic&course=cs10_fa21.html&novideo&noreading&noassignment)

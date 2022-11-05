@@ -26,7 +26,7 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 
 **Discussion 9**{: .label .label-discussion } Intro to Python | [worksheet](https://drive.google.com/file/d/155Tcy9PaqWO9fR_zLu_ooj4xzWdxJb4-/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1wH1GZZu2t257RQyd9NJhTiwQTbtEZylS/view?usp=sharing) | [presentation](https://drive.google.com/file/d/1Tx4H2WPAKeEJXhcIcGlZJV8-XuQ3BRHw/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me)
 
-**Discussion 10**{: .label .label-discussion } Data Structures in Python | [worksheet](https://drive.google.com/file/d/1pKY23LDM83yPg_8wF20I2OYXYDviSLtS/view?usp=sharing)
+**Discussion 10**{: .label .label-discussion } Data Structures in Python | [worksheet](https://drive.google.com/file/d/1pKY23LDM83yPg_8wF20I2OYXYDviSLtS/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1HYywThbLoCNe0NFUkdyyj-m6iyX_h6_A/view?usp=sharing) 
 
 **Discussion 11**{: .label .label-discussion } OOP | [worksheet](https://drive.google.com/file/d/1-y3kN19Tg4dT3g9HFkZwFVpknGEJo7bu/view?usp=share_link)
 
