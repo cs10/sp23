@@ -711,7 +711,7 @@
       <th>Mon 11/28</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>FINAL PROJ Work Session</td> <!-- Lab -->
+      <td>Final Work Session</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">14. Final Review & Farewell</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -735,7 +735,7 @@
       <th>Thur 12/1</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>FINAL PROJ Work Session</td> <!-- Lab -->
+      <td>Final Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
