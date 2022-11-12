@@ -158,8 +158,8 @@ labs:
     - Describe the three main steps of working with data as given in this lab.
     - What commands did you use to find the price of the most expensive listing in San Francisco?
     - Show us your scatter plot. What are some things you notice from this plot?
-
-   - lab_name: Concurrency
+ 
+ - lab_name: Concurrency
     lab_no: 17
     topic_file: berkeley_bjc/areas/concurrency.topic
     questions:
@@ -167,8 +167,6 @@ labs:
     - Is it always true that splitting a task among 10 “workers” (or cores) is better than splitting it among 5 “workers” (or cores)?
     - What is the difference between determinism and nondeterminism in the context of concurrency?
     - How does Snap! handle concurrency?
-
- 
   
 ---
 # Lab Check-Offs
@@ -197,7 +195,15 @@ On this page, you will find a list of check-off questions for each lab.
 <!--
 
 
--  
+-   - lab_name: Concurrency
+    lab_no: 17
+    topic_file: berkeley_bjc/areas/concurrency.topic
+    questions:
+    - What is a race condition?
+    - Is it always true that splitting a task among 10 “workers” (or cores) is better than splitting it among 5 “workers” (or cores)?
+    - What is the difference between determinism and nondeterminism in the context of concurrency?
+    - How does Snap! handle concurrency?
+
   
   
 
