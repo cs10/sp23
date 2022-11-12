@@ -614,7 +614,7 @@
       <th>Mon 11/14</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa22/readings/">Week 13 Readings</a></td> <!-- Readings -->
-      <td>17. Concurrency<br/>
+      <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">17. Concurrency</a><br/>
         (due 11/21)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">12. Python HOFs, Lambdas, Tree Recursion</a></td> <!-- Discussion -->
       <td>release Reading Quiz 10<br/>
@@ -624,7 +624,7 @@
       <th>Tue 11/15</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>17. Concurrency<br/>
+      <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">17. Concurrency</a><br/>
         (due 11/22)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">12. Python HOFs, Lambdas, Tree Recursion</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
