@@ -631,7 +631,7 @@
     </tr>
     <tr>
       <th>Wed 11/16</th> <!-- Date -->
-      <td>22. HCI</td> <!-- Lecture -->
+      <td>22. Guest Lecture: Human-computer interaction (HCI) <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/paulos.html">(Professor Eric Paulos)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>FINAL PROJ Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
