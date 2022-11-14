@@ -631,7 +631,7 @@
     </tr>
     <tr>
       <th>Wed 11/16</th> <!-- Date -->
-      <td>22. Guest Lecture: Human-computer interaction (HCI) <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/paulos.html">(Professor Eric Paulos)</a></td> <!-- Lecture -->
+      <td>22. Guest Lecture: Human-computer interaction (HCI) <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/paulos.html">(Professor Eric Paulos)</a><a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>FINAL PROJ Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -647,7 +647,7 @@
     </tr>
     <tr>
       <th>Fri 11/18</th> <!-- Date -->
-      <td>23. Guest Lecture: Limits of Computing <a href="https://people.eecs.berkeley.edu/~minilek/">(Professor Jelani Nelson)</a></td> <!-- Lecture -->
+      <td>23. Guest Lecture: Limits of Computing <a href="https://people.eecs.berkeley.edu/~minilek/">(Professor Jelani Nelson)</a><a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">13. Social Implications</a></td> <!-- Discussion -->
