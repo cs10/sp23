@@ -26,10 +26,10 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 
 **Discussion 9**{: .label .label-discussion } Intro to Python | [worksheet](https://drive.google.com/file/d/155Tcy9PaqWO9fR_zLu_ooj4xzWdxJb4-/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1wH1GZZu2t257RQyd9NJhTiwQTbtEZylS/view?usp=sharing) | [presentation](https://drive.google.com/file/d/1Tx4H2WPAKeEJXhcIcGlZJV8-XuQ3BRHw/view?usp=sharing) | [recording](https://youtube.com/playlist?list=PLO1S2CinoAzXNJFaTBtUXOWT5tjZag8me)
 
-**Discussion 10**{: .label .label-discussion } Data Structures in Python | [worksheet](https://drive.google.com/file/d/1_tt6m8vMC-AD1C6dKh56hMJyjenN8pvH/view?usp=share_link) | [solutions](https://drive.google.com/file/d/17IBVhHXQoOMLO9JxtpnoOXUpftp85d_M/view?usp=share_link) 
+**Discussion 10**{: .label .label-discussion } Data Structures in Python | [worksheet](https://drive.google.com/file/d/1_tt6m8vMC-AD1C6dKh56hMJyjenN8pvH/view?usp=share_link) | [solutions](https://drive.google.com/file/d/17IBVhHXQoOMLO9JxtpnoOXUpftp85d_M/view?usp=share_link)
 
 **Discussion 11**{: .label .label-discussion } OOP | [worksheet](https://drive.google.com/file/d/1-y3kN19Tg4dT3g9HFkZwFVpknGEJo7bu/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1trH2-poWtYsXZ8qy3BYa7aXZRhJnJ2ba/view?usp=share_link)
 
-**Discussion 12**{: .label .label-discussion } Python HOFs, Lambdas, and Tree Recursion | [worksheet](https://drive.google.com/file/d/19EdBFGorn-_5dPHybVqXWr3WMLCC9GSe/view?usp=share_link) |
+**Discussion 12**{: .label .label-discussion } Python HOFs, Lambdas, and Tree Recursion | [worksheet](https://drive.google.com/file/d/19EdBFGorn-_5dPHybVqXWr3WMLCC9GSe/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1GT9aN_IfId6PH5lo7_Qrou8-CcLEiaml/view?usp=share_link) | [recording](https://drive.google.com/file/d/1V2gIv3eu17F3jNf7pkr9lsyrV98w2WrD/view?usp=sharing)
 
 <!-- **Discussion 13**{: .label .label-discussion } Python HOFs, Lambdas, Tree Recursion | [worksheet](https://drive.google.com/file/d/1xFa-RcWCrtPqAYQ1gycIESYznOq0bfaz/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1vZXt1tZAXwfvNB-bz-LoNOC-mlIpNAPd/view?usp=sharing) | [section recording](https://youtu.be/3RBXAadsxrs) | [walkthrough videos](https://drive.google.com/drive/folders/1K83nGd7IeQ1NlP_1oXrWDDtoM1iBoQI5?usp=sharing) -->
