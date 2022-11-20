@@ -633,7 +633,7 @@
       <th>Wed 11/16</th> <!-- Date -->
       <td>22. Guest Lecture: Human-computer interaction (HCI) <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/paulos.html">(Professor Eric Paulos)</a><a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>FINAL PROJ Work Session</td> <!-- Lab -->
+      <td>Catchup Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -641,7 +641,7 @@
       <th>Thur 11/17</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>FINAL PROJ Work Session</td> <!-- Lab -->
+      <td>Catchup Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -660,7 +660,7 @@
       <th>Mon 11/21</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa22/readings/">Week 14 Readings</a></td> <!-- Readings -->
-      <td>18. Snap! & Python Libraries<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment"> 18. Snap! & Python Libraries </a><br/>
         (due 11/28)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">13. Social Implications</a></td> <!-- Discussion -->
       <td>release Reading Quiz 11<br/>
@@ -670,7 +670,7 @@
       <th>Tue 11/22</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>18. Snap! & Python Libraries<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment"> 18. Snap! & Python Libraries</a><br/>
         (due 11/29)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">13. Social Implications</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -711,7 +711,7 @@
       <th>Mon 11/28</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Final Proj Work Session</td> <!-- Lab -->
+      <td>Catchup Work Session</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">14. Final Review & Farewell</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -719,7 +719,7 @@
       <th>Tue 11/29</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Final Proj Work Session</td> <!-- Lab -->
+      <td>Catchup Work Session</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">14. Final Review & Farewell</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
