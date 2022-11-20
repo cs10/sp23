@@ -528,7 +528,7 @@
     </tr>
     <tr>
       <th>Wed 11/2</th> <!-- Date -->
-      <td>19. Guest Lecture: Usable AI Tools <a href="https://hhnigatu.github.io/">(Hellina Nigatu)</a><a href="https://docs.google.com/presentation/d/16-op0_SpOwPFMQx0v1_wc40qVesSC1jrWyVwHorn9u4/edit?usp=sharing">(slides)</a>
+      <td>19. Guest Lecture: Bringing AI tools closer to End-Users <a href="https://hhnigatu.github.io/">(Hellina Nigatu)</a><a href="https://docs.google.com/presentation/d/16-op0_SpOwPFMQx0v1_wc40qVesSC1jrWyVwHorn9u4/edit?usp=sharing">(slides)</a>
       <a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>PROJ 5 Work Session</td> <!-- Lab -->
@@ -631,7 +631,7 @@
     </tr>
     <tr>
       <th>Wed 11/16</th> <!-- Date -->
-      <td>22. Guest Lecture: Human-computer interaction (HCI) <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/paulos.html">(Professor Eric Paulos)</a><a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
+      <td>22. Guest Lecture: Human-computer interaction (HCI) <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/paulos.html">(Professor Eric Paulos)</a><a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a><a href="https://drive.google.com/file/d/1QU-eG1TuEmx25MW3Xv2FJ-mKxQ4Bf2mb/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Catchup Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
