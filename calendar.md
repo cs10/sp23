@@ -661,7 +661,7 @@
       <td></td> <!-- Lecture -->
       <td><a href="https://cs10.org/fa22/readings/">Week 14 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment"> 18. Snap! & Python Libraries </a><br/>
-        (due 11/28)</td> <!-- Lab -->
+        (Optional)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">13. Social Implications</a></td> <!-- Discussion -->
       <td>release Reading Quiz 11<br/>
         (due 11/25)</td> <!-- Assignment -->
@@ -671,7 +671,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment"> 18. Snap! & Python Libraries</a><br/>
-        (due 11/29)</td> <!-- Lab -->
+        (Optional)</td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">13. Social Implications</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -727,7 +727,7 @@
       <th>Wed 11/30</th> <!-- Date -->
       <td>24. Alumni Panel</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Final Work Session</td> <!-- Lab -->
+      <td>Catchup Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>FINAL PROJ Due</td> <!-- Assignment -->
     </tr>
@@ -735,7 +735,7 @@
       <th>Thur 12/1</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Final Work Session</td> <!-- Lab -->
+      <td>Catchup Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
