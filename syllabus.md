@@ -27,10 +27,10 @@ This Fall, CS10 will be be primarily in person, but we will be able to provide r
 
 * **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org
 * **Ed**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read weekly-blasts, which are required reading. 
-* **Gradescope**: This is where you will submit Reading Quizzes, Project 4, and the Final Project.
+* **Gradescope**: This is where you will submit Reading Quizzes, Projects 1-4, and the Final Project.
 * **Youtube**: Lectures will also be live streamed on Youtube, and lecture recordings will be uploaded to a Youtube playlist.
 * **OhYay**:  Hybrid lab sections and office hours will be held via Ohyay. Ohyay is a new tool which lets us build some interactive spaces.
-* **PrarieLearn**: The three exams: Quest, Midterm, and Final will be administered via PrarieLearn. You will also submit Projects 1-3 and Project 5 here.
+* **PrarieLearn**: The three exams: Quest, Midterm, and Post-term will be administered via PrarieLearn. You will also submit Project 5 here.
 
 ## Primary Course Components
 
@@ -84,13 +84,13 @@ This Fall, CS10 will be be primarily in person, but we will be able to provide r
 
 ## Pro-Student Grading Policies
 
-* **Absolute-Clobber Policy**: Every exam score can be clobbered by a future exam. If your percentage score on the midterm is better than your percentage score on the quest, then we will replace your quest score with your percentage score on the midterm. Similarly, the final exam score can be used to clobber both the midterm and the quest. 
+* **Absolute-Clobber Policy**: Every exam score can be clobbered by a future exam. If your percentage score on the midterm is better than your percentage score on the quest, then we will replace your quest score with your percentage score on the midterm. Similarly, the Post-term exam score can be used to clobber both the midterm and the quest. 
 
 * **Late Submissions**: Late submissions for projects will be handled on a case-by-case basis. If for some reason you cannot make a deadline, please fill out the extension form linked below. If you do not reach out to anyone in advance, we reserve the right to mark the submission down by 10% for each day that it is late.
 
 ## Exam Policy
 
-There will be three exams: The Quest, the Midterm and the Final Exam. Exams will be take-home and will be conducted online on PrarieLearn. If an emergency comes up close to the exam and you need accommodations, email cs10@berkeley.edu ASAP. The Quest will be opened on September 12th and September 13th; the midterm will be opened from October17 - October 18, and the final will be open on December XX (will be fixed soon!). Exam logistics and the specific times that exams will be opened, will be sent out in more detail closer to the date of each exam.
+There will be three exams: The Quest, the Midterm and the Post-term Exam. Exams will be take-home and will be conducted online on PrarieLearn. If an emergency comes up close to the exam and you need accommodations, email cs10@berkeley.edu ASAP. The Quest will be opened on September 12th and September 13th; the midterm will be opened from October17 - October 18, and the post-term will be open 12/3 - 12/5. Exam logistics and the specific times that exams will be opened, will be sent out in more detail closer to the date of each exam.
 
 ## DSP Accommodations
 If you have a DSP accommodation through the university that is not addressed by the above policies, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to [cs10@berkeley.edu](mailto:cs10@berkeley.edu). 
@@ -110,7 +110,7 @@ Maintaining academic integrity is a crucial part of your learning experience, as
 * Copying part or all of another student’s project code with the exception of your partner(s) assuming that the project you are working on allows for partnered work. This includes students from previous semesters (we still have their code and will know if you do this).
 * Sharing or receiving the exact steps used to solve a project problem (even if code is not explicitly sent).
 * Copying part or all of another student’s exam answers.
-* Collaborating with another student when taking the quest, midterm, or final exams by receiving or giving assistance of any kind.
+* Collaborating with another student when taking the quest, midterm, or Post-term exams by receiving or giving assistance of any kind.
 * Copying code from online sources without crediting them
 
 **What constitutes collaboration?**
