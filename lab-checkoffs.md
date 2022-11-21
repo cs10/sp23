@@ -167,6 +167,12 @@ labs:
     - Is it always true that splitting a task among 10 “workers” (or cores) is better than splitting it among 5 “workers” (or cores)?
     - What is the difference between determinism and nondeterminism in the context of concurrency?
     - How does Snap! handle concurrency?
+
+  - lab_name: Snap! & Python Libraries
+    lab_no: 18
+    topic_file: berkeley_bjc/libraries/libraries.topic
+    questions:
+    - This lab does not have checkoff questions. We encourage students to go through the assignment at their leisure if they're interested.
 ---
 # Lab Check-Offs
 
