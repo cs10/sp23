@@ -32,4 +32,4 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 
 **Discussion 12**{: .label .label-discussion } Python HOFs, Lambdas, and Tree Recursion | [worksheet](https://drive.google.com/file/d/19EdBFGorn-_5dPHybVqXWr3WMLCC9GSe/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1GT9aN_IfId6PH5lo7_Qrou8-CcLEiaml/view?usp=share_link) | [recording](https://drive.google.com/file/d/1V2gIv3eu17F3jNf7pkr9lsyrV98w2WrD/view?usp=sharing)
 
-**Discussion 15**{: .label .label-discussion } Final Exam Review | [worksheet](https://drive.google.com/file/d/1nD0v5txtfOuwvfmR-B4HSNhB-B8zEZbb/view?usp=share_link)
+**Discussion 15**{: .label .label-discussion } Final Review & Farewell | [worksheet](https://drive.google.com/file/d/1nD0v5txtfOuwvfmR-B4HSNhB-B8zEZbb/view?usp=share_link)

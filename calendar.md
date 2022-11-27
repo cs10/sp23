@@ -626,7 +626,7 @@
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment">17. Concurrency</a><br/>
         (Optional)</td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa22/discussion/">12. Python HOFs, Lambdas, Tree Recursion</a></td> <!-- Discussion -->
+      <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -650,7 +650,7 @@
       <td>23. Guest Lecture: Limits of Computing <a href="https://people.eecs.berkeley.edu/~minilek/">(Professor Jelani Nelson)</a><a href = "https://www.youtube.com/c/IesgDepartmental">(live stream)</a> <a href = "https://www.youtube.com/playlist?list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa22/discussion/">13. Social Implications</a></td> <!-- Discussion -->
+      <td></td> <!-- Discussion -->
       <td>Reading Quiz 10 Due</td> <!-- Assignment -->
     </tr>
 
@@ -662,7 +662,7 @@
       <td><a href="https://cs10.org/fa22/readings/">Week 14 Readings</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment"> 18. Snap! & Python Libraries </a><br/>
         (Optional)</td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa22/discussion/">13. Social Implications</a></td> <!-- Discussion -->
+      <td></td> <!-- Discussion -->
       <td>release Reading Quiz 11<br/>
         (due 11/25)</td> <!-- Assignment -->
     </tr>
@@ -672,7 +672,7 @@
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment"> 18. Snap! & Python Libraries</a><br/>
         (Optional)</td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa22/discussion/">13. Social Implications</a></td> <!-- Discussion -->
+      <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -712,7 +712,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Catchup Work Session</td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa22/discussion/">14. Final Review & Farewell</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">15. Final Review & Farewell</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -720,7 +720,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>Catchup Work Session</td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa22/discussion/">14. Final Review & Farewell</a></td> <!-- Discussion -->
+      <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -744,7 +744,7 @@
       <td>25. Conclusion & Farewell</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa22/discussion/">14. Final Review & Farewell</a></td> <!-- Discussion -->
+      <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
 
