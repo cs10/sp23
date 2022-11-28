@@ -711,7 +711,7 @@
       <th>Mon 11/28</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Catchup Work Session</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/fa22/discussion/">15. Final Review & Farewell</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -719,7 +719,7 @@
       <th>Tue 11/29</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Catchup Work Session</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -727,15 +727,15 @@
       <th>Wed 11/30</th> <!-- Date -->
       <td>24. Alumni Panel</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Catchup Work Session</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>FINAL PROJ Due</td> <!-- Assignment -->
+      <td>FINAL PROJ Cancelled (Not Due)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 12/1</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Catchup Work Session</td> <!-- Lab -->
+      <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
