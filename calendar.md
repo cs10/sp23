@@ -848,5 +848,3 @@
       <td>NO CLASS (Finals Week)</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
-  </tbody>
-</table>
