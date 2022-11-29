@@ -745,7 +745,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td><b>Postterm RELEASED Saturday 12/3</b></td> <!-- Assignment -->
     </tr>
 
     <!-- WEEK SIXTEEN - RRR WEEK-->
@@ -758,7 +758,7 @@
         (RRR Week)</td> <!-- Lab -->
       <td>NO CLASS<br/>
         (RRR Week)</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td><b>Postterm DUE</b></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 12/6</th> <!-- Date -->
@@ -818,8 +818,7 @@
       <td>NO CLASS<br/>
         (Finals Week)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td><b>release FINAL</b><br/>
-        (due 12/16)</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 12/14</th> <!-- Date -->
@@ -846,9 +845,6 @@
         (Finals Week)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>NO CLASS<br/>
-        (Finals Week)</td> <!-- Discussion -->
-      <td><b>FINAL Due</b></td> <!-- Assignment -->
+      <td>NO CLASS (Finals Week)</td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
     </tr>
-  </tbody>
-</table>
