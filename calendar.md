@@ -712,7 +712,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/fa22/discussion/">15. Final Review & Farewell</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/fa22/discussion/">15. Postterm Review & Farewell</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
