@@ -33,4 +33,3 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 **Discussion 12**{: .label .label-discussion } Python HOFs, Lambdas, and Tree Recursion | [worksheet](https://drive.google.com/file/d/19EdBFGorn-_5dPHybVqXWr3WMLCC9GSe/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1GT9aN_IfId6PH5lo7_Qrou8-CcLEiaml/view?usp=share_link) | [recording](https://drive.google.com/file/d/1V2gIv3eu17F3jNf7pkr9lsyrV98w2WrD/view?usp=sharing)
 
 **Discussion 15**{: .label .label-discussion } Postterm Review & Farewell | [worksheet](https://drive.google.com/file/d/1nD0v5txtfOuwvfmR-B4HSNhB-B8zEZbb/view?usp=share_link) | [solutions](https://drive.google.com/file/d/16xjx1ZqT1uzUN4uDUUSW9hjm7Y8SdLFR/view?usp=share_link) | [recording](https://berkeley.zoom.us/rec/share/w1Cmv_M_1t1j9cXFzDwIn4LMUF-6S6EkGPR0zQAagnY0cGghQqdsomUKYnlGsL38.MsyxwOxYZNEyB3G0?startTime=1669673267000) | password: woohoo123!
-)
