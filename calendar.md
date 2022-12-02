@@ -725,7 +725,8 @@
     </tr>
     <tr>
       <th>Wed 11/30</th> <!-- Date -->
-      <td>24. Alumni Panel</td> <!-- Lecture -->
+      <td>24. Alumni Panel
+      <a href = "https://www.youtube.com/watch?v=d_LnDYX5XT0&list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ&index=26">(recording)</a><a href="https://docs.google.com/presentation/d/1h7bTwxwh1fNJYPwDsLlppzeSuylBhsKr8mNyJakkBxw/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -741,7 +742,7 @@
     </tr>
     <tr>
       <th>Fri 12/2</th> <!-- Date -->
-      <td>25. Conclusion & Farewell</td> <!-- Lecture -->
+      <td>25. Conclusion & Farewell <a href="https://drive.google.com/file/d/1-SmBGlzZypXYLt8lMc6nYDtz5nFG6TBb/view?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
