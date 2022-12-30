@@ -659,7 +659,7 @@
       <td rowspan=5>14</td> <!-- Week Number -->
       <th>Mon 11/21</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/fa22/readings/">Week 14 Readings</a></td> <!-- Readings -->
+      <td><a href="https://cs10.org/fa22/readings/">Week 14 Readings (optional)</a></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment"> 18. Snap! & Python Libraries </a><br/>
         (Optional)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->

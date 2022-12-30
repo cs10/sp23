@@ -74,7 +74,7 @@ This page will be updated with links to readings throughout the semester.
 
 **Week 14 Reading (for RQ 11)**{: .label .label-reading }
 
-  - Required: [The Secret History of Women in Coding](https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing)
+  - Optional: [The Secret History of Women in Coding](https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing)
 
 <!--
 **Week 5 Reading**{: .label .label-reading }
