@@ -1,6 +1,6 @@
-title: CS10 Fall 2023
+title: CS10 Spring 2023
 tagline: The Beauty and Joy of Computing
-description: A gentle, but thorough introduction to computer science.
+description: A gentle but thorough introduction to computer science.
 author: Imen Guechtouli
 baseurl: /sp23 # the subpath of your site, e.g. /blog
 url: https://cs10.org
@@ -23,31 +23,31 @@ external_navigation:
     url: 
   - title: Gradescope
     url: 
-  - title: Ohyay
-    url: https://ohyay.co/s/cs10/
+  - title: OhYay
+    url: 
 footer_content:
 
 ################################################
 # Custom Data
-bCourses: 
+bCourses: 1513042
 labsCourse: cs10_fa21.html
-ed_id: 
+ed_id: 18545
 labsurl: https://cs10.org/
 
 ###### TODO: UPDATE THESE, CURRENTLY UNUSED
 # This section controlls the interactive google calendar.
 # Should be in MomentJS format
-startDate: 2023-01-15 # First Sunday
-endDate:   2023-05-20 # Last Saturday
+startDate: 2016-01-17 # First Sunday
+endDate:   2016-05-14 # Last Saturday
 
 # Change the calendar to show Sun-Sat instead of M-F when an exam is near
-questDate: 
-midtermDate: 
-finalDate: 
+questDate: 2016-02-17
+midtermDate: 2016-03-16
+finalDate: 2016-05-10
 # from console.developers.google.com
 # This key can be public and is tied to a users calendar accesses
 # whoever this key belongs to should have access to the CS10 galendars.
-gcalAPIKey: 
+gcalAPIKey: AIzaSyBcbN6F79dPHiGMvftIKZB86A6Ki2eIKZs
 
 ###############################################
 # Collections for website data
