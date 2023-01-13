@@ -8,6 +8,8 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 logo: "./assets/images/bjc.png"
 
+theme: minima
+
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
 color_scheme: light
