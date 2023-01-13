@@ -1,8 +1,8 @@
-title: CS10 Fall 2022
-tagline:
-description: A gentle but thorough introduction to computer science.
-author: Vedansh Malhotra
-baseurl: /fa22 # the subpath of your site, e.g. /blog
+title: CS10 Fall 2023
+tagline: The Beauty and Joy of Computing
+description: A gentle, but thorough introduction to computer science.
+author: Imen Guechtouli
+baseurl: /sp23 # the subpath of your site, e.g. /blog
 url: https://cs10.org
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -20,34 +20,34 @@ external_navigation:
   - title: Snap!
     url: https://snap.berkeley.edu/
   - title: Ed Discussion
-    url: https://edstem.org/us/courses/25159/discussion/
+    url: 
   - title: Gradescope
-    url: https://www.gradescope.com/courses/419007/
+    url: 
   - title: Ohyay
     url: https://ohyay.co/s/cs10/
 footer_content:
 
 ################################################
 # Custom Data
-bCourses: 1513042
+bCourses: 
 labsCourse: cs10_fa21.html
-ed_id: 18545
+ed_id: 
 labsurl: https://cs10.org/
 
 ###### TODO: UPDATE THESE, CURRENTLY UNUSED
 # This section controlls the interactive google calendar.
 # Should be in MomentJS format
-startDate: 2016-01-17 # First Sunday
-endDate:   2016-05-14 # Last Saturday
+startDate: 2023-01-15 # First Sunday
+endDate:   2023-05-20 # Last Saturday
 
 # Change the calendar to show Sun-Sat instead of M-F when an exam is near
-questDate: 2016-02-17
-midtermDate: 2016-03-16
-finalDate: 2016-05-10
+questDate: 
+midtermDate: 
+finalDate: 
 # from console.developers.google.com
 # This key can be public and is tied to a users calendar accesses
 # whoever this key belongs to should have access to the CS10 galendars.
-gcalAPIKey: AIzaSyBcbN6F79dPHiGMvftIKZB86A6Ki2eIKZs
+gcalAPIKey: 
 
 ###############################################
 # Collections for website data
