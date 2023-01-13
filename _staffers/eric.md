@@ -1,6 +1,6 @@
 ---
 name: Eric Min Young Park
-role: TA
+role: Reader
 email: prk4k@
 website:
 photo: eric.jpg

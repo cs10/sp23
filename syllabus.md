@@ -19,11 +19,11 @@ description: >-
 
 ## Welcome
 
-Welcome to CS10: The Beauty and Joy of Computing! We’re really excited to have you on board with us this Fall for a gentle but thorough introduction to computer science. Our course will start out in the blocks-based language Snap<em>!</em>, but will transition into Python once you have learned some fundamentals of programming. By the end of the class, we hope you walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue.
+Welcome to CS10: The Beauty and Joy of Computing! We’re really excited to have you on board with us this Spring for a gentle, but thorough introduction to computer science. Our course will start out in the block-based language Snap<em>!</em>, but will transition into Python once you've learned some fundamentals of programming. By the end of the course, we hope you'll walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue.
 
 ## Platforms
 
-This Fall, CS10 will be be primarily in person, but we will be able to provide remote accommodations as needed:
+This Spring, CS10 will be be primarily in person, but we will be able to provide remote accommodations as needed:
 
 * **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org
 * **Ed**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read weekly-blasts, which are required reading. 
@@ -34,19 +34,19 @@ This Fall, CS10 will be be primarily in person, but we will be able to provide r
 
 ## Primary Course Components
 
-* **Lecture**: Lecture will be live and in person in HP Auditorium (306 Soda Hall). Lecture will also be live-cast and recordings will also be posted on cs10.org after class. Lecture introduces concepts and gives you and overview of what is happening in labs and discussions. 
+* **Lecture**: Lecture will be live and in person in Birge Hall (Birge 50). Lecture will also be live-casted, with recordings posted on the website after class. Lecture introduces concepts and gives you and overview of what is happening in labs and discussions. 
 
-* **Lab Sections**: Labs will be held synchronously and are the primary place you will learn to program. While lab attendance is not mandatory, you will need to attend lab or office hours to get credit for them. To earn full credit for a lab, it must be completed, submitted, and checked-off. Checkoff can be done synchronously either in lab or in office hours. If you have a special circumstance where you are unable to check-off a lab, you may ask for an extension using our extension form (see below). Each lab will be due by the end of the following lab day (labs assigned on Mon/Tue are due on Wed/Thu. Those assigned Wed/Thu are due on the next lab on Mon/Wed.) There will be 17 total labs — but only your top 15 lab scores will count towards your grade (i.e. you get two lab drops). Each lab is worth 2 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 1 point will be deducted for any given lab. You should plan on attending the lab you sign up for the entire term, but you may attend other lab sections or office hours to get checked off or get extra help.
+* **Lab Sections**: Labs will be held synchronously and are the primary place you will learn to program. While lab attendance is not mandatory, you will need to attend lab or office hours to get credit for them. To earn full credit for a lab, it must be completed, submitted, and checked-off. Checkoff can be done synchronously either in lab or in office hours. If you have a special circumstance where you are unable to check-off a lab, you may ask for an extension using our extension form (see [Extensions Requests](https://cs10.org/sp23/syllabus/#extension-requests) section). Each lab will be due by the end of the following lab day (Labs assigned on Mon/Tue are due on Wed/Thu. Those assigned Wed/Thu are due on the next lab on Mon/Wed.) There will be 17 total labs — but only your top 15 lab scores will count towards your grade (i.e. you get two lab drops). Each lab is worth 2 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 1 point will be deducted for any given lab. You should plan on attending the lab you sign up for the entire term, but you may attend other lab sections or office hours to get checked off or get extra help.
 
-* **Discussion Sections**: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming. While we <b> strongly encourage </b> students to attend Discussions in-person, we will also post recordings for students who can not attend some sections.
+* **Discussion Sections**: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming. While we <b> strongly encourage </b> students to attend Discussions in-person, we will post recordings for students who can not attend some sections.
 
 * **Office Hours**: During office hours, you can meet with a TA for help with course material, assignments, or bigger picture questions.
 
-* **Instructor Office Hours**: Professor Garcia will be holding Instructor OH which you may attend for more conceptual help or to discuss anything you like (e.g. career/major advice or how you're doing in the class) within reason.
+* **Instructor Office Hours**: Professor Garcia will be holding Instructor office hours, which you may attend for more conceptual help or to discuss anything you like (e.g. career/major advice or how you're doing in the class) within reason.
 
-* **Projects**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the class. 
+* **Projects**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the components of the course. 
 
-* **Project Parties**: These will serve as specialized office hours where you will be able to come work and get help on whatever project is currently assigned. We strongly encourage you to attend these as they will help you finish your assignments on time.
+* **Project Parties**: These will serve as specialized office hours where you will be able to come work and get help on whatever project is currently assigned. We strongly encourage you to attend project parties as they will help you finish your assignments on time.
 
 
 ## Grading Breakdown
@@ -82,23 +82,23 @@ This Fall, CS10 will be be primarily in person, but we will be able to provide r
 | D                  |    300-349                        |
 | F                  |    0-299                          |
 
-## Pro-Student Grading Policies
-
-* **Absolute-Clobber Policy**: Every exam score can be clobbered by a future exam. If your percentage score on the midterm is better than your percentage score on the quest, then we will replace your quest score with your percentage score on the midterm. Similarly, the Post-term exam score can be used to clobber both the midterm and the quest. 
-
-* **Late Submissions**: Late submissions for projects will be handled on a case-by-case basis. If for some reason you cannot make a deadline, please fill out the extension form linked below. If you do not reach out to anyone in advance, we reserve the right to mark the submission down by 10% for each day that it is late.
+# Pro-Student Course Policies
 
 ## Exam Policy
 
-There will be three exams: The Quest, the Midterm and the Post-term Exam. Exams will be take-home and will be conducted online on PrarieLearn. If an emergency comes up close to the exam and you need accommodations, email cs10@berkeley.edu ASAP. The Quest will be opened on September 12th and September 13th; the midterm will be opened from October17 - October 18, and the post-term will be open 12/3 - 12/5. Exam logistics and the specific times that exams will be opened, will be sent out in more detail closer to the date of each exam.
+There will be three exams: The Quest, the Midterm and the Post-term Exam. Exams will be take-home and will be conducted online on PrarieLearn. If an emergency comes up close to the exam and you need accommodations, email [cs10@berkeley.edu](mailto:cs10@berkeley.edu) ASAP. Exam logistics and the specific times that exams will be opened, will be sent out in more detail closer to the date of each exam.
+
+* **Absolute-Clobber Policy**: Every exam score can be clobbered by a future exam. If your percentage score on the Midterm is better than your percentage score on the Quest, then we will replace your Quest score with your percentage score on the Midterm. Similarly, the Post-term exam score can be used to clobber both the Midterm and the Quest. 
 
 ## DSP Accommodations
 If you have a DSP accommodation through the university that is not addressed by the above policies, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to [cs10@berkeley.edu](mailto:cs10@berkeley.edu). 
 
-## Extension Requests
+## Extension Requests & Extenuating Circumstances
 Please use this [extension request form](https://forms.gle/krWTHUdob4gbZLJn9) to request extensions on deadlines for any assignments. <b>NOTE: If you added the course late, please use your updated deadline as the 'original due date'.</b> Extensions will be reviewed approximately every two business days. <b>Important</b>: While extensions may not be visible on PrarieLearn / Gradescope (your assignments may be marked 'late'), they will be factored in when we compute your final grade. 
 
 [Extenuating Circumstances form](https://forms.gle/njTDd3cVn9a55ybf6) This form is for any circumstances that can't be resolved with extensions. Don't be afraid to reach out! We're here to help you succeed in our course.
+
+* **Late Submissions**: Late submissions for projects will be handled on a case-by-case basis. If for some reason you cannot make a deadline, please fill out the extension form (see section below). If you do not reach out to anyone in advance, we reserve the right to mark the submission down by 10% for each day that it is late.
 
 ## Academic Integrity
 
@@ -130,4 +130,4 @@ We recognize that computer science is a demographically skewed field in the Unit
 - Discrimination or disrespect on the basis of race, ethnicity, religion, socioeconomic status, ability, gender, or sexual orientation will be tolerated under no circumstances. Should someone make you feel uncomfortable or disrespected in any way, please let the instructor / head-TA know immediately via email (cs10@) or by coming to office hours. You can also fill out the [EECS Incident Reporting Form](https://eecs.link/climate).
 
 ## Academic Accommodations Hub
-Here's a link to the [Academic Accommodations Hub.](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub). 
+Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub). 
