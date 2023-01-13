@@ -1,4 +1,4 @@
-# CS10 Spring 2022 [https://cs10.org/sp22]()
+# CS10 Spring 2023 [https://cs10.org/sp23]()
 ---
 
 ### Just The Class Info

@@ -1,4 +1,4 @@
-<table class="table table-bordered schedule-table">
+<table class="table table-bordered table-striped-sched table-hover-sched" id="schedule-table">
   <thead>
     <tr>
       <th class="center schedule-week-num">Week</th>
