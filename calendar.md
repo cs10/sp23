@@ -285,7 +285,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>PROJ 1 Party</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 2/28</th> <!-- Date -->
@@ -294,7 +294,7 @@
       <td>10. Recursive Reporters<br/>
       (due 3/02)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>PROJ 1 due</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 3/01 </th> <!-- Date -->
@@ -393,7 +393,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Proj 2 due</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 3/16</th> <!-- Date -->
@@ -420,7 +420,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>PROJ 4 (comments) DUE<br/<br/>
+      <td>PROJ 4 (comments) DUE<br/><br/>
       PROJ 5: Pyturis<br/>
       (due 4/04)</td> <!-- Assignment -->
     </tr>
@@ -535,7 +535,7 @@
       <td></td> <!-- Readings -->
       <td>PROPOSAL REVIEWS</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Final Project Proposals Review</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 4/07</th> <!-- Date -->
