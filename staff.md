@@ -17,7 +17,7 @@ nav_order: 10
   {% endfor %}
 </div>
 
-## Head Teaching Assistant
+## Head Teaching Assistants
 
 {% assign staff = site.staffers | where: 'role', 'Head TA' %}
 <div class="role">
