@@ -29,7 +29,7 @@ This Spring, CS10 will be be primarily in person, but we will be able to provide
 * **Ed**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read weekly-blasts, which are required reading. 
 * **Gradescope**: This is where you will submit Reading Quizzes, Projects 1-4, and the Final Project.
 * **Youtube**: Lectures will also be live streamed on Youtube, and lecture recordings will be uploaded to a Youtube playlist.
-* **OhYay**:  Hybrid lab sections and office hours will be held via Ohyay. Ohyay is a new tool which lets us build some interactive spaces.
+* **Discord**:  Hybrid lab sections and office hours will be held via Discord, which offers more interactive, versatile spaces for you to connect with students and staff.
 * **PrarieLearn**: The three exams: Quest, Midterm, and Post-term will be administered via PrarieLearn. You will also submit Project 5 here.
 
 ## Primary Course Components
