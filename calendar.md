@@ -188,7 +188,7 @@
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/sp23/discussion/">4. Algorithms</a></td> <!-- Discussion -->
       <td><b>QUEST</b><br/>
-      (due 2/13)</td> <!-- Assignment -->
+      (due 2/12)</td> <!-- Assignment -->
     </tr>
     <!-- WEEK FIVE ------------------------------------------------------------ -->
     <tr>
@@ -337,7 +337,7 @@
       <th>Tue 3/07</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Lab Catch Up</td> <!-- Lab -->
+      <td>No New Lab</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
