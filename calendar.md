@@ -127,7 +127,7 @@
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 2: Wordle<br/>
-      (due 2/16)</td> <!-- Assignment -->
+      (due 2/15)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 2/02</th> <!-- Date -->
@@ -160,7 +160,7 @@
       <th>Tue 2/07</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>6. Algorithmic Complexity<br/>
+      <td>7. Boards<br/>
       (due 2/14)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -177,7 +177,7 @@
       <th>Thur 2/09</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>PROJ Work Session</td> <!-- Lab -->
+      <td>PROJ Work Session/QUEST Review</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -204,10 +204,9 @@
       <th>Tue 2/14</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>7. Boards<br/>
-      (due 2/16)</td> <!-- Lab -->
+      <td>PROJ Work Session</td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>HW 2 Party; HW 2 due</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 2/15</th> <!-- Date -->
@@ -215,7 +214,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>PROJ 2 DUE</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 2/16</th> <!-- Date -->
@@ -224,7 +223,7 @@
       <td>8. Testing + 2048<br/>
       (due 2/21)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>PROJ 2 DUE</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 2/17</th> <!-- Date -->
