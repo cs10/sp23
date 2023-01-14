@@ -456,7 +456,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/sp23/discussion/">Python Data Structures</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/sp23/discussion/">10. Python Data Structures</a></td> <!-- Discussion -->
       <td>Final Project Proposals<br/>
       (due 4/03)</td> <!-- Assignment -->
     </tr>
@@ -645,7 +645,7 @@
     <tr>
       <th>Tue 4/25</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>RQ 11:</td> <!-- Readings -->
+      <td></td> <!-- Readings -->
       <td>18. Snap! & Python Libraries (optional)<br/>
       (due 4/27)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
