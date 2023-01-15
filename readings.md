@@ -52,7 +52,7 @@ This page will be updated with links to readings throughout the semester.
   - [These are the sneaky ways apps like Instagram, Facebook, Tinder lure you in and get you 'addicted'](https://www.businessinsider.com/how-app-developers-keep-us-addicted-to-our-smartphones-2018-1)
 
 **Week 9 Reading (for RQ 7)**{: .label .label-reading }
-- Optional:
+- Required:
   - [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
 
 **Week 11 Reading (for RQ 8)**{: .label .label-reading }
@@ -74,7 +74,7 @@ This page will be updated with links to readings throughout the semester.
 
 **Week 14 Reading (for RQ 11)**{: .label .label-reading }
 
-  - Optional: [The Secret History of Women in Coding](https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing)
+  - Required: [The Secret History of Women in Coding](https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing)
 
 <!--
 **Week 5 Reading**{: .label .label-reading }
