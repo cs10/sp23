@@ -27,7 +27,6 @@ Below, you can find various resources to help with your understanding of the mat
 
 ## Python Resources
 
-* Python Syntax Guide
 * [Official Python Documentation](https://docs.python.org/3/tutorial/index.html)
 * [CS 61A's Terminal Guide](https://inst.eecs.berkeley.edu/~cs61a/sp19/articles/unix.html)
 * [Jake's Python Debugging Guide](https://docs.google.com/document/u/1/d/e/2PACX-1vRqCD_Vmn0tYhoOrcju_9b3mrmjLYuJt2VJDMYpUDpTxFIfvY4AFWWQh0Hwl3Yj7kduSe0gYV5UvLdT/pub?embedded=true)

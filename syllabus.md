@@ -25,10 +25,11 @@ Welcome to CS10: The Beauty and Joy of Computing! We’re really excited to have
 
 This Spring, CS10 will be be primarily in person, but we will be able to provide remote accommodations as needed:
 
-* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org
+* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/sp23/schedule/) to find the times/locations for all synchronous course activites.
 * **Ed**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read weekly-blasts, which are required reading. 
 * **Gradescope**: This is where you will submit Reading Quizzes, Projects 1-4, and the Final Project.
-* **Youtube**: Lectures will also be live streamed on Youtube, and lecture recordings will be uploaded to a Youtube playlist.
+* **Youtube**: *Note: This section is tentative and may be updated.\*
+Lectures will also be live streamed on Youtube, and lecture recordings will be uploaded to a Youtube playlist.
 * **Discord**:  Hybrid lab sections and office hours will be held via Discord, which offers more interactive, versatile spaces for you to connect with students and staff.
 * **PrarieLearn**: The three exams: Quest, Midterm, and Post-term will be administered via PrarieLearn. You will also submit Project 5 here.
 
@@ -88,17 +89,21 @@ This Spring, CS10 will be be primarily in person, but we will be able to provide
 
 There will be three exams: The Quest, the Midterm and the Post-term Exam. Exams will be take-home and will be conducted online on PrarieLearn. If an emergency comes up close to the exam and you need accommodations, email [cs10@berkeley.edu](mailto:cs10@berkeley.edu) ASAP. Exam logistics and the specific times that exams will be opened, will be sent out in more detail closer to the date of each exam.
 
-* **Absolute-Clobber Policy**: Every exam score can be clobbered by a future exam. If your percentage score on the Midterm is better than your percentage score on the Quest, then we will replace your Quest score with your percentage score on the Midterm. Similarly, the Post-term exam score can be used to clobber both the Midterm and the Quest. 
+* **Absolute-Clobber Policy**: Every exam score can be clobbered by a future exam. If your percentage score on the Midterm is better than your percentage score on the Quest, then we will replace your Quest score with your percentage score on the Midterm. Similarly, the Postterm exam score can be used to clobber both the Midterm and the Quest. 
 
 ## DSP Accommodations
 If you have a DSP accommodation through the university that is not addressed by the above policies, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to [cs10@berkeley.edu](mailto:cs10@berkeley.edu). 
 
 ## Extension Requests & Extenuating Circumstances
-Please use this [extension request form](https://forms.gle/krWTHUdob4gbZLJn9) to request extensions on deadlines for any assignments. <b>NOTE: If you added the course late, please use your updated deadline as the 'original due date'.</b> Extensions will be reviewed approximately every two business days. <b>Important</b>: While extensions may not be visible on PrarieLearn / Gradescope (your assignments may be marked 'late'), they will be factored in when we compute your final grade. 
+**Note: This section will be updated with a link to the extensions request form in the near future. For now, please email cs10@ with extension requests.**
 
-[Extenuating Circumstances form](https://forms.gle/njTDd3cVn9a55ybf6) This form is for any circumstances that can't be resolved with extensions. Don't be afraid to reach out! We're here to help you succeed in our course.
+Please use this [extension request form]() to request extensions on deadlines for any assignments. <b>NOTE: If you added the course late, please use your updated deadline as the 'original due date'.</b> Extensions will be reviewed approximately every two business days. <b>Important</b>: While extensions may not be visible on PrarieLearn / Gradescope (your assignments may be marked 'late'), they will be factored in when we compute your final grade. 
 
-* **Late Submissions**: Late submissions for projects will be handled on a case-by-case basis. If for some reason you cannot make a deadline, please fill out the extension form (see section below). If you do not reach out to anyone in advance, we reserve the right to mark the submission down by 10% for each day that it is late.
+**Note: This section will be updated with a link to the extenuating circumstances form in the near future. For now, please email cs10@ instead.**
+
+[Extenuating Circumstances form]() This form is for any circumstances that can't be resolved with extensions. Don't be afraid to reach out! We're here to help you succeed in our course.
+
+* **Late Submissions**: Late submissions for projects will be handled on a case-by-case basis. If for some reason you cannot make a deadline, please fill out the extension form (see section above). If you do not reach out to anyone in advance, we reserve the right to mark the submission down by 10% for each day that it is late.
 
 ## Academic Integrity
 
@@ -131,3 +136,7 @@ We recognize that computer science is a demographically skewed field in the Unit
 
 ## Academic Accommodations Hub
 Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub). 
+
+## EECS Student Climate & Incident Reporting Form
+It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
+The EECS department provides a secure and anonymous [form]() that can be used to report incidents including (but not limited to) of microaggressions, discrimination, marginalizing / alienating behaviour, etc. 
