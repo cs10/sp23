@@ -5,4 +5,4 @@ email: gandhi@
 website: https://www.linkedin.com/in/mehul-gandhi/
 photo: mehul.png
 ---
-Hey everyone! I’m a junior studying Computer Science, and this is my third semester working on staff for CS10. I took CS10 during my spring semester of Freshman year and I love the creative and critical thinking aspects that CS provides, so I decided to change my major to CS! This semester, I'm looking into learning fullstack development through personal projects! During my free time, I like to watch anime and k-drama, try out new restaurants, and host social events for clubs! I'm super excited to work with all of you this semester :)
+Hey everyone! I’m a junior studying Computer Science, and this is my fourth semester working on staff for CS10. I took CS10 during my spring semester of Freshman year and I love the creative and critical thinking aspects that CS provides, so I decided to change my major to CS! This semester, I'm looking into learning fullstack development through personal projects! During my free time, I like to watch anime and k-drama, try out new restaurants, and host social events for clubs! I'm super excited to work with all of you this semester :)
