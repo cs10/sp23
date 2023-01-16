@@ -85,7 +85,7 @@
     <tr>
       <th>Thur 1/26</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td> Reading Quiz 1 (in lab) </td> <!-- Readings -->
+      <td></td> <!-- Readings -->
       <td>3. Conditionals, Reporters & Abstraction<br/>
       (due 1/31)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -628,7 +628,7 @@
       <th>Thur 4/20</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>18. Snap! & Python Libraries (optional)<br/>
+      <td>18. Snap! & Python Libraries <br/>
       (due 4/27)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -649,7 +649,9 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>POSTTERM Review</td> <!-- Assignment -->
+      <td>FINAL Proj Party<br/><br/>
+      POSTTERM Review<br/><br/>
+      RQ 11</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 4/25</th> <!-- Date -->
@@ -682,7 +684,8 @@
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/sp23/discussion/">15. Postterm Review & Farewell</a></td> <!-- Discussion -->
       <td><b>POSTTERM</b><br/>(due 5/02)<br/><br/>
-      Final PROJ Due</td> <!-- Assignment -->
+      Final PROJ Due<br/><br/>
+      RQ 11 Due</td> <!-- Assignment -->
     </tr>
     <!-- WEEK SIXTEEN ------------------------------------------------------------ -->
     <tr>
