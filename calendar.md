@@ -628,7 +628,7 @@
       <th>Thur 4/20</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>18. Snap! & Python Libraries (optional)<br/>
+      <td>18. Snap! & Python Libraries <br/>
       (due 4/27)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
