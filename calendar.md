@@ -103,7 +103,7 @@
     <tr>
       <td rowspan=5>3</td>
       <th>Mon 1/30</th> <!-- Date -->
-      <td>4. Lists, Scoping, HOFs</td> <!-- Lecture -->
+      <td>4. Variables, Scope, Lists & HOFs</td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 3 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
