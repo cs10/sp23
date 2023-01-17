@@ -5,7 +5,7 @@ nav_exclude: false
 nav_order: 1
 ---
 
-# **CS 10: The Beauty and Joy of Computing [UNDER CONSTRUCTION]**
+# **CS 10: The Beauty and Joy of Computing**
 {: .mb-2 }
 UC Berkeley, Spring 2023
 {: .mb-2 .fs-6 .text-grey-dk-100 }
@@ -16,7 +16,7 @@ UC Berkeley, Spring 2023
 **Instructor:** Teaching Professor Dan Garcia
 {: .fs-4 }
 
-<div class="d-flex">  <!-- TODO: put alonzo on the right handside -->
+<div class="d-flex">  
   <div class="flex-justify-start" style="flex-grow: 1">
   {% if site.announcements %}
     {{ site.announcements.last }}

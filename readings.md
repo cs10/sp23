@@ -16,7 +16,7 @@ This page will be updated with links to readings throughout the semester.
 - Reading Quiz Question: Why is learning how to code important? Are you convinced about the importance of computer science in the world today? Include at least one point made in the video, 'Code Stars’. (Expected length: 2 - 4 sentences).
 
 
-**Week 3 Reading (for RQ 2)**{: .label .label-reading}
+<!-- **Week 3 Reading (for RQ 2)**{: .label .label-reading}
 
 - Required: [Introduction to Abstraction](http://cs10.org/fa17/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub)
 - Reading Quiz Question: Why is a car a good example of abstraction? Using this example, give one reason why abstraction is helpful and then also give one reason why abstraction can do more harm than good. Finally, what is an example of abstraction in your daily life? (Expected length: 2 - 4 sentences).
@@ -74,7 +74,7 @@ This page will be updated with links to readings throughout the semester.
 
 **Week 14 Reading (for RQ 11)**{: .label .label-reading }
 
-  - Required: [The Secret History of Women in Coding](https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing)
+  - Required: [The Secret History of Women in Coding](https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing) -->
 
 <!--
 **Week 5 Reading**{: .label .label-reading }

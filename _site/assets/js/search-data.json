@@ -48,239 +48,251 @@
     "relUrl": "/announcements/"
   },"8": {
     "doc": "Announcements",
-    "title": "Week 0 Announcements",
-    "content": "Jan 13 &middot; 0 min read ",
+    "title": "Week 1 Announcements",
+    "content": "Jan 17 &middot; 0 min read ",
     "url": "http://localhost:4000/sp23/announcements/",
     "relUrl": "/announcements/"
   },"9": {
     "doc": "Announcements",
+    "title": "Course Material Accesses &amp; Weekly Blasts",
+    "content": ". | Weekly-Blast 0 has been posted on Ed- it contains time-sensitive information about lab and discussion section signups. Please read it ASAP, and note that weekly blasts are required reading in CS10. | If you’ve recently added the course and don’t have access to Edstem or Gradescope, please wait 24 hours, and then email cs10@ | . ",
+    "url": "http://localhost:4000/sp23/announcements/#course-material-accesses--weekly-blasts",
+    "relUrl": "/announcements/#course-material-accesses--weekly-blasts"
+  },"10": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcements",
+    "content": "Jan 13 &middot; 0 min read ",
+    "url": "http://localhost:4000/sp23/announcements/",
+    "relUrl": "/announcements/"
+  },"11": {
+    "doc": "Announcements",
     "title": "Website is Still Under Construction",
-    "content": ". | To those of you who stumbled upon this website…welcome! However, we’re still under construction, so the information on here isn’t valid. Come back next week for updates. | Weekly-Blast 0 has been posted on Ed- it contains time-sensitive information about lab and discussion section signups. Please read it ASAP, and note that weekly blasts are required reading in CS10. | . ",
+    "content": ". | To those of you who stumbled upon this website…welcome! However, we’re still under construction, so the information on here is subject to change. Come back next week for updates. | . ",
     "url": "http://localhost:4000/sp23/announcements/#website-is-still-under-construction",
     "relUrl": "/announcements/#website-is-still-under-construction"
-  },"10": {
+  },"12": {
     "doc": "CS10 Homework Assignment",
     "title": "CS10 Homework Assignment",
     "content": "Open In New Tab . There should be an assignment here. Oops! ",
     "url": "http://localhost:4000/sp23/assignment/",
     "relUrl": "/assignment/"
-  },"11": {
+  },"13": {
     "doc": "Discussion",
     "title": "Discussion",
     "content": "This page will be updated with discussion worksheets and solutions throughout the semester. Recordings, when available, will also be posted here. | Discussion 1 Snap! Basics | . ",
     "url": "http://localhost:4000/sp23/discussion/",
     "relUrl": "/discussion/"
-  },"12": {
-    "doc": "Home",
-    "title": "CS 10: The Beauty and Joy of Computing [UNDER CONSTRUCTION]",
-    "content": "UC Berkeley, Spring 2023 . A gentle but thorough introduction to computer science. Instructor: Teaching Professor Dan Garcia . ",
-    "url": "http://localhost:4000/sp23/#cs-10-the-beauty-and-joy-of-computing-under-construction",
-    "relUrl": "/#cs-10-the-beauty-and-joy-of-computing-under-construction"
-  },"13": {
-    "doc": "Home",
-    "title": "Week 0 Announcements",
-    "content": "Jan 13 &middot; 0 min read ",
-    "url": "http://localhost:4000/sp23/",
-    "relUrl": "/"
   },"14": {
     "doc": "Home",
-    "title": "Website is Still Under Construction",
-    "content": ". | To those of you who stumbled upon this website…welcome! However, we’re still under construction, so the information on here isn’t valid. Come back next week for updates. | Weekly-Blast 0 has been posted on Ed- it contains time-sensitive information about lab and discussion section signups. Please read it ASAP, and note that weekly blasts are required reading in CS10. | . Previous Announcemnts ",
-    "url": "http://localhost:4000/sp23/#website-is-still-under-construction",
-    "relUrl": "/#website-is-still-under-construction"
+    "title": "CS 10: The Beauty and Joy of Computing",
+    "content": "UC Berkeley, Spring 2023 . A gentle but thorough introduction to computer science. Instructor: Teaching Professor Dan Garcia . ",
+    "url": "http://localhost:4000/sp23/#cs-10-the-beauty-and-joy-of-computing",
+    "relUrl": "/#cs-10-the-beauty-and-joy-of-computing"
   },"15": {
     "doc": "Home",
+    "title": "Week 1 Announcements",
+    "content": "Jan 17 &middot; 0 min read ",
+    "url": "http://localhost:4000/sp23/",
+    "relUrl": "/"
+  },"16": {
+    "doc": "Home",
+    "title": "Course Material Accesses &amp; Weekly Blasts",
+    "content": ". | Weekly-Blast 0 has been posted on Ed- it contains time-sensitive information about lab and discussion section signups. Please read it ASAP, and note that weekly blasts are required reading in CS10. | If you’ve recently added the course and don’t have access to Edstem or Gradescope, please wait 24 hours, and then email cs10@ | . Previous Announcemnts ",
+    "url": "http://localhost:4000/sp23/#course-material-accesses--weekly-blasts",
+    "relUrl": "/#course-material-accesses--weekly-blasts"
+  },"17": {
+    "doc": "Home",
     "title": "CS10 Calendar",
-    "content": "| Week | Date | Lecture | Readings | Lab | Discussion | Assignment | . | 1 | Mon 1/16 | HOLIDAY | | | | | . | Tue 1/17 | | | NO LAB | | | . | Wed 1/18 | 1. Welcome to CS10 &amp; Abstraction | | | | Section Signups Due | . | Thur 1/19 | | | 1. Welcome to Snap! (No Checkoff) | | | . | Fri 1/20 | | | | 1. Snap! Basics | release PROJ 1 (due 1/31) | . | 2 | Mon 1/23 | 2. Functions | | | | RQ 1 (due 1/27) | . | Tue 1/24 | | | 2. Build Your Own Blocks (due 1/26) | | | . | Wed 1/25 | 3. Numbers and Abstraction | | | | | . | Thur 1/26 | | | 3. Conditionals, Reporters &amp; Abstraction (due 1/31) | | | . | Fri 1/27 | | | | 2. Number Rep &amp; Control | RQ 1 Due | . | 3 | Mon 1/30 | 4. Lists, Scoping, HOFs | | | | PROJ 1 PARTY RQ 2(due 2/03) | . | Tue 1/31 | | | 4. Lists &amp; HOFs (due 2/02) | | PROJ 1 Due | . | Wed 2/01 | 5. Algorithms | | | | PROJ 2: Wordle (due 2/15) | . | Thur 2/02 | | | 5. Algorithms (due 2/07) | | | . | Fri 2/03 | | | | 3. Domain/Range, Scoping, Lists &amp; HOFs | RQ 2 Due | . | 4 | Mon 2/06 | 6. Algorithmic Complexity | | | | QUEST REVIEW RQ 3(due 2/10) | . | Tue 2/07 | | | 6. Algorithmic Complexity (due 2/14) | | | . | Wed 2/08 | 7. Social Implications I | | | | | . | Thur 2/09 | | | PROJ 2 Work Session/QUEST Review | | | . | Fri 2/10 | | | | 4. Algorithms | QUEST (due 2/12) | . | 5 | Mon 2/13 | 8. Social Implications II | | | | PROJ 2 Party | . | Tue 2/14 | | | 7. Boards (due 2/16) | | | . | Wed 2/15 | 9. Testing + 2048 | | | | PROJ 2 Due | . | Thur 2/16 | | | 8. Testing + 2048 (due 2/21) | | | . | Fri 2/17 | | | | 5. Algorithmic Complexity | PROJ 3: 2048 (due 3/02) | . | 6 | Mon 2/20 | Holiday | | | | | . | Tue 2/21 | | | 9. Trees &amp; Fractals (due 2/28) | | RQ 4(due 2/24) | . | Wed 2/22 | 10. Recursion I | | | | | . | Thur 2/23 | | | PROJ Work Session | | | . | Fri 2/24 | | | | 6. Recursion I | RQ 4 Due | . | 7 | Mon 2/27 | 11. Recursion II (Fractals) | | | | PROJ 3 PARTY RQ 5(due 3/03) | . | Tue 2/28 | | | 10. Recursive Reporters (due 3/07) | | | . | Wed 3/01 | 12. Recursion III (Count Change) | | | | | . | Thur 3/02 | | | PROJ Work Session | | PROJ 3 Due | . | Fri 3/03 | | | | 7. Recursion II | PROJ 4: Explore Post (post: due 3/17) (comments: due 3/20) RQ 5 Due | . | 8 | Mon 3/06 | 13. Procedures as Data (HOFs) | | | | MIDTERM Review (Part I) RQ 6(due 3/10) | . | Tue 3/07 | | | 11. Functions as Data (HOFs) (due 3/16) | | | . | Wed 3/08 | 14. Programming Paradigms | | | | | . | Thur 3/09 | | | Midterm Work Session | | | . | Fri 3/10 | | | | MIDTERM Review (Part II) | MIDTERM (due 3/15) RQ 6 Due | . | 9 | Mon 3/13 | NO CLASS (midterm) | | | | | . | Tue 3/14 | | | MIDTERM (w/ Snap! portion) | | | . | Wed 3/15 | NO CLASS (midterm) | | | | | . | Thur 3/16 | | | 12. Welcome to Python (due 3/21) | | | . | Fri 3/17 | | | | 9. Python Basics | PROJ 4 (post) Due | . | 10 | Mon 3/20 | 15. Python I | | | | PROJ 4 (comments) DUE PROJ 5: Pyturis(due 4/04) RQ 7(due 3/24) | . | Tue 3/21 | | | 13. Python Data Structures (due 3/23) | | | . | Wed 3/22 | 16. Python II (Data Structures) | | | | | . | Thur 3/23 | | | 14. OOP in Python (due 4/04) | | | . | Fri 3/24 | | | | 10. Python Data Structures | Final Project Proposals (due 4/03) RQ 7 Due | . | 11 | Mon 3/27 | Spring Recess | | | | | . | Tue 3/28 | | | Spring Recess | | | . | Wed 3/29 | Spring Recess | | | | | . | Thur 3/30 | | | Spring Recess | | | . | Fri 3/31 | | | | Spring Recess | | . | 12 | Mon 4/03 | 17. Python III (OOP) | | | | PROJ 5 Party FINAL PROJ Proposals Due RQ 8(due 4/07) | . | Tue 4/04 | | | 15. Text Processing in Python (due 4/13) | | PROJ 5 DUE FINAL PROJ(due 4/28) | . | Wed 4/05 | 18. Python IV (HOFs) | | | | | . | Thur 4/06 | | | PROPOSAL REVIEWS | | | . | Fri 4/07 | | | | 12. OOP | | . | 13 | Mon 4/10 | 19. Social Implications III | | | | RQ 9(due 4/14) | . | Tue 4/11 | | | PROPOSAL REVIEWS | | | . | Wed 4/12 | 20. Python V (Tree Recursion, Game Theory) | | | | | . | Thur 4/13 | | | 16. Intro to Data Science (due 4/18) | | | . | Fri 4/14 | | | | 13. Python HOFs, Lambdas, Tree Recursion | RQ 9 Due | . | 14 | Mon 4/17 | 21. Concurrency | | | | Final PROJ Party RQ 10(due 4/21) | . | Tue 4/18 | | | 17. Concurrency (due 4/20) | | | . | Wed 4/19 | 22. HCI | | | | | . | Thur 4/20 | | | 18. Snap! &amp; Python Libraries (due 4/27) | | | . | Fri 4/21 | | | | 14. Social Implications Studies Using Big Data | RQ 10 Due | . | 15 | Mon 4/24 | 23. Alumni Panel | | | | FINAL Proj Party POSTTERM Review RQ 11 | . | Tue 4/25 | | | PROJ Work Session | | | . | Wed 4/26 | 24. Conclusion and Farewell | | | | | . | Thur 4/27 | | | PROJ Work Session/Postterm Review | | | . | Fri 4/28 | | | | 15. Postterm Review &amp; Farewell | POSTTERM(due 5/02) Final PROJ Due RQ 11 Due | . | 16 | Mon 5/01 | RRR | | | | | . | Tue 5/02 | | | RRR | | | . | Wed 5/03 | RRR | | | | | . | Thur 5/04 | | | RRR | | | . | Fri 5/05 | | | | RRR | | . | 17 | Mon 5/08 | NO CLASS | | | | | . | Tue 5/09 | | | NO CLASS | | | . | Wed 5/10 | NO CLASS | | | | | . | Thur 5/11 | | | NO CLASS | | | . | Fri 5/12 | | | | NO CLASS | | . ",
+    "content": "| Week | Date | Lecture | Readings | Lab | Discussion | Assignment | . | 1 | Mon 1/16 | HOLIDAY | | | | | . | Tue 1/17 | | | NO LAB | | | . | Wed 1/18 | 1. Welcome to CS10 &amp; Abstraction | | | | Section Signups Due | . | Thur 1/19 | | | 1. Welcome to Snap! (No Checkoff) | | | . | Fri 1/20 | | | | 1. Snap! Basics | release PROJ 1 (due 1/31) | . | 2 | Mon 1/23 | 2. Functions | Week 2 Readings | | | RQ 1 (due 1/27) | . | Tue 1/24 | | | 2. Build Your Own Blocks (due 1/26) | | | . | Wed 1/25 | 3. Numbers and Abstraction | | | | | . | Thur 1/26 | | | 3. Conditionals, Reporters &amp; Abstraction (due 1/31) | | | . | Fri 1/27 | | | | 2. Number Rep &amp; Control | RQ 1 Due | . | 3 | Mon 1/30 | 4. Lists, Scoping, HOFs | Week 3 Readings | | | PROJ 1 PARTY RQ 2(due 2/03) | . | Tue 1/31 | | | 4. Lists &amp; HOFs (due 2/02) | | PROJ 1 Due | . | Wed 2/01 | 5. Algorithms | | | | PROJ 2: Wordle (due 2/15) | . | Thur 2/02 | | | 5. Algorithms (due 2/07) | | | . | Fri 2/03 | | | | 3. Domain/Range, Scoping, Lists &amp; HOFs | RQ 2 Due | . | 4 | Mon 2/06 | 6. Algorithmic Complexity | Week 4 Readings | | | PROJ 2 Party QUEST REVIEW RQ 3(due 2/10) | . | Tue 2/07 | | | 6. Algorithmic Complexity (due 2/14) | | | . | Wed 2/08 | 7. Social Implications I | | | | | . | Thur 2/09 | | | PROJ 2 Work Session/QUEST Review | | | . | Fri 2/10 | | | | 4. Algorithms | QUEST (due 2/12) | . | 5 | Mon 2/13 | 8. Social Implications II | | | | PROJ 2 Party | . | Tue 2/14 | | | 7. Boards (due 2/16) | | | . | Wed 2/15 | 9. Testing + 2048 | | | | PROJ 2 Due | . | Thur 2/16 | | | 8. Testing + 2048 (due 2/21) | | | . | Fri 2/17 | | | | 5. Algorithmic Complexity | PROJ 3: 2048 (due 3/02) | . | 6 | Mon 2/20 | Holiday | | | | | . | Tue 2/21 | | Week 6 Readings | 9. Trees &amp; Fractals (due 2/28) | | RQ 4(due 2/24) | . | Wed 2/22 | 10. Recursion I | | | | | . | Thur 2/23 | | | PROJ Work Session | | | . | Fri 2/24 | | | | 6. Recursion I | RQ 4 Due | . | 7 | Mon 2/27 | 11. Recursion II (Fractals) | Week 7 Readings | | | PROJ 3 PARTY RQ 5(due 3/03) | . | Tue 2/28 | | | 10. Recursive Reporters (due 3/07) | | | . | Wed 3/01 | 12. Recursion III (Count Change) | | | | | . | Thur 3/02 | | | PROJ Work Session | | PROJ 3 Due | . | Fri 3/03 | | | | 7. Recursion II | PROJ 4: Explore Post (post: due 3/17) (comments: due 3/20) RQ 5 Due | . | 8 | Mon 3/06 | 13. Procedures as Data (HOFs) | Week 8 Readings | | | MIDTERM Review (Part I) RQ 6(due 3/10) | . | Tue 3/07 | | | 11. Functions as Data (HOFs) (due 3/16) | | | . | Wed 3/08 | 14. Programming Paradigms | | | | | . | Thur 3/09 | | | Midterm Work Session | | | . | Fri 3/10 | | | | MIDTERM Review (Part II) | MIDTERM (due 3/15) RQ 6 Due | . | 9 | Mon 3/13 | NO CLASS (midterm) | | | | | . | Tue 3/14 | | | MIDTERM (w/ Snap! portion) | | | . | Wed 3/15 | NO CLASS (midterm) | | | | | . | Thur 3/16 | | | 12. Welcome to Python (due 3/21) | | | . | Fri 3/17 | | | | 9. Python Basics | PROJ 4 (post) Due | . | 10 | Mon 3/20 | 15. Python I | Week 10 Readings | | | PROJ 4 (comments) DUE PROJ 5: Pyturis(due 4/04) RQ 7(due 3/24) | . | Tue 3/21 | | | 13. Python Data Structures (due 3/23) | | | . | Wed 3/22 | 16. Python II (Data Structures) | | | | | . | Thur 3/23 | | | 14. OOP in Python (due 4/04) | | | . | Fri 3/24 | | | | 10. Python Data Structures | Final Project Proposals (due 4/03) RQ 7 Due | . | 11 | Mon 3/27 | Spring Recess | | | | | . | Tue 3/28 | | | Spring Recess | | | . | Wed 3/29 | Spring Recess | | | | | . | Thur 3/30 | | | Spring Recess | | | . | Fri 3/31 | | | | Spring Recess | | . | 12 | Mon 4/03 | 17. Python III (OOP) | Week 12 Readings | | | PROJ 5 Party FINAL PROJ Proposals Due RQ 8(due 4/07) | . | Tue 4/04 | | | 15. Text Processing in Python (due 4/13) | | PROJ 5 DUE FINAL PROJ(due 4/28) | . | Wed 4/05 | 18. Python IV (HOFs) | | | | | . | Thur 4/06 | | | PROPOSAL REVIEWS | | | . | Fri 4/07 | | | | 12. OOP | | . | 13 | Mon 4/10 | 19. Social Implications III | Week 13 Readings | | | RQ 9(due 4/14) | . | Tue 4/11 | | | PROPOSAL REVIEWS | | | . | Wed 4/12 | 20. Python V (Tree Recursion, Game Theory) | | | | | . | Thur 4/13 | | | 16. Intro to Data Science (due 4/18) | | | . | Fri 4/14 | | | | 13. Python HOFs, Lambdas, Tree Recursion | RQ 9 Due | . | 14 | Mon 4/17 | 21. Concurrency | Week 14 Readings | | | Final PROJ Party RQ 10(due 4/21) | . | Tue 4/18 | | | 17. Concurrency (due 4/20) | | | . | Wed 4/19 | 22. HCI | | | | | . | Thur 4/20 | | | 18. Snap! &amp; Python Libraries (due 4/27) | | | . | Fri 4/21 | | | | 14. Social Implications Studies Using Big Data | RQ 10 Due | . | 15 | Mon 4/24 | 23. Alumni Panel | Week 15 Readings | | | FINAL Proj Party POSTTERM Review RQ 11 | . | Tue 4/25 | | | PROJ Work Session | | | . | Wed 4/26 | 24. Conclusion and Farewell | | | | | . | Thur 4/27 | | | PROJ Work Session/Postterm Review | | | . | Fri 4/28 | | | | 15. Postterm Review &amp; Farewell | POSTTERM(due 5/02) Final PROJ Due RQ 11 Due | . | 16 | Mon 5/01 | RRR | | | | | . | Tue 5/02 | | | RRR | | | . | Wed 5/03 | RRR | | | | | . | Thur 5/04 | | | RRR | | | . | Fri 5/05 | | | | RRR | | . | 17 | Mon 5/08 | NO CLASS | | | | | . | Tue 5/09 | | | NO CLASS | | | . | Wed 5/10 | NO CLASS | | | | | . | Thur 5/11 | | | NO CLASS | | | . | Fri 5/12 | | | | NO CLASS | | . ",
     "url": "http://localhost:4000/sp23/#cs10-calendar",
     "relUrl": "/#cs10-calendar"
-  },"16": {
+  },"18": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/sp23/",
     "relUrl": "/"
-  },"17": {
+  },"19": {
     "doc": "Calendar (JS)",
     "title": "Calendar (JS)",
     "content": "| Week | Date | Lecture | Readings | Lab | Discussion | Assignment | . | ",
     "url": "http://localhost:4000/sp23/cal",
     "relUrl": "/cal"
-  },"18": {
+  },"20": {
     "doc": "Lab Check-Off Questions",
     "title": "Lab Check-Offs",
     "content": "On this page, you will find a list of check-off questions for each lab. Lab 1 Welcome to Snap! View Lab 1 . | No checkoff needed for Lab 1! . | . ",
     "url": "http://localhost:4000/sp23/lab-checkoffs/#lab-check-offs",
     "relUrl": "/lab-checkoffs/#lab-check-offs"
-  },"19": {
+  },"21": {
     "doc": "Lab Check-Off Questions",
     "title": "Lab Check-Off Questions",
     "content": " ",
     "url": "http://localhost:4000/sp23/lab-checkoffs/",
     "relUrl": "/lab-checkoffs/"
-  },"20": {
+  },"22": {
     "doc": "Assigned Readings",
     "title": "Readings",
-    "content": "This page will be updated with links to readings throughout the semester. Week 2 Reading (for RQ 1) . | Required: Learning to Code | Reading Quiz Question: Why is learning how to code important? Are you convinced about the importance of computer science in the world today? Include at least one point made in the video, ‘Code Stars’. (Expected length: 2 - 4 sentences). | . Week 3 Reading (for RQ 2) . | Required: Introduction to Abstraction | Reading Quiz Question: Why is a car a good example of abstraction? Using this example, give one reason why abstraction is helpful and then also give one reason why abstraction can do more harm than good. Finally, what is an example of abstraction in your daily life? (Expected length: 2 - 4 sentences). | . Week 5 Reading (for RQ 3) . | Required: . | What is an Algorithm? | How Algorithms Shape Our World | Algorithms are Great and All, But They Can Also Ruin Lives | . | Optional: . | Hacker News: Comments on “Algorithms are Great and All, But They Can Also Ruin Lives” | The 10 Algorithms That Dominate Our World | . | . Week 6 Reading (for RQ 4) . | Required: . | Blown to Bits: Chapter 1 | Big O Notation — Simply explained | . | . Week 7 Reading . | Required: . | Connected, but alone? | . | Optional: . | Cogs in the Machine of Our Own Lives | . | . Week 8 Reading (for RQ 6) . | Required: . | These are the sneaky ways apps like Instagram, Facebook, Tinder lure you in and get you ‘addicted’ | . | . Week 9 Reading (for RQ 7) . | Required: . | Humans Need Not Apply | . | . Week 11 Reading (for RQ 8) . | Required: . | Why Python is a Great First Language | . | . Week 12 Reading (for RQ 9) . | Required: . | StarCraft II-playing AI AlphaStar takes out pros undefeated | . | . Week 13 Reading (for RQ 10) . | Required: . | What is Data Science? | How to Start Thinking Like a Data Scientist | Spurious Correlations | . | . Week 14 Reading (for RQ 11) . | Required: The Secret History of Women in Coding | . ",
+    "content": "This page will be updated with links to readings throughout the semester. Week 2 Reading (for RQ 1) . | Required: Learning to Code | Reading Quiz Question: Why is learning how to code important? Are you convinced about the importance of computer science in the world today? Include at least one point made in the video, ‘Code Stars’. (Expected length: 2 - 4 sentences). | . ",
     "url": "http://localhost:4000/sp23/readings/#readings",
     "relUrl": "/readings/#readings"
-  },"21": {
+  },"23": {
     "doc": "Assigned Readings",
     "title": "Assigned Readings",
     "content": " ",
     "url": "http://localhost:4000/sp23/readings/",
     "relUrl": "/readings/"
-  },"22": {
+  },"24": {
     "doc": "Daily Schedule",
     "title": "Daily Schedule (Updated Each Week)",
     "content": "If the calendar below appears blank, make sure you’re signed in to your Berkeley email! . As an alternative, use (this link) . | 7:00 AM | 7:30 AM | 8:00 AM | 8:30 AM | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | 8:00 PM | 8:30 PM | 9:00 PM | 9:30 PM | 10:00 PM | . | ",
     "url": "http://localhost:4000/sp23/schedule/#daily-schedule-updated-each-week",
     "relUrl": "/schedule/#daily-schedule-updated-each-week"
-  },"23": {
+  },"25": {
     "doc": "Daily Schedule",
     "title": "Monday",
     "content": ". | Lab Ben 8:00 AM–10:00 AM Sutardja 200 | Lab Brendan 9:00 AM–11:00 AM Discord | Lecture 10:00 AM–11:00 AM Zoom | Lab Vaibhav 12:00 PM–2:00 PM Sutardja 200 | Lab Nick 2:00 PM–4:00 PM Sutardja 200 | Lab Sarah and Remote Lab Yishu 12:00 PM–2:00 PM Sarah's in Sutardja 200 and Yishu's on Discord | . | ",
     "url": "http://localhost:4000/sp23/schedule/",
     "relUrl": "/schedule/"
-  },"24": {
+  },"26": {
     "doc": "Daily Schedule",
     "title": "Tuesday",
     "content": ". | Lab Jake 8:00 AM–10:00 AM Sutardja 200 | Lab Kellyann 10:00 AM–12:00 PM Sutardja 200 | Lab Arrushi 12:00 PM–2:00 PM Sutardja 200 | . | ",
     "url": "http://localhost:4000/sp23/schedule/",
     "relUrl": "/schedule/"
-  },"25": {
+  },"27": {
     "doc": "Daily Schedule",
     "title": "Wednesday",
     "content": ". | Lecture 10:00 AM–11:00 AM Zoom | Lab Ben 8:00 AM–10:00 AM Sutardja 200 | Lab Brendan 9:00 AM–11:00 AM Discord | Lab Ze 10:00 AM–12:00 PM Sutardja 200 | Lab Vaibhav 12:00 PM–2:00 PM Sutardja 200 | Lab Nick 2:00 PM–4:00 PM Sutardja 200 | Lab Sarah and Remote Lab Yishu 12:00 PM–2:00 PM Sarah's in Sutardja 200 and Yishu's on Discord | . | ",
     "url": "http://localhost:4000/sp23/schedule/",
     "relUrl": "/schedule/"
-  },"26": {
+  },"28": {
     "doc": "Daily Schedule",
     "title": "Thursday",
     "content": ". | Lab Jake 8:00 AM–10:00 AM Sutardja 200 | Lab Kellyann 10:00 AM–12:00 PM Sutardja 200 | Lab Arrushi 12:00 PM–2:00 PM Sutardja 200 | . | ",
     "url": "http://localhost:4000/sp23/schedule/",
     "relUrl": "/schedule/"
-  },"27": {
+  },"29": {
     "doc": "Daily Schedule",
     "title": "Friday",
     "content": ". | Discussion Vedansh 9:00 AM–10:00 AM TBD | Discussion Brendan 10:00 AM–11:00 AM Zoom | Discussion Maddie 11:00 AM–12:00 PM Moffit 103 | Lab Ze 10:00 AM–12:00 PM Sutardja 200 | Discussion Deeksha 1:00 PM–2:00 PM Wheeler 103 | Discussion Deeksha 2:00 PM–3:00 PM Wheeler 130 | Discussion Vedansh 4:00 PM–5:00 PM Wheeler 20 | . | . --> ",
     "url": "http://localhost:4000/sp23/schedule/",
     "relUrl": "/schedule/"
-  },"28": {
+  },"30": {
     "doc": "Daily Schedule",
     "title": "Daily Schedule",
     "content": " ",
     "url": "http://localhost:4000/sp23/schedule/",
     "relUrl": "/schedule/"
-  },"29": {
+  },"31": {
     "doc": "Staff",
     "title": "Staff",
     "content": "Add ‘berkeley.edu’ to the end of all emails. ",
     "url": "http://localhost:4000/sp23/staff/",
     "relUrl": "/staff/"
-  },"30": {
+  },"32": {
     "doc": "Staff",
     "title": "Instructor",
     "content": "Teaching Professor Dan Garcia . ddgarcia@ . I’m just so delighted to be teaching the course again! I co-invented BJC in 2008 with my good friend and colleague Brian Harvey, and absolutely love teaching it. I’m passionate about bringing engaging and powerful CS “big ideas” to students who normally wouldn’t be exposed to it. I am humbled by all the national attention BJC has received (see the “in the News” part of my website) and hope you find this class beautiful and joyful! When I’m not working, you can find me traveling, playing golf or board games (e.g., Monopoly Deal), or binging shows (anything Pixar or Marvel) with my family. p.s. My wife and I both went to Cal for grad school… Go Bears! . ",
     "url": "http://localhost:4000/sp23/staff/#instructor",
     "relUrl": "/staff/#instructor"
-  },"31": {
+  },"33": {
     "doc": "Staff",
     "title": "Head Teaching Assistants",
     "content": "Imen Guechtouli . imen@ . Hey everyone! It’s going to be a blast getting to know you all! (‘: I’m in my second year studying EECS and Cognitive Science, and this will be my third time on staff! My technical interests lie in integrations of human cognitive development research in robotics and machine learning, and I’m growing to love the theory and mathematics behind big data processes. I came to Cal with no programming experience, and since my first semester here, CS 10 continues to be the community that keeps me going. You can catch me playing volleyball or getting lost in town during my free time (I have no sense of direction!) . Vedansh Malhotra . vedansh@ . Hey there! :) I’m a junior studying CS, Cognitive Science, and Data Science. This is my sixth time on course staff at Cal, fourth time teaching and third time as Head-TA for CS-10. As someone who started out with little programming experience, I believe that CS at Berkeley can be a challenging, yet immensely rewarding experience. My primary goal this semester is to help students discover and come to appreciate the remarkable beauty of problem solving- for which, Computer Science is an indispensable tool! PS: Here’s how my name is pronounced: veið’ãnʃ . ",
     "url": "http://localhost:4000/sp23/staff/#head-teaching-assistants",
     "relUrl": "/staff/#head-teaching-assistants"
-  },"32": {
+  },"34": {
     "doc": "Staff",
     "title": "Teaching Assistants",
     "content": "Annie Miller . anniemiller@ . Hi everyone!I am a fourth year studying environmental sciences and data science. I took CS10 my second semester at Cal and have been with CS10 ever since, as an AI and now a TA for my fifth semester. I love taking long walks, reading, listening to music and podcasts, and baking. I am super excited to be with CS10 this semester and hope you love it as much as I do! . Benjamin Pierias . bpierias@ . Hello! My name is Ben and I’m a Senior majoring in Cognitive Science with a minor in CS! I took CS10 my first semester at Cal (it was actually the class I was most looking forward to) and was blown away with how amazing computer science is. Besides school, I love the outdoors, exercising, learning about the brain, cybersecurity and all things cinema! I can’t wait to show you the joys of computing! . Jalen Gooch . jgooch02@ . Hello! My name is Jalen and I am Third Year double majoring in Cognitive Science and Psychology with minors in Data Science and Journalism! I took CS10 the Spring of my Freshman year, loved it, and have been a part of the course ever since! Outside of academics I look cooking, making oddly specific music playlists, and keeping my 3 month old kitten from tearing up my apartment. I am excited to meet and work with you all this semester! . ",
     "url": "http://localhost:4000/sp23/staff/#teaching-assistants",
     "relUrl": "/staff/#teaching-assistants"
-  },"33": {
+  },"35": {
     "doc": "Staff",
     "title": "Readers",
     "content": "Eric Min Young Park . prk4k@ . Hiiii! I’m Eric and I’m a sophomore studying EECS. I took CS10 my first semester at Cal and have been an AI in my second, and I had a chance to be a reader over the summer. I enjoy reading, writing stories, finding new music, walking, and playing games. Hope you guys have a great time this spring! . Mehul Gandhi . gandhi@ . Hey everyone! I’m a junior studying Computer Science, and this is my fourth semester working on staff for CS10. I took CS10 during my spring semester of Freshman year and I love the creative and critical thinking aspects that CS provides, so I decided to change my major to CS! This semester, I’m looking into learning fullstack development through personal projects! During my free time, I like to watch anime and k-drama, try out new restaurants, and host social events for clubs! I’m super excited to work with all of you this semester :) . Victoria Phelps . jedi_force@ . Hello Everyone! I’m a sophomore studying CS and this is my third year working with CS10. Currently, I work as an intern at a software company, SAP. I’m also apart of Dan Garcia’s research group, Gamescrafters. When I first took the course, I had no programming experience. I fell in love with it and became a BJC and Snap! evangelist. As a non-traditional student coming back to school at the age of 23, I believe anyone can learn CS, and CS is a field for everyone - no matter your age, skill level, or past performance. ",
     "url": "http://localhost:4000/sp23/staff/#readers",
     "relUrl": "/staff/#readers"
-  },"34": {
+  },"36": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
     "url": "http://localhost:4000/sp23/syllabus/",
     "relUrl": "/syllabus/"
-  },"35": {
+  },"37": {
     "doc": "Syllabus",
     "title": "Table of contents",
     "content": ". | Welcome | Platforms | Primary Course Components | Grading Breakdown | Pro-Student Course Policies . | Exam Policy | DSP Accommodations | Extension Requests &amp; Extenuating Circumstances | Academic Integrity | Diversity and Inclusion Statement | Academic Accommodations Hub | EECS Student Climate &amp; Incident Reporting Form | . | . ",
     "url": "http://localhost:4000/sp23/syllabus/#table-of-contents",
     "relUrl": "/syllabus/#table-of-contents"
-  },"36": {
+  },"38": {
     "doc": "Syllabus",
     "title": "Welcome",
     "content": "Welcome to CS10: The Beauty and Joy of Computing! We’re really excited to have you on board with us this Spring for a gentle, but thorough introduction to computer science. Our course will start out in the block-based language Snap!, but will transition into Python once you’ve learned some fundamentals of programming. By the end of the course, we hope you’ll walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue. ",
     "url": "http://localhost:4000/sp23/syllabus/#welcome",
     "relUrl": "/syllabus/#welcome"
-  },"37": {
+  },"39": {
     "doc": "Syllabus",
     "title": "Platforms",
     "content": "This Spring, CS10 will be be primarily in person, but we will be able to provide remote accommodations as needed: . | Course Website: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the daily schedule to find the times/locations for all synchronous course activites. | Ed: This will be our main Q&amp;A platform, where you can ask (and answer) questions, see announcements, and read weekly-blasts, which are required reading. | Gradescope: This is where you will submit Reading Quizzes, Projects 1-4, and the Final Project. | Youtube: *Note: This section is tentative and may be updated.* Lectures will also be live streamed on Youtube, and lecture recordings will be uploaded to a Youtube playlist. | Discord: Hybrid lab sections and office hours will be held via Discord, which offers more interactive, versatile spaces for you to connect with students and staff. | PrarieLearn: The three exams: Quest, Midterm, and Post-term will be administered via PrarieLearn. You will also submit Project 5 here. | . ",
     "url": "http://localhost:4000/sp23/syllabus/#platforms",
     "relUrl": "/syllabus/#platforms"
-  },"38": {
+  },"40": {
     "doc": "Syllabus",
     "title": "Primary Course Components",
-    "content": ". | Lecture: Lecture will be live and in person in Birge Hall (Birge 50). Lecture will also be live-casted, with recordings posted on the website after class. Lecture introduces concepts and gives you and overview of what is happening in labs and discussions. | Lab Sections: Labs will be held synchronously and are the primary place you will learn to program. While lab attendance is not mandatory, you will need to attend lab or office hours to get credit for them. To earn full credit for a lab, it must be completed, submitted, and checked-off. Checkoff can be done synchronously either in lab or in office hours. If you have a special circumstance where you are unable to check-off a lab, you may ask for an extension using our extension form (see Extensions Requests section). Each lab will be due by the end of the following lab day (Labs assigned on Mon/Tue are due on Wed/Thu. Those assigned Wed/Thu are due on the next lab on Mon/Wed.) There will be 17 total labs — but only your top 15 lab scores will count towards your grade (i.e. you get two lab drops). Each lab is worth 2 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 1 point will be deducted for any given lab. You should plan on attending the lab you sign up for the entire term, but you may attend other lab sections or office hours to get checked off or get extra help. | Discussion Sections: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming. While we strongly encourage students to attend Discussions in-person, we will post recordings for students who can not attend some sections. | Office Hours: During office hours, you can meet with a TA for help with course material, assignments, or bigger picture questions. | Instructor Office Hours: Professor Garcia will be holding Instructor office hours, which you may attend for more conceptual help or to discuss anything you like (e.g. career/major advice or how you’re doing in the class) within reason. | Projects: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the components of the course. | Project Parties: These will serve as specialized office hours where you will be able to come work and get help on whatever project is currently assigned. We strongly encourage you to attend project parties as they will help you finish your assignments on time. | . ",
+    "content": ". | Lecture: Lecture will be live and in person in Birge Hall (Birge 50). Lecture will also be live-casted, with recordings posted on the website after class. Lecture introduces concepts and gives you and overview of what is happening in labs and discussions. | Lab Sections: Labs will be held synchronously and are the primary place you will learn to program. Note that you are required to complete lab with a partner, and partner-matching threads have been added to our Edstem page. While lab attendance is not mandatory, you will need to attend lab or office hours to get credit for them. To earn full credit for a lab, it must be completed, submitted, and checked-off. Checkoff can be done synchronously either in lab or in office hours. If you have a special circumstance where you are unable to check-off a lab, you may ask for an extension using our extension form (see Extensions Requests section). Each lab will be due by the end of the following lab day (Labs assigned on Mon/Tue are due on Wed/Thu. Those assigned Wed/Thu are due on the next lab on Mon/Wed.) There will be 17 total labs — but only your top 15 lab scores will count towards your grade (i.e. you get two lab drops). Each lab is worth 2 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 1 point will be deducted for any given lab. You should plan on attending the lab you sign up for the entire term, but you may attend other lab sections or office hours to get checked off or get extra help. | Discussion Sections: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming. While we strongly encourage students to attend Discussions in-person, we will post recordings for students who can not attend some sections. | Office Hours: During office hours, you can meet with a TA for help with course material, assignments, or bigger picture questions. | Instructor Office Hours: Professor Garcia will be holding Instructor office hours, which you may attend for more conceptual help or to discuss anything you like (e.g. career/major advice or how you’re doing in the class) within reason. | Projects: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the components of the course. | Project Parties: These will serve as specialized office hours where you will be able to come work and get help on whatever project is currently assigned. We strongly encourage you to attend project parties as they will help you finish your assignments on time. | . ",
     "url": "http://localhost:4000/sp23/syllabus/#primary-course-components",
     "relUrl": "/syllabus/#primary-course-components"
-  },"39": {
+  },"41": {
     "doc": "Syllabus",
     "title": "Grading Breakdown",
     "content": "| Assignment | Points | . | Quest | 40 | . | Midterm (With Snap!) | 15 | . | Midterm (Without Snap!) | 65 | . | Postterm | 100 | . | Project 1: Wordle™-lite | 10 | . | Project 2: Wordle™ | 20 | . | Project 3: 2048 | 30 | . | Project 4: Explore | 40 | . | Project 5: Python | 50 | . | Final Project | 80 | . | Labs | 30 | . | Reading Quizzes | 20 | . Total: 500 Points . | Letter Grade | Range | . | A+ | 485-500 | . | A | 460-484 | . | A- | 450-459 | . | B+ | 440-449 | . | B | 420-439 | . | B- | 400-419 | . | C+ | 375-399 | . | C | 360-374 | . | C- | 350-359 | . | D | 300-349 | . | F | 0-299 | . ",
     "url": "http://localhost:4000/sp23/syllabus/#grading-breakdown",
     "relUrl": "/syllabus/#grading-breakdown"
-  },"40": {
+  },"42": {
     "doc": "Syllabus",
     "title": "Pro-Student Course Policies",
     "content": " ",
     "url": "http://localhost:4000/sp23/syllabus/#pro-student-course-policies",
     "relUrl": "/syllabus/#pro-student-course-policies"
-  },"41": {
+  },"43": {
     "doc": "Syllabus",
     "title": "Exam Policy",
     "content": "There will be three exams: The Quest, the Midterm and the Post-term Exam. Exams will be take-home and will be conducted online on PrarieLearn. If an emergency comes up close to the exam and you need accommodations, email cs10@berkeley.edu ASAP. Exam logistics and the specific times that exams will be opened, will be sent out in more detail closer to the date of each exam. | Absolute-Clobber Policy: Every exam score can be clobbered by a future exam. If your percentage score on the Midterm is better than your percentage score on the Quest, then we will replace your Quest score with your percentage score on the Midterm. Similarly, the Postterm exam score can be used to clobber both the Midterm and the Quest. | . ",
     "url": "http://localhost:4000/sp23/syllabus/#exam-policy",
     "relUrl": "/syllabus/#exam-policy"
-  },"42": {
+  },"44": {
     "doc": "Syllabus",
     "title": "DSP Accommodations",
     "content": "If you have a DSP accommodation through the university that is not addressed by the above policies, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to cs10@berkeley.edu. ",
     "url": "http://localhost:4000/sp23/syllabus/#dsp-accommodations",
     "relUrl": "/syllabus/#dsp-accommodations"
-  },"43": {
+  },"45": {
     "doc": "Syllabus",
     "title": "Extension Requests &amp; Extenuating Circumstances",
     "content": "Note: This section will be updated with a link to the extensions request form in the near future. For now, please email cs10@ with extension requests. Please use this extension request form to request extensions on deadlines for any assignments. NOTE: If you added the course late, please use your updated deadline as the ‘original due date’. Extensions will be reviewed approximately every two business days. Important: While extensions may not be visible on PrarieLearn / Gradescope (your assignments may be marked ‘late’), they will be factored in when we compute your final grade. Note: This section will be updated with a link to the extenuating circumstances form in the near future. For now, please email cs10@ instead. Extenuating Circumstances form This form is for any circumstances that can’t be resolved with extensions. Don’t be afraid to reach out! We’re here to help you succeed in our course. | Late Submissions: Late submissions for projects will be handled on a case-by-case basis. If for some reason you cannot make a deadline, please fill out the extension form (see section above). If you do not reach out to anyone in advance, we reserve the right to mark the submission down by 10% for each day that it is late. | . ",
     "url": "http://localhost:4000/sp23/syllabus/#extension-requests--extenuating-circumstances",
     "relUrl": "/syllabus/#extension-requests--extenuating-circumstances"
-  },"44": {
+  },"46": {
     "doc": "Syllabus",
     "title": "Academic Integrity",
     "content": "Let’s get honest about being honest. It is truly a disappointment to catch students cheating. All we really want is for you to learn the material and if the class is stressful enough that you feel the need to cheat, we have failed as instructors. If you are feeling stressed out in the course, please tell us. We will do what we can to help you. Maintaining academic integrity is a crucial part of your learning experience, as cheating prevents us as instructors from understanding where our model of instruction isn’t working. We understand that academics can be stressful and that it might be tempting to cheat; however, there are ways to meet your goals that don’t require academically dishonest means. Here, we will lay out our academic integrity policies and some good practices that will help you avoid academic dishonesty and improve your overall mastery of the material. What constitutes cheating? . | Copying part or all of another student’s project code with the exception of your partner(s) assuming that the project you are working on allows for partnered work. This includes students from previous semesters (we still have their code and will know if you do this). | Sharing or receiving the exact steps used to solve a project problem (even if code is not explicitly sent). | Copying part or all of another student’s exam answers. | Collaborating with another student when taking the quest, midterm, or Post-term exams by receiving or giving assistance of any kind. | Copying code from online sources without crediting them | . What constitutes collaboration? . | Asking instead of telling. If you’re working with your friends and one of them is stuck on a part of an assignment, try to ask them guiding questions instead of telling them the answer. | Keeping things conceptual! It’s more beneficial to your learning if you come up with a solution yourself, rather than having it told to you. This also applies if you are helping someone else. We highly encourage collaboration, so let’s define what that means. Discussing approaches to problems is fine (in fact, we actively encourage it), as long as you eventually arrive at a good enough understanding of the problem that you are able to code the solution completely by yourself. You should not allow concerns about cheating to get in the way of discussing the class material with your classmates. It is okay if you have received some help with ideas along the way (but not a fully worked out solution).* *This policy was adapted from Professor Alistair Sinclair’s policy for CS 172. | . What happens if you cheat? We will set up a meeting with you to discuss the situation and determine the consequences. ",
     "url": "http://localhost:4000/sp23/syllabus/#academic-integrity",
     "relUrl": "/syllabus/#academic-integrity"
-  },"45": {
+  },"47": {
     "doc": "Syllabus",
     "title": "Diversity and Inclusion Statement",
     "content": "We recognize that computer science is a demographically skewed field in the United States, and that even at Berkeley, minoritized students can find themselves feeling alone. It is our goal in this course to deliver an equitable learning experience for everyone involved. Concretely, this means a few things: . | In addition to teaching the technical skills necessary for programming, we will also teach the social implications of computer science. In doing so, we will directly address the contributions of underrepresented groups to the field, which are often overlooked. | We will do our absolute best to show you that while bias, discrimination, and judgment still exist, they should not stand in the way of you learning computer science. While acknowledging the struggles many students may face, we also hope to show that computer science is a field anyone can be successful in (in other words, there is no innate “talent” or “trait” required to understand computer science). Of course, different people have different opportunities, but one of the goals of CS10 is to equalize the playing field. | Discrimination or disrespect on the basis of race, ethnicity, religion, socioeconomic status, ability, gender, or sexual orientation will be tolerated under no circumstances. Should someone make you feel uncomfortable or disrespected in any way, please let the instructor / head-TA know immediately via email (cs10@) or by coming to office hours. You can also fill out the EECS Incident Reporting Form. | . ",
     "url": "http://localhost:4000/sp23/syllabus/#diversity-and-inclusion-statement",
     "relUrl": "/syllabus/#diversity-and-inclusion-statement"
-  },"46": {
+  },"48": {
     "doc": "Syllabus",
     "title": "Academic Accommodations Hub",
     "content": "Here’s a link to the Academic Accommodations Hub. ",
     "url": "http://localhost:4000/sp23/syllabus/#academic-accommodations-hub",
     "relUrl": "/syllabus/#academic-accommodations-hub"
-  },"47": {
+  },"49": {
     "doc": "Syllabus",
     "title": "EECS Student Climate &amp; Incident Reporting Form",
     "content": "It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome. We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal. The EECS department provides a secure and anonymous form that can be used to report incidents including (but not limited to) of microaggressions, discrimination, marginalizing / alienating behaviour, etc. ",

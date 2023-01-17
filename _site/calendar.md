@@ -59,7 +59,7 @@
       <td rowspan=5>2</td>
       <th>Mon 1/23</th> <!-- Date -->
       <td>2. Functions</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp23/readings/">Week 2 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>RQ 1<br/>
@@ -104,7 +104,7 @@
       <td rowspan=5>3</td>
       <th>Mon 1/30</th> <!-- Date -->
       <td>4. Lists, Scoping, HOFs</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp23/readings/">Week 3 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 1 PARTY<br/><br/>
@@ -150,10 +150,11 @@
       <td rowspan=5>4</td>
       <th>Mon 2/06</th> <!-- Date -->
       <td>6. Algorithmic Complexity</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp23/readings/">Week 4 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>QUEST REVIEW<br/><br/>
+      <td>PROJ 2 Party<br/><br/>
+      QUEST REVIEW<br/><br/>
       RQ 3<br/>(due 2/10)</td> <!-- Assignment -->
     </tr>
     <tr>
@@ -248,7 +249,7 @@
     <tr>
       <th>Tue 2/21</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp23/readings/">Week 6 Readings</a></td> <!-- Readings -->
       <td>9. Trees & Fractals<br/>
       (due 2/28)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
@@ -283,7 +284,7 @@
       <td rowspan=5>7</td>
       <th>Mon 2/27</th> <!-- Date -->
       <td>11. Recursion II (Fractals)</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp23/readings/">Week 7 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 3 PARTY<br/><br/>
@@ -330,7 +331,7 @@
       <td rowspan=5>8</td>
       <th>Mon 3/06</th> <!-- Date -->
       <td>13. Procedures as Data (HOFs)</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp23/readings/">Week 8 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>MIDTERM Review (Part I)<br/><br/>
@@ -422,7 +423,7 @@
       <td rowspan=5>10</td>
       <th>Mon 3/20</th> <!-- Date -->
       <td>15. Python I</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp23/readings/">Week 10 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 4 (comments) DUE<br/><br/>
@@ -512,7 +513,7 @@
       <td rowspan=5>12</td>
       <th>Mon 4/03</th> <!-- Date -->
       <td>17. Python III (OOP)</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp23/readings/">Week 12 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 5 Party<br/><br/>
@@ -558,7 +559,7 @@
       <td rowspan=5>13</td>
       <th>Mon 4/10</th> <!-- Date -->
       <td>19. Social Implications III</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp23/readings/">Week 13 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>RQ 9<br/>(due 4/14)</td> <!-- Assignment -->
@@ -601,7 +602,7 @@
       <td rowspan=5>14</td>
       <th>Mon 4/17</th> <!-- Date -->
       <td>21. Concurrency</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp23/readings/">Week 14 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Final PROJ Party<br/><br/>
@@ -646,7 +647,7 @@
       <td rowspan=5>15</td>
       <th>Mon 4/24</th> <!-- Date -->
       <td>23. Alumni Panel</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://cs10.org/sp23/readings/">Week 15 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>FINAL Proj Party<br/><br/>
