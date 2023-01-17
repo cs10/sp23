@@ -16,6 +16,14 @@ UC Berkeley, Spring 2023
 **Instructor:** Teaching Professor Dan Garcia
 {: .fs-4 }
 
+<br/>
+
+<i>Check out this video on what CS 10 is all about and how we leave an impact!!!</i>
+
+{% include youtube.html id='oG1OItm4JyU' %}
+
+<br/>
+
 <div class="d-flex">  
   <div class="flex-justify-start" style="flex-grow: 1">
   {% if site.announcements %}
