@@ -1,6 +1,6 @@
 ---
 name: Dorottya Urmossy
-role: 
+role: Reader
 email: durmossy@
 website: 
 photo: dorottya.jpg
