@@ -322,8 +322,8 @@
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/sp23/discussion/">7. Recursion II</a></td> <!-- Discussion -->
       <td>PROJ 4: Explore Post<br/>
-      (post: due 3/17)<br/>
-      (comments: due 3/20)<br/><br/>
+      (post: due 3/20)<br/>
+      (comments: due 3/24)<br/><br/>
       RQ 5 Due</td> <!-- Assignment -->
     </tr>
     <!-- WEEK EIGHT ------------------------------------------------------------ -->
@@ -334,7 +334,7 @@
       <td><a href="https://cs10.org/sp23/readings/">Week 8 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>MIDTERM Review (Part I)<br/><br/>
+      <td>MIDTERM Review<br/><br/>
       RQ 6<br/>(due 3/10)</td> <!-- Assignment -->
     </tr>
     <tr>
@@ -367,17 +367,16 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>MIDTERM Review (Part II)</td> <!-- Discussion -->
-      <td><b>MIDTERM</b><br/>
-      (due 3/15)<br/><br/>
+      <td>8. Python Basics</td> <!-- Discussion -->
+      <td><b>MIDTERM (w/o <i>Snap!</i>)</b><br/>
+      (due 3/13)<br/><br/>
       RQ 6 Due</td> <!-- Assignment -->
     </tr>
     <!-- WEEK NINE ------------------------------------------------------------ -->
     <tr>
       <td rowspan=5>9</td>
       <th>Mon 3/13</th> <!-- Date -->
-      <td>NO CLASS<br/>
-      (midterm)</td> <!-- Lecture -->
+      <td>15. Python I</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -387,15 +386,14 @@
       <th>Tue 3/14</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td><b>MIDTERM</b><br/>
-      <b>(w/ Snap! portion)</b></td> <!-- Lab -->
+      <td>12. Welcome to Python<br/>
+      (due 3/21)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 3/15</th> <!-- Date -->
-      <td>NO CLASS<br/>
-      (midterm)</td> <!-- Lecture -->
+      <td>Guest Lecture</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -405,8 +403,8 @@
       <th>Thur 3/16</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>12. Welcome to Python<br/>
-      (due 3/21)</td> <!-- Lab -->
+      <td><b>MIDTERM (w/ <i>Snap!</i>)</b><br/>
+      (due 3/19)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -415,19 +413,20 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/sp23/discussion/">9. Python Basics</a></td> <!-- Discussion -->
-      <td>PROJ 4 (post) Due</td> <!-- Assignment -->
+      <td>NO CLASS<br/>
+      (midterm)</td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK TEN ------------------------------------------------------------ -->
     <tr>
       <td rowspan=5>10</td>
       <th>Mon 3/20</th> <!-- Date -->
-      <td>15. Python I</td> <!-- Lecture -->
+      <td>16. Python II</td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 10 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>PROJ 4 (comments) DUE<br/><br/>
-      PROJ 5: Pyturis<br/>(due 4/04)<br/><br/>
+      <td>PROJ 4 (post) DUE<br/><br/>
+      PROJ 5: Pyturis<br/>(due 4/05)<br/><br/>
       RQ 7<br/>(due 3/24)</td> <!-- Assignment -->
     </tr>
     <tr>
@@ -441,7 +440,7 @@
     </tr>
     <tr>
       <th>Wed 3/22</th> <!-- Date -->
-      <td>16. Python II (Data Structures)</td> <!-- Lecture -->
+      <td>Guest Lecture</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -462,7 +461,8 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/sp23/discussion/">10. Python Data Structures</a></td> <!-- Discussion -->
-      <td>Final Project Proposals<br/>
+      <td>PROJ 4 (comments) Due<br/><br/>
+      Final Project Proposals<br/>
       (due 4/03)<br/><br/>
       RQ 7 Due</td> <!-- Assignment -->
     </tr>
@@ -527,8 +527,7 @@
       <td>15. Text Processing in Python<br/>
       (due 4/13)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>PROJ 5 DUE<br/><br/>
-      FINAL PROJ<br/>(due 4/28)</td> <!-- Assignment -->
+      <td>FINAL PROJ<br/>(due 4/28)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 4/05</th> <!-- Date -->
@@ -536,7 +535,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>PROJ 5 DUE</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 4/06</th> <!-- Date -->
