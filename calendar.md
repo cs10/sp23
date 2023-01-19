@@ -30,7 +30,8 @@
     </tr>
     <tr>
       <th>Wed 1/18 </th> <!-- Date -->
-      <td>1. Welcome to CS10 & Abstraction</td> <!-- Lecture -->
+      <td>1. Welcome to CS10 & Abstraction<br/>
+      <a href="https://drive.google.com/file/d/1QxBuCrLOjegQZSSHbGoMSWJTIb6NBdKL/view?usp=share_link">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
