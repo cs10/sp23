@@ -18,8 +18,6 @@ UC Berkeley, Spring 2023
 
 <br/>
 
-<i>Check out this video on what CS 10 is all about and how we leave an impact!!!</i>
-
 {% include youtube.html id='oG1OItm4JyU' %}
 
 <br/>
