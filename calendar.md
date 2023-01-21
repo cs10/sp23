@@ -53,7 +53,7 @@
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/sp23/discussion/">1. Snap! Basics</a></td> <!-- Discussion -->
       <td><a href="https://docs.google.com/document/d/14yTQOcw_RqoeyT5H0eQZNCjQj1QWi84-KD8yaVftsCQ/edit?usp=sharing"><b>PROJ 1 released</b></a><br/>
-      (due 1/31)<br/></td> <!-- Assignment -->
+      <b>(due 1/31)</b><br/></td> <!-- Assignment -->
     </tr>
     <!-- WEEK TWO------------------------------------------------------------ -->
     <tr>
