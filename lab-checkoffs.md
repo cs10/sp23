@@ -11,28 +11,28 @@ labs:
     questions:
       - No checkoff needed for Lab 1!
 
-  # - lab_name: Build Your Own Blocks
-  #   lab_no: 2
-  #   topic_file: berkeley_bjc/intro_pair/2-loops-variables.topic
-  #   questions:
-  #     - Show your Field of Flowers.
-  #     - Show your random-walk sprite.
-  #     - Show your `draw square-leaved flower...`` block.
-  #     - Why should you Build Your Own Blocks? Give a reason that someone may create a custom block.
-  #     - What are some different ways to achieve repetition? Name at least 2.
+  - lab_name: Build Your Own Blocks
+    lab_no: 2
+    topic_file: berkeley_bjc/intro_pair/2-loops-variables.topic
+    questions:
+      - Show your Field of Flowers.
+      - Show your random-walk sprite.
+      - Show your `draw square-leaved flower...`` block.
+      - Why should you Build Your Own Blocks? Give a reason that someone may create a custom block.
+      - What are some different ways to achieve repetition? Name at least 2.
       
-  # - lab_name: Conditionals, Reporters & Testing
-  #   lab_no: 3
-  #   topic_file: berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic
-  #   questions:
-  #     - What is a Boolean? Explain why we use them, and give examples of functions that report a Boolean value.
-  #     - What does the mystery reporter (at the bottom of the “Reporter Blocks” page) report when run with the inputs hello and 5?
-  #     - Name a few of the input types. Why is it important that we specify input types?
-  #     - Explain the difference between a command and a reporter block.
-  #     - How are global variables different from script variables?
-  #     - Show us your traffic signal and letter grade blocks.
-  #     - Show us the `is _ between _ and _ ?` block.
-  #     - Show and explain your sum of two smallest block.
+  - lab_name: Conditionals, Reporters & Abstraction
+    lab_no: 3
+    topic_file: berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic
+    questions:
+      - What is a Boolean? Explain why we use them, and give examples of functions that report a Boolean value.
+      - What does the mystery reporter (at the bottom of the “Reporter Blocks” page) report when run with the inputs hello and 5?
+      - Name a few of the input types. Why is it important that we specify input types?
+      - Explain the difference between a command and a reporter block.
+      - How are global variables different from script variables?
+      - Show us your traffic signal and letter grade blocks.
+      - Show us the `is _ between _ and _ ?` block.
+      - Show and explain your sum of two smallest block.
 
   # - lab_name: Lists and HOFs
   #   lab_no: 4

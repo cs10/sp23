@@ -70,7 +70,7 @@
       <th>Tue 1/24</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>2. Build Your Own Blocks<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">2. Build Your Own Blocks</a><br/>
       (due 1/26)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -87,7 +87,7 @@
       <th>Thur 1/26</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>3. Conditionals, Reporters & Abstraction<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">3. Conditionals, Reporters & Abstraction</a><br/>
       (due 1/31)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
