@@ -126,8 +126,7 @@
     <tr>
       <th>Wed 2/01 </th> <!-- Date -->
       <td>5. Algorithms <br/>
-      <a href = "https://drive.google.com/file/d/1RZyNIYTsniu8wDB-S3bQ_g8iZcZB0F7v/view?usp=sharing">(Slides)</a></td>
-      </td> <!-- Lecture -->
+      <a href = "https://drive.google.com/file/d/1RZyNIYTsniu8wDB-S3bQ_g8iZcZB0F7v/view?usp=sharing">(Slides)</a></td><!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
