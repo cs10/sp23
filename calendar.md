@@ -59,7 +59,8 @@
     <tr>
       <td rowspan=5>2</td>
       <th>Mon 1/23</th> <!-- Date -->
-      <td>2. Functions</td> <!-- Lecture -->
+      <td>2. Functions <br/>
+      <a href = "https://drive.google.com/file/d/1REGnCl7kqszZGXG23slC1T1iiMLn23Cg/view?usp=sharing">(Slides)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 2 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -77,7 +78,8 @@
     </tr>
     <tr>
       <th>Wed 1/25 </th> <!-- Date -->
-      <td>3. Numbers and Abstraction</td> <!-- Lecture -->
+      <td>3. Numbers and Abstraction <br/>
+      <a href = "https://drive.google.com/file/d/1RF2FcRp9nrXXyuQB0E4hPnziNutlYG_1/view?usp=sharing">(Slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -104,7 +106,8 @@
     <tr>
       <td rowspan=5>3</td>
       <th>Mon 1/30</th> <!-- Date -->
-      <td>4. Variables, Scope, Lists & HOFs</td> <!-- Lecture -->
+      <td>4. Variables, Scope, Lists & HOFs <br/>
+      <a href = "https://drive.google.com/file/d/1RWGiiYzLJNtk1HJxdi6S17S6cwzqp48L/view?usp=sharing">(Slides)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 3 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -122,7 +125,9 @@
     </tr>
     <tr>
       <th>Wed 2/01 </th> <!-- Date -->
-      <td>5. Algorithms</td> <!-- Lecture -->
+      <td>5. Algorithms <br/>
+      <a href = "https://drive.google.com/file/d/1RZyNIYTsniu8wDB-S3bQ_g8iZcZB0F7v/view?usp=sharing">(Slides)</a></td>
+      </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
