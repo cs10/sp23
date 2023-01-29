@@ -34,25 +34,25 @@ labs:
       - Show us the `is _ between _ and _ ?` block.
       - Show and explain your sum of two smallest block.
 
-  # - lab_name: Lists and HOFs
-  #   lab_no: 4
-  #   topic_file: berkeley_bjc/lists/lists-I.topic
-  #   questions:
-  #     - What is a list? Why would we use a list of 10 elements instead of just making 10 variables?
-  #     - What do `map`, `keep`, and `combine` each do?
-  #     - What is the difference between the `for each (item)` loop and the `for (i)` loop we have used in previous labs?
-  #     - Show us your `acronym` block.
-  #     - Show us your `expand` block.
+  - lab_name: Lists and HOFs
+    lab_no: 4
+    topic_file: berkeley_bjc/lists/lists-I.topic
+    questions:
+      - What is a list? Why would we use a list of 10 elements instead of just making 10 variables?
+      - What do `map`, `keep`, and `combine` each do?
+      - What is the difference between the `for each (item)` loop and the `for (i)` loop we have used in previous labs?
+      - Show us your `acronym` block.
+      - Show us your `expand` block.
 
-  # - lab_name: Algorithms
-  #   lab_no: 5
-  #   topic_file: berkeley_bjc/areas/algorithms.topic
-  #   questions:
-  #     - What is an algorithm? Please give an example both in real life and from class.
-  #     - Are algorithms which are (on average) faster always "better"? Why or why not?
-  #     - What might some "trade-offs" to different computer science algorithms be?
-  #     - How can abstraction and algorithms relate in computer science?
-  #     - Please show both your `findNumberInUnsortedList` and `findNumberInSortedList` functions and describe the difference in the algorithms used.
+  - lab_name: Algorithms
+    lab_no: 5
+    topic_file: berkeley_bjc/areas/algorithms.topic
+    questions:
+      - What is an algorithm? Please give an example both in real life and from class.
+      - Are algorithms which are (on average) faster always "better"? Why or why not?
+      - What might some "trade-offs" to different computer science algorithms be?
+      - How can abstraction and algorithms relate in computer science?
+      - Please show both your `findNumberInUnsortedList` and `findNumberInSortedList` functions and describe the difference in the algorithms used.
   
   # - lab_name: Algorithmic Complexity
   #   lab_no: 6
