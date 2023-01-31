@@ -123,7 +123,9 @@ If you have a DSP accommodation through the university that is not addressed by 
 
 
 ## Extension Requests
-We understand that circumstances may arise that will cause you to not be able to meet assignment deadlines. Please use this [extension request form (a.k.a +1 Form)](https://forms.gle/18eKqdMSoqQCCq6bA) to request extensions on deadlines for any labs. <b>NOTE: THIS FORM IS FOR LABS ONLY. IF YOU NEED TO FILL THIS OUT FOR A PROJECT, PLEASE EMAIL CS10@</b> The policy for extension requests are as follows:
+<b>NOTE: THIS FORM IS FOR LABS ONLY. IF YOU NEED TO REQUEST AN EXTENSION FOR A PROJECT, PLEASE EMAIL CS10@ UNTIL FURTHER UPDATES ARE GIVEN.</b>
+
+We understand that circumstances may arise that will cause you to not be able to meet assignment deadlines. Please use this [extension request form (a.k.a +1 Form)](https://forms.gle/18eKqdMSoqQCCq6bA) to request extensions on deadlines for any labs and/or projects. The policy for extension requests are as follows:
 
 - For labs, an extension request will grant you an extra lab section in order to complete the lab assignment. For instance, if the lab is due on a Tuesday, then the extension request will make the lab due on a Thursday instead.
 - For projects, an extension request will grant that your submission deadline for the project be extended to the deadline of the next project. For instance, if you request an extension for Project 1, your new deadline for submitting Project 1 will be the same day that Project 2 is due.
@@ -137,17 +139,18 @@ Extension requests are automatically approved after submission of the form, and 
 
 
 ## Extenuating Circumstances
+<b>NOTE: THIS FORM IS FOR LABS ONLY. IF YOU NEED TO REQUEST AN EXTENSION DUE TO AN EXTENUATING CIRCUMSTANCE FOR A PROJECT, PLEASE EMAIL CS10@</b>
+
+For situations that require extra time that a regular extension request cannot resolve, please fill out the [extenuating circumstances form (a.k.a. +2 Form)](https://forms.gle/wAKdLwSE58qzXMZv8). The extensions granted for such circumstances are double the time allotted for regular extension requests. (This means two extra lab sections for labs and project <i>n</i> will get extended to be due on the deadline of project <i>n+2</i>.) 
 
 
-For situations that require extra time that a regular extension request cannot resolve, please fill out the [extenuating circumstances form (a.k.a. +2 Form)](https://forms.gle/wAKdLwSE58qzXMZv8). <b>NOTE: THIS FORM IS FOR LABS ONLY. IF YOU NEED TO FILL THIS OUT FOR A PROJECT, PLEASE EMAIL CS10@</b> The extensions granted for such circumstances are double the time allotted for regular extension requests. (This means two extra lab sections for labs and project <i>n</i> will get extended to be due on the deadline of project <i>n+2</i>.) 
-
-
-<b>All students are only allowed one free submission of this form throughout the semester.</b> However, we understand that there may be circumstances that will cause you to need this form more than once. If that’s the case, you must reach out to your Lab TA and/or email [cs10@](mailto:cs10@berkeley.edu) to address your case. We cannot guarantee that your request will be granted. Feel free to reach out if you feel that your case was not rightfully addressed. At the end of the day, we're here to help you succeed in our course.
+<b>All students are only allowed one free submission of this form throughout the semester.</b> After submission, your case will be considered and either approved/denied. You will then have to schedule a conversation with a staff member and/or the CS 10 Course Manager (if the ladder, the CS 10 Course Manager will contact you.)
+However, we understand that there may be circumstances that will cause you to need this form more than once. If that’s the case, you must reach out to your Lab TA and/or email [cs10@](mailto:cs10@berkeley.edu) to address your case. We cannot guarantee that your request will be granted. Feel free to reach out if you feel that your case was not rightfully addressed. At the end of the day, we're here to help you succeed in our course.
 
 
 ## Late Submissions
 
-Late submissions for projects will be handled on a case-by-case basis. If for some reason you cannot make a deadline, please fill out the extension form (see section above). If you do not reach out to anyone in advance, we reserve the right to mark the submission down by 10% for each day that it is late.
+Late submissions for all assignments in this course will not be considered, and will all be awarded zero credit. If you anticipate a late submission, please utilize the extension requests form and/or the extenuating circumstances form depending on your situation.
 
 
 ## Academic Integrity
