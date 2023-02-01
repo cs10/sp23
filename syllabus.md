@@ -123,25 +123,27 @@ If you have a DSP accommodation through the university that is not addressed by 
 
 
 ## Extension Requests
-<b>NOTE: THIS FORM IS FOR LABS ONLY. IF YOU NEED TO REQUEST AN EXTENSION FOR A PROJECT, PLEASE EMAIL CS10@ UNTIL FURTHER UPDATES ARE GIVEN.</b>
 
-We understand that circumstances may arise that will cause you to not be able to meet assignment deadlines. Please use this [extension request form (a.k.a +1 Form)](https://forms.gle/18eKqdMSoqQCCq6bA) to request extensions on deadlines for any labs and/or projects. The policy for extension requests are as follows:
+We understand that circumstances may arise that will cause you to not be able to meet assignment deadlines. <b>For extension requests on LABS,</b> please use this [regular extension requests form](https://forms.gle/18eKqdMSoqQCCq6bA) to request extensions on deadlines for any labs. The policy for regular extension requests on labs are as follows:
 
-- For labs, an extension request will grant you an extra lab section in order to complete the lab assignment. For instance, if the lab is due on a Tuesday, then the extension request will make the lab due on a Thursday instead.
-- For projects, an extension request will grant that your submission deadline for the project be extended to the deadline of the next project. For instance, if you request an extension for Project 1, your new deadline for submitting Project 1 will be the same day that Project 2 is due.
+- A regular extension request will grant you an extra lab section in order to complete the lab assignment. For instance, if the lab is due on a Tuesday, then the extension request will make the lab due on a Thursday instead.
+
+<b>For extension requests on PROJECTS,</b> please use this [regular extension requests form](https://forms.gle/x15LTmH9QXMrfKu48) to request extensions on deadlines for any projects. The policy for regular extension requests on projects are as follows:
+
+- A regular extension request will grant that your submission deadline for the project be extended to the <i>deadline of the next project.</i> For instance, if you request an extension for Project 1, your new deadline for submitting Project 1 will be the same day that Project 2 is due.
 
 
-Extension requests are automatically approved after submission of the form, and you may use as many extension requests as you wish throughout the semester. However, you can only use one extension request for a single assignment. If you require extra time for an assignment you already submitted an extension request for, you must submit the extenuating circumstances form (see next section).
+Extension requests are <i>automatically approved</i> after submission of the form, and you may use as many extension requests as you wish throughout the semester. However, you can only use one regular extension request for a single assignment. If you require extra time for an assignment you already submitted a regular extension request for, you must submit the exceptional circumstances form (see next section).
 
 
 <b>NOTE: If you added the course late, please use your updated deadline as the 'original due date'.</b>
-<b>Important: While extensions may not be visible on PrairieLearn/Gradescope (your assignments may be marked 'late'), they will be factored in when we compute your final grade.</b>
+
+<b>Important: While extensions may not be visible on PrairieLearn/Gradescope (a.k.a your assignments may be marked as 'Late'), they will be factored in when we compute your final grade.</b>
 
 
-## Extenuating Circumstances
-<b>NOTE: THIS FORM IS FOR LABS ONLY. IF YOU NEED TO REQUEST AN EXTENSION DUE TO AN EXTENUATING CIRCUMSTANCE FOR A PROJECT, PLEASE EMAIL CS10@</b>
+## Exceptional and Extenuating Circumstances
 
-For situations that require extra time that a regular extension request cannot resolve, please fill out the [extenuating circumstances form (a.k.a. +2 Form)](https://forms.gle/wAKdLwSE58qzXMZv8). The extensions granted for such circumstances are double the time allotted for regular extension requests. (This means two extra lab sections for labs and project <i>n</i> will get extended to be due on the deadline of project <i>n+2</i>.) 
+For situations that require extra time <b>for LABS</b> that a regular extension request cannot resolve, please fill out the [exceptional extension requests form](https://forms.gle/wAKdLwSE58qzXMZv8). <b>For projects</b> please fill out this [exceptional extension requests form](https://forms.gle/45sGRf1o7x4A2cWY6) instead. The extensions granted for such circumstances are double the time allotted for regular extension requests. (This means two extra lab sections for labs, and project <i>n</i> will get extended to be due on the deadline of project <i>n+2</i>. For projects such that <i>n + 2 > 6</i> (a.k.a Projects 5 and 6), we will personally work out a deadline for submission and/or discuss options of taking an Incomplete.) 
 
 
 <b>All students are only allowed one free submission of this form throughout the semester.</b> After submission, your case will be considered and either approved/denied. You will then have to schedule a conversation with a staff member and/or the CS 10 Course Manager (if the ladder, the CS 10 Course Manager will contact you.)
