@@ -13,4 +13,4 @@ This page will be updated with discussion worksheets and solutions throughout th
 
 **Discussion 2**{: .label .label-discussion } Number Rep & Control | [worksheet](https://drive.google.com/file/d/1k3XqkXdhOc-B70S4oiIUDVkBt5qZH4Ly/view?usp=share_link) | [solutions](https://drive.google.com/file/d/16B9kV_CFxOAJbu2hxkduDeQY0MloYkiG/view?usp=sharing) | [notes/slides](https://drive.google.com/file/d/1YUkszs8uK9e7gOqQGctzM88ATomybowM/view?usp=share_link) | [recording](https://youtu.be/FbnrmYiKFvY)
 
-**Discussion 3**{: .label .label-discussion } Domain/Range, Scoping, Lists & HOFs | [worksheet](https://drive.google.com/file/d/1k6OMVXH6Vlp3z6yK-z33hXX5H9rIZa6W/view?usp=sharing) | [solutions] | [notes/slides] | [recording]
+**Discussion 3**{: .label .label-discussion } Domain/Range, Scoping, Lists & HOFs | [worksheet](https://drive.google.com/file/d/1oq1g-s0NMGbvBG9nEgepYs9NFFZKg-hE/view?usp=share_link) | [solutions] | [notes/slides] | [recording]
