@@ -143,7 +143,7 @@ Extension requests are <i>automatically approved</i> after submission of the for
 
 ## Exceptional and Extenuating Circumstances
 
-For emergency situations that require extra time <b>for LABS</b> that a regular extension request cannot resolve, please fill out the [LAB emergency extension requests form](https://forms.gle/wAKdLwSE58qzXMZv8). </>After filling out the LAB emergency form, you MUST speak with your TA in section in order for your request to be considered.</b>
+For emergency situations that require extra time <b>for LABS</b> that a regular extension request cannot resolve, please fill out the [LAB emergency extension requests form](https://forms.gle/wAKdLwSE58qzXMZv8). <b>After filling out the LAB emergency form, you MUST speak with your TA in section in order for your request to be considered.</b>
 
 <b>For projects</b> please fill out this [PROJECT emergency extension requests form](https://forms.gle/45sGRf1o7x4A2cWY6) instead. The extensions granted for such circumstances are double the time allotted for regular extension requests. (This means two extra lab sections for labs, and project <i>n</i> will get extended to be due on the deadline of project <i>n+2</i>. For projects such that <i>n + 2 > 6</i> (a.k.a Projects 5 and 6), we will personally work out a deadline for submission and/or discuss options of taking an Incomplete.)
 
