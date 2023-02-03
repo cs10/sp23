@@ -124,11 +124,11 @@ If you have a DSP accommodation through the university that is not addressed by 
 
 ## Extension Requests
 
-We understand that circumstances may arise that will cause you to not be able to meet assignment deadlines. <b>For extension requests on LABS,</b> please use this [regular extension requests form](https://forms.gle/18eKqdMSoqQCCq6bA) to request extensions on deadlines for any labs. The policy for regular extension requests on labs are as follows:
+We understand that circumstances may arise that may cause you to not be able to meet assignment deadlines. <b>For extension requests on LABS,</b> please use this [LAB regular extension requests form](https://forms.gle/18eKqdMSoqQCCq6bA) to request extensions on deadlines for any labs. The policy for regular extension requests on labs are as follows:
 
 - A regular extension request will grant you an extra lab section in order to complete the lab assignment. For instance, if the lab is due on a Tuesday, then the extension request will make the lab due on a Thursday instead.
 
-<b>For extension requests on PROJECTS,</b> please use this [regular extension requests form](https://forms.gle/x15LTmH9QXMrfKu48) to request extensions on deadlines for any projects. The policy for regular extension requests on projects are as follows:
+<b>For extension requests on PROJECTS,</b> please use this [PROJECT regular extension requests form](https://forms.gle/x15LTmH9QXMrfKu48) to request extensions on deadlines for any projects. The policy for regular extension requests on projects are as follows:
 
 - A regular extension request will grant that your submission deadline for the project be extended to the <i>deadline of the next project.</i> For instance, if you request an extension for Project 1, your new deadline for submitting Project 1 will be the same day that Project 2 is due.
 
@@ -143,10 +143,13 @@ Extension requests are <i>automatically approved</i> after submission of the for
 
 ## Exceptional and Extenuating Circumstances
 
-For situations that require extra time <b>for LABS</b> that a regular extension request cannot resolve, please fill out the [exceptional extension requests form](https://forms.gle/wAKdLwSE58qzXMZv8). <b>For projects</b> please fill out this [exceptional extension requests form](https://forms.gle/45sGRf1o7x4A2cWY6) instead. The extensions granted for such circumstances are double the time allotted for regular extension requests. (This means two extra lab sections for labs, and project <i>n</i> will get extended to be due on the deadline of project <i>n+2</i>. For projects such that <i>n + 2 > 6</i> (a.k.a Projects 5 and 6), we will personally work out a deadline for submission and/or discuss options of taking an Incomplete.) 
+For emergency situations that require extra time <b>for LABS</b> that a regular extension request cannot resolve, please fill out the [LAB emergency extension requests form](https://forms.gle/wAKdLwSE58qzXMZv8). </>After filling out the LAB emergency form, you MUST speak with your TA in section in order for your request to be considered.</b>
+
+<b>For projects</b> please fill out this [PROJECT emergency extension requests form](https://forms.gle/45sGRf1o7x4A2cWY6) instead. The extensions granted for such circumstances are double the time allotted for regular extension requests. (This means two extra lab sections for labs, and project <i>n</i> will get extended to be due on the deadline of project <i>n+2</i>. For projects such that <i>n + 2 > 6</i> (a.k.a Projects 5 and 6), we will personally work out a deadline for submission and/or discuss options of taking an Incomplete.)
 
 
-<b>All students are only allowed one free submission of this form throughout the semester.</b> After submission, your case will be considered and either approved/denied. You will then have to schedule a conversation with a staff member and/or the CS 10 Course Manager (if the ladder, the CS 10 Course Manager will contact you.)
+<b>All students are only allowed one free submission of these forms throughout the semester.</b> After submission, your case will be considered and either approved/denied. You will then have to schedule a conversation with a staff member and/or the CS 10 Course Manager (if the latter, the CS 10 Course Manager will contact you.)
+
 However, we understand that there may be circumstances that will cause you to need this form more than once. If that’s the case, you must reach out to your Lab TA and/or email [cs10@](mailto:cs10@berkeley.edu) to address your case. We cannot guarantee that your request will be granted. Feel free to reach out if you feel that your case was not rightfully addressed. At the end of the day, we're here to help you succeed in our course.
 
 
