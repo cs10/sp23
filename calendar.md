@@ -130,7 +130,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><a href="bit.ly/compsci10">(PROJ 2: Spelling Bee)</a><br/>
+      <td><a href="https://bit.ly/compsci10">(PROJ 2: Spelling Bee)</a><br/>
       <b>(due 2/17)</b></td> <!-- Assignment -->
     </tr>
     <tr>
