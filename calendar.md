@@ -158,7 +158,7 @@
       <td><a href="https://cs10.org/sp23/readings/">Week 4 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      QUEST REVIEW<br/><br/>
+      <td>QUEST REVIEW<br/><br/>
       RQ 3<br/>(due 2/10)</td> <!-- Assignment -->
     </tr>
     <tr>
@@ -238,8 +238,8 @@
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/sp23/discussion/">5. Algorithmic Complexity</a></td> <!-- Discussion -->
       <td>PROJ 3: 2048<br/>
-      (due 3/02)</td> <!-- Assignment -->
-      <td>PROJ 2 Due</td>
+      (due 3/02) <!-- Assignment -->
+      PROJ 2 Due</td>
     </tr>
     <!-- WEEK SIX ------------------------------------------------------------ -->
     <tr>
