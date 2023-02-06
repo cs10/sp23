@@ -22,7 +22,7 @@ This page will be updated with links to readings throughout the semester.
 - Reading Quiz Question: Why is a car a good example of abstraction? Using this example, give one reason why abstraction is helpful and then also give one reason why abstraction can do more harm than good. Finally, what is an example of abstraction in your daily life? (Expected length: 2 - 4 sentences).
 
 
-<!-- **Week 5 Reading (for RQ 3)**{: .label .label-reading}
+**Week 4 Reading (for RQ 3)**{: .label .label-reading}
 
 - Required:
   - [What is an Algorithm?](https://www.sciencenewsforstudents.org/article/explainer-what-is-an-algorithm)
@@ -33,7 +33,7 @@ This page will be updated with links to readings throughout the semester.
   - [The 10 Algorithms That Dominate Our World](http://io9.gizmodo.com/the-10-algorithms-that-dominate-our-world-1580110464)
 
 
-**Week 6 Reading (for RQ 4)**{: .label .label-reading }
+<!--**Week 6 Reading (for RQ 4)**{: .label .label-reading }
 
 - Required:
   - [Blown to Bits: Chapter 1](http://cs10.org/sp19/resources/readings/btb/chapter1.pdf)
