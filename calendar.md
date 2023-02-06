@@ -154,7 +154,8 @@
     <tr>
       <td rowspan=5>4</td>
       <th>Mon 2/06</th> <!-- Date -->
-      <td>6. Algorithmic Complexity</td> <!-- Lecture -->
+      <td>6. Algorithmic Complexity
+      <a href="https://drive.google.com/file/d/1SHZL12rNwgkeNccJ8rAX8nIsYHZC8NZS/view?usp=sharing">(Slides)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 4 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -172,7 +173,8 @@
     </tr>
     <tr>
       <th>Wed 2/08 </th> <!-- Date -->
-      <td>7. Social Implications I</td> <!-- Lecture -->
+      <td>7. Social Implications I
+      <a href="https://drive.google.com/file/d/1SBdaUFI5S6ybVtAIIQKRRcGd9b5HpeKo/view?usp=sharing">(Slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
