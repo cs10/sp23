@@ -54,15 +54,15 @@ labs:
       - How can abstraction and algorithms relate in computer science?
       - Please show both your `findNumberInUnsortedList` and `findNumberInSortedList` functions and describe the difference in the algorithms used.
   
-  # - lab_name: Algorithmic Complexity
-  #   lab_no: 6
-  #   topic_file: berkeley_bjc/areas/algorithm-complexity.topic
-  #   questions:
-  #     - Of all the runtimes you have discovered thus far, can you rank them from “fastest” to “slowest”? Why is runtime important for the programs that we create?
-  #     - Name the logarithmic time algorithm that we implemented in Lab 5. Explain why this algorithm runs in logarithmic time.
-  #     - What is the difference between “Worst-Case” and “Best Case” Runtimes when running the Are the numbers of (LIST) distinct block? Why?
-  #     - What happened with the time it took for your computer to counter up the numbers between 1 and x when you started doubling the numbers? Tripling the numbers? What do you think would happen with the time I multiplied your top number by 8?
-  #     - Please show me your Non-Gauss and Gauss Add all numbers in. Which was faster? Why?
+  - lab_name: Algorithmic Complexity
+    lab_no: 6
+    topic_file: berkeley_bjc/areas/algorithm-complexity.topic
+    questions:
+      - Of all the runtimes you have discovered thus far, can you rank them from “fastest” to “slowest”? Why is runtime important for the programs that we create?
+      - Name the logarithmic time algorithm that we implemented in Lab 5. Explain why this algorithm runs in logarithmic time.
+      - What is the difference between “Worst-Case” and “Best Case” Runtimes when running the Are the numbers of (LIST) distinct block? Why?
+      - What happened with the time it took for your computer to counter up the numbers between 1 and x when you started doubling the numbers? Tripling the numbers? What do you think would happen with the time I multiplied your top number by 8?
+      - Please show me your Non-Gauss and Gauss Add all numbers in. Which was faster? Why?
 
   # - lab_name: Testing + Homework 3
   #   lab_no: 7
