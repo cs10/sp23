@@ -33,7 +33,7 @@ Below, you can find various resources to help with your understanding of the mat
 
 ## Project Walkthroughs and Hint Videos
 
-* [Project 2: Matching 123 Slots Hint Video](https://youtu.be/RID64PQzznQ)
+* [Project 1: Matching Slots Getting Started Video](https://drive.google.com/file/d/1cGPSgDZz56jPghbzh2wnFYYCdw55ms8I/view?usp=sharing)
 
 ## Past Exams
 
