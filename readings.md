@@ -31,6 +31,7 @@ This page will be updated with links to readings throughout the semester.
 - Optional:
   - [Hacker News: Comments on "Algorithms are Great and All, But They Can Also Ruin Lives"]()
   - [The 10 Algorithms That Dominate Our World](http://io9.gizmodo.com/the-10-algorithms-that-dominate-our-world-1580110464)
+  - Reading Quiz Question: Talk about an algorithm mentioned in one of the readings. Why was it implemented/what problem was it trying to solve? What consequences came about as a result? Do you think the benefits of algorithms outweigh their potential consequences? Why or why not?
 
 
 <!--**Week 6 Reading (for RQ 4)**{: .label .label-reading }
