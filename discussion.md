@@ -13,4 +13,6 @@ This page will be updated with discussion worksheets and solutions throughout th
 
 **Discussion 2**{: .label .label-discussion } Number Rep & Control | [worksheet](https://drive.google.com/file/d/1k3XqkXdhOc-B70S4oiIUDVkBt5qZH4Ly/view?usp=share_link) | [solutions](https://drive.google.com/file/d/16B9kV_CFxOAJbu2hxkduDeQY0MloYkiG/view?usp=sharing) | [notes/slides](https://drive.google.com/file/d/1YUkszs8uK9e7gOqQGctzM88ATomybowM/view?usp=share_link) | [recording](https://youtu.be/FbnrmYiKFvY)
 
-**Discussion 3**{: .label .label-discussion } Domain/Range, Scoping, Lists & HOFs | [worksheet](https://drive.google.com/file/d/1oq1g-s0NMGbvBG9nEgepYs9NFFZKg-hE/view?usp=share_link) | [solutions] | [notes/slides] | [recording]
+**Discussion 3**{: .label .label-discussion } Domain/Range, Scoping, Lists & HOFs | [worksheet](https://drive.google.com/file/d/1oq1g-s0NMGbvBG9nEgepYs9NFFZKg-hE/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1JB9ENoZwtxEZ4LqzRW29xgLNRVYpUaEh/view?usp=share_link) | [recording](https://drive.google.com/file/d/1hz0RDc-sBmVRez95fNUwZUPHaLorKQs1/view?usp=share_link)
+
+**Discussion 4**{: .label .label-discussion } Algorithms | [worksheet](https://drive.google.com/file/d/10y6F26Apf8X4IIHRY-tk55GnJ_Zw8eoE/view?usp=share_link) | [solutions] | [notes/slides] | [recording]
