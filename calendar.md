@@ -219,8 +219,8 @@
     </tr>
     <tr>
       <th>Wed 2/15</th> <!-- Date -->
-      <td>9. Testing + 2048
-      <a href = "https://drive.google.com/file/d/1JhXdmV80FBl-efc4EY04JMBJgT7qNMRT/view?usp=share_link"></a>(slides)</td> <!-- Lecture -->
+      <td>9. Testing + 2048<br/>
+      <a href="https://drive.google.com/file/d/1JhXdmV80FBl-efc4EY04JMBJgT7qNMRT/view?usp=share_link">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -266,7 +266,7 @@
     </tr>
     <tr>
       <th>Wed 2/22</th> <!-- Date -->
-      <td>10. Recursion I
+      <td>10. Recursion I <br/>
       <a href = "https://drive.google.com/file/d/1KNlUqf-FrETCnOiq0zaSvgrqF7FRmgLc/view?usp=share_link">(slides)</a>
       <a href="https://drive.google.com/file/d/1KMLfiRmgBfZ4fcY8TzyzzIM0Wg2a8ppy/view?usp=share_link">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
@@ -294,7 +294,7 @@
     <tr>
       <td rowspan=5>7</td>
       <th>Mon 2/27</th> <!-- Date -->
-      <td>11. Recursion II (Fractals)
+      <td>11. Recursion II (Fractals) <br/>
       <a href = "https://drive.google.com/file/d/1KNlUqf-FrETCnOiq0zaSvgrqF7FRmgLc/view?usp=share_link">(slides)</a>
       <a href = "https://drive.google.com/file/d/1KqCkYZX1j7NyzRcpw9KcsD5flqRR70Po/view?usp=share_link">(code)</a>
       </td> <!-- Lecture -->
@@ -315,7 +315,7 @@
     </tr>
     <tr>
       <th>Wed 3/01 </th> <!-- Date -->
-      <td>12. Recursion III (Count Change)
+      <td>12. Recursion III (Count Change) <br/>
       <a href="https://drive.google.com/file/d/1L8VRudLlTi9Jxz8NY2vEeFisiPDd8vBV/view?usp=share_link">(slides)</a>
       <a href="https://drive.google.com/file/d/1LFzuc4yYtMlN1F1AWPaHDlROpiq5uMsh/view?usp=sharing">(code)</a>
       <a href="https://drive.google.com/drive/folders/1LBqTZJIRNOg3mhBxWYY6mF-ZEQoSzgZ-?usp=share_link">(movies)</a>
@@ -348,7 +348,7 @@
     <tr>
       <td rowspan=5>8</td>
       <th>Mon 3/06</th> <!-- Date -->
-      <td>13. Procedures as Data (HOFs)
+      <td>13. Procedures as Data (HOFs) <br/>
       <a href="https://drive.google.com/file/d/1LfSgMvV31rdOmjG7YLR_D1ZevqQ36hCQ/view?usp=share_link">(slides)</a>
       <a href="https://drive.google.com/drive/folders/1LKMGeEFzVMWr45X4b7KjqR7BOPG2JUVJ?usp=share_link">(code)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 8 Readings</a></td> <!-- Readings -->
@@ -368,7 +368,7 @@
     </tr>
     <tr>
       <th>Wed 3/08</th> <!-- Date -->
-      <td>14. Programming Paradigms<a href="https://drive.google.com/file/d/1MaBxWkptD2Gd_8Lj90gTM4uJswza1WjP/view?usp=share_link">(slides)</a>
+      <td>14. Programming Paradigms <br/><a href="https://drive.google.com/file/d/1MaBxWkptD2Gd_8Lj90gTM4uJswza1WjP/view?usp=share_link">(slides)</a>
       <a href="https://drive.google.com/drive/folders/1LsYJmxRloim1-mpuWPWKmytbWuPeK2dn?usp=share_link">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
