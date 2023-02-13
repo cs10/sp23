@@ -15,4 +15,4 @@ This page will be updated with discussion worksheets and solutions throughout th
 
 **Discussion 3**{: .label .label-discussion } Domain/Range, Scoping, Lists & HOFs | [worksheet](https://drive.google.com/file/d/1oq1g-s0NMGbvBG9nEgepYs9NFFZKg-hE/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1JB9ENoZwtxEZ4LqzRW29xgLNRVYpUaEh/view?usp=share_link) | [recording](https://drive.google.com/file/d/1hz0RDc-sBmVRez95fNUwZUPHaLorKQs1/view?usp=share_link)
 
-**Discussion 4**{: .label .label-discussion } Algorithms | [worksheet](https://drive.google.com/file/d/10y6F26Apf8X4IIHRY-tk55GnJ_Zw8eoE/view?usp=share_link) | [solutions] | [notes/slides] | [recording]
+**Discussion 4**{: .label .label-discussion } Algorithms | [worksheet](https://drive.google.com/file/d/10y6F26Apf8X4IIHRY-tk55GnJ_Zw8eoE/view?usp=share_link) | [solutions](https://drive.google.com/file/d/16p-g3S9gJWCCYHR8xsi1f0DMdFtEcL7x/view?usp=share_link) | 
