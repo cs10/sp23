@@ -64,23 +64,23 @@ labs:
       - What happened with the time it took for your computer to counter up the numbers between 1 and x when you started doubling the numbers? Tripling the numbers? What do you think would happen with the time I multiplied your top number by 8?
       - Please show me your Non-Gauss and Gauss Add all numbers in. Which was faster? Why?
 
-  # - lab_name: Testing + Homework 3
-  #   lab_no: 7
-  #   topic_file: berkeley_bjc/2048-testing/2048.topic
-  #   questions:
-  #     - How does the test block work? What is its domain and range?
-  #     - How will writing tests help you for the 2048 assignment?
-  #     - How do merge up and merge column work? What is the domain/range of each block?
-  #     - What is the domain and range of the update display block?
-  #     - Show us the output of your test block on the merge column. Explain why this output makes sense.
+  - lab_name: Testing + Homework 3
+    lab_no: 7
+    topic_file: berkeley_bjc/2048-testing/2048.topic
+    questions:
+      - How does the test block work? What is its domain and range?
+      - How will writing tests help you for the 2048 assignment?
+      - How do merge up and merge column work? What is the domain/range of each block?
+      - What is the domain and range of the update display block?
+      - Show us the output of your test block on the merge column. Explain why this output makes sense.
 
-  # - lab_name: Boards
-  #   lab_no: 8
-  #   topic_file: berkeley_bjc/lists/tic-tac-toe.topic
-  #   questions:
-  #   - Why did we have variables like `Size`, `Start`, and `Display Width` when designing our board? What do they do?
-  #   - Explain an advantage of using an underlying board structure when designing a game.
-  #   - Show your working board game by moving the sprite around the board and clicking to place bugs.
+  - lab_name: Boards
+    lab_no: 8
+    topic_file: berkeley_bjc/lists/tic-tac-toe.topic
+    questions:
+    - Why did we have variables like `Size`, `Start`, and `Display Width` when designing our board? What do they do?
+    - Explain an advantage of using an underlying board structure when designing a game.
+    - Show your working board game by moving the sprite around the board and clicking to place bugs.
 
   # - lab_name: Trees and Fractals
   #   lab_no: 9
