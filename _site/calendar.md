@@ -52,7 +52,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/sp23/discussion/">1. Snap! Basics</a></td> <!-- Discussion -->
-      <td><a href="https://docs.google.com/document/d/14yTQOcw_RqoeyT5H0eQZNCjQj1QWi84-KD8yaVftsCQ/edit?usp=sharing"><b>PROJ 1 released</b></a><br/>
+      <td><a href="https://docs.google.com/document/d/14yTQOcw_RqoeyT5H0eQZNCjQj1QWi84-KD8yaVftsCQ/edit?usp=sharing"><b>PROJ 1 RELEASED</b></a><br/>
       <b>(due 2/3)</b><br/></td> <!-- Assignment -->
     </tr>
     <!-- WEEK TWO------------------------------------------------------------ -->
@@ -130,8 +130,8 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>PROJ 2: Wordle<br/>
-      (due 2/15)</td> <!-- Assignment -->
+      <td><a href="https://docs.google.com/document/d/180psa7QELpesRzubYGV-1REMECGmFItsMSA2R8siIZA/edit?usp=sharing"><b>PROJ 2: Spelling Bee RELEASED</b></a><br/>
+      <b>(due 2/17)</b></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 2/02</th> <!-- Date -->
@@ -154,26 +154,27 @@
     <tr>
       <td rowspan=5>4</td>
       <th>Mon 2/06</th> <!-- Date -->
-      <td>6. Algorithmic Complexity</td> <!-- Lecture -->
+      <td>6. Algorithmic Complexity <br/>
+      <a href="https://drive.google.com/file/d/1SHZL12rNwgkeNccJ8rAX8nIsYHZC8NZS/view?usp=sharing">(Slides)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 4 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>PROJ 2 Party<br/><br/>
-      QUEST REVIEW<br/><br/>
+      <td>QUEST REVIEW<br/><br/>
       RQ 3<br/>(due 2/10)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 2/07</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>6. Algorithmic Complexity<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment">6. Algorithmic Complexity</a><br/>
       (due 2/14)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 2/08 </th> <!-- Date -->
-      <td>7. Social Implications I</td> <!-- Lecture -->
+      <td>7. Social Implications I <br/>
+      <a href="https://drive.google.com/file/d/1SBdaUFI5S6ybVtAIIQKRRcGd9b5HpeKo/view?usp=sharing">(Slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -200,7 +201,8 @@
     <tr>
       <td rowspan=5>5</td>
       <th>Mon 2/13</th> <!-- Date -->
-      <td>8. Social Implications II</td> <!-- Lecture -->
+      <td>8. Social Implications II <br/>
+      <a href = "https://drive.google.com/file/d/1JMg9rSPftyercHZtV49Qc9dCtHrYdVPi/view?usp=share_link">(slides)</a> </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -210,24 +212,25 @@
       <th>Tue 2/14</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>7. Boards<br/>
+      <td>7. <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic">Boards</a><br/>
       (due 2/16)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 2/15</th> <!-- Date -->
-      <td>9. Testing + 2048</td> <!-- Lecture -->
+      <td>9. Testing + 2048<br/>
+      <a href="https://drive.google.com/file/d/1JhXdmV80FBl-efc4EY04JMBJgT7qNMRT/view?usp=share_link">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>PROJ 2 Due</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 2/16</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>8. Testing + 2048<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic">8. Testing + 2048</a><br/>
       (due 2/21)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -239,7 +242,8 @@
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/sp23/discussion/">5. Algorithmic Complexity</a></td> <!-- Discussion -->
       <td>PROJ 3: 2048<br/>
-      (due 3/02)</td> <!-- Assignment -->
+      (due 3/02) <!-- Assignment -->
+      PROJ 2 Due</td>
     </tr>
     <!-- WEEK SIX ------------------------------------------------------------ -->
     <tr>
@@ -262,7 +266,9 @@
     </tr>
     <tr>
       <th>Wed 2/22</th> <!-- Date -->
-      <td>10. Recursion I</td> <!-- Lecture -->
+      <td>10. Recursion I <br/>
+      <a href = "https://drive.google.com/file/d/1KNlUqf-FrETCnOiq0zaSvgrqF7FRmgLc/view?usp=share_link">(slides)</a>
+      <a href="https://drive.google.com/file/d/1KMLfiRmgBfZ4fcY8TzyzzIM0Wg2a8ppy/view?usp=share_link">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -288,7 +294,10 @@
     <tr>
       <td rowspan=5>7</td>
       <th>Mon 2/27</th> <!-- Date -->
-      <td>11. Recursion II (Fractals)</td> <!-- Lecture -->
+      <td>11. Recursion II (Fractals) <br/>
+      <a href = "https://drive.google.com/file/d/1KNlUqf-FrETCnOiq0zaSvgrqF7FRmgLc/view?usp=share_link">(slides)</a>
+      <a href = "https://drive.google.com/file/d/1KqCkYZX1j7NyzRcpw9KcsD5flqRR70Po/view?usp=share_link">(code)</a>
+      </td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 7 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -306,7 +315,11 @@
     </tr>
     <tr>
       <th>Wed 3/01 </th> <!-- Date -->
-      <td>12. Recursion III (Count Change)</td> <!-- Lecture -->
+      <td>12. Recursion III (Count Change) <br/>
+      <a href="https://drive.google.com/file/d/1L8VRudLlTi9Jxz8NY2vEeFisiPDd8vBV/view?usp=share_link">(slides)</a>
+      <a href="https://drive.google.com/file/d/1LFzuc4yYtMlN1F1AWPaHDlROpiq5uMsh/view?usp=sharing">(code)</a>
+      <a href="https://drive.google.com/drive/folders/1LBqTZJIRNOg3mhBxWYY6mF-ZEQoSzgZ-?usp=share_link">(movies)</a>
+      </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -335,7 +348,9 @@
     <tr>
       <td rowspan=5>8</td>
       <th>Mon 3/06</th> <!-- Date -->
-      <td>13. Procedures as Data (HOFs)</td> <!-- Lecture -->
+      <td>13. Procedures as Data (HOFs) <br/>
+      <a href="https://drive.google.com/file/d/1LfSgMvV31rdOmjG7YLR_D1ZevqQ36hCQ/view?usp=share_link">(slides)</a>
+      <a href="https://drive.google.com/drive/folders/1LKMGeEFzVMWr45X4b7KjqR7BOPG2JUVJ?usp=share_link">(code)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 8 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -353,7 +368,8 @@
     </tr>
     <tr>
       <th>Wed 3/08</th> <!-- Date -->
-      <td>14. Programming Paradigms</td> <!-- Lecture -->
+      <td>14. Programming Paradigms <br/><a href="https://drive.google.com/file/d/1MaBxWkptD2Gd_8Lj90gTM4uJswza1WjP/view?usp=share_link">(slides)</a>
+      <a href="https://drive.google.com/drive/folders/1LsYJmxRloim1-mpuWPWKmytbWuPeK2dn?usp=share_link">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->

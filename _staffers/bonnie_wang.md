@@ -1,6 +1,6 @@
 ---
 name: Bonnie Wang
-role: AI
+role: 
 email: bonniew26@
 website: https://www.linkedin.com/in/bonnie-wang-293782227/
 photo: Bonnie.png

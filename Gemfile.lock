@@ -317,6 +317,7 @@ PLATFORMS
 DEPENDENCIES
   bootstrap (~> 5.2)
   github-pages
+  jekyll (~> 3.9)
   webrick (~> 1.7)
 
 BUNDLED WITH
