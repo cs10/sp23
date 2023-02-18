@@ -241,7 +241,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/sp23/discussion/">5. Algorithmic Complexity</a></td> <!-- Discussion -->
-      <td>PROJ 3: 2048<br/>
+      <td><a href="https://docs.google.com/document/d/1xJz6T6jkKOYWCuT_-6OTX601-dmaz1WRCcqBjH_053o/edit?usp=sharing"><b>PROJ 3: 2048 RELEASED</b></a><br/>
       (due 3/02) <!-- Assignment -->
       PROJ 2 Due</td>
     </tr>
