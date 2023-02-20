@@ -259,7 +259,7 @@
       <th>Tue 2/21</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 6 Readings</a></td> <!-- Readings -->
-      <td>9. Trees & Fractals<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">9. Trees & Fractals</a><br/>
       (due 2/28)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>RQ 4<br/>(due 2/24)</td> <!-- Assignment -->

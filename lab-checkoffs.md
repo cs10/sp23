@@ -82,15 +82,15 @@ labs:
       - What is the domain and range of the update display block?
       - Show us the output of your test block on the merge column. Explain why this output makes sense.
 
-  # - lab_name: Trees and Fractals
-  #   lab_no: 9
-  #   topic_file: berkeley_bjc/recur/recursion-trees-fractals.topic
-  #   questions:
-  #     - Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?
-  #     - Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?
-  #     - What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
-  #     - Please show me your `snowflake` block.
-  #     - Please show me your `crazy-tree` block.
+  - lab_name: Trees and Fractals
+    lab_no: 9
+    topic_file: berkeley_bjc/recur/recursion-trees-fractals.topic
+    questions:
+      - Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?
+      - Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?
+      - What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
+      - Please show me your `snowflake` block.
+      - Please show me your `crazy-tree` block.
   
   # - lab_name: Recursive Reporters
   #   lab_no: 10
