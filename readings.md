@@ -33,12 +33,12 @@ This page will be updated with links to readings throughout the semester.
   - [The 10 Algorithms That Dominate Our World](http://io9.gizmodo.com/the-10-algorithms-that-dominate-our-world-1580110464)
   - Reading Quiz Question: Talk about an algorithm mentioned in one of the readings. Why was it implemented/what problem was it trying to solve? What consequences came about as a result? Do you think the benefits of algorithms outweigh their potential consequences? Why or why not?
 
-<!-- 
-<!--**Week 6 Reading (for RQ 4)**{: .label .label-reading }
+
+**Week 6 Reading (for RQ 4)**{: .label .label-reading }
 
 - Required:
   - [Blown to Bits: Chapter 1](http://cs10.org/sp19/resources/readings/btb/chapter1.pdf)
-  - [Big O Notation — Simply explained](https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/) -->
+  - [Big O Notation — Simply explained](https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/)
 
 <!-- **Week 7 Reading**{: .label .label-reading }
 
