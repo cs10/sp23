@@ -1,7 +1,7 @@
 ---
 name: Imen Guechtouli
 role: Head TA
-email: imen@
+email: cs10@, imen@
 website: https://www.linkedin.com/in/imenguechtouli/
 photo: imen.jpg
 ---
