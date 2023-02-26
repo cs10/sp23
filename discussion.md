@@ -20,3 +20,5 @@ This page will be updated with discussion worksheets and solutions throughout th
 **Discussion 5**{: .label .label-discussion } Algorithmic Complexity | [worksheet](https://drive.google.com/file/d/1Bm7xFN3L9RFKUlGpp4or-MoGyr6KJnM6/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1knuIbn14WHXFwp9FNXcQSR8vwoB4gUw3/view?usp=share_link) | [recording](https://drive.google.com/file/d/1RtBfLBMV6Td2BHRtnvJjRK23za6MgPv-/view?usp=sharing)
 
 **Discussion 6**{: .label .label-discussion } Recursion I | [worksheet](https://drive.google.com/file/d/1xZD0G1klfhIabX0KKZldjqEt9dWS4lNE/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1RWY8WEwhPSTDCXjHocRzkYQkLuZ2Gepz/view?usp=share_link) | [recording](https://youtu.be/WC04d2Oxj2E)
+
+**Discussion 7**{: .label .label-discussion } Recursion II | [worksheet](https://drive.google.com/file/d/1iRY_WGu9sS3-hlhahOypRo6M1eU48HZn/view?usp=share_link)
