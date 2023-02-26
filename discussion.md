@@ -17,6 +17,6 @@ This page will be updated with discussion worksheets and solutions throughout th
 
 **Discussion 4**{: .label .label-discussion } Algorithms | [worksheet](https://drive.google.com/file/d/10y6F26Apf8X4IIHRY-tk55GnJ_Zw8eoE/view?usp=share_link) | [solutions](https://drive.google.com/file/d/16p-g3S9gJWCCYHR8xsi1f0DMdFtEcL7x/view?usp=share_link) | [recording](https://drive.google.com/file/d/12HO77T3Eea_AN86sUyKQSB_GAm-K59KA/view?usp=share_link) 
 
-**Discussion 5**{: .label .label-discussion } Algorithmic Complexity | [worksheet](https://drive.google.com/file/d/1Bm7xFN3L9RFKUlGpp4or-MoGyr6KJnM6/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1knuIbn14WHXFwp9FNXcQSR8vwoB4gUw3/view?usp=share_link)
+**Discussion 5**{: .label .label-discussion } Algorithmic Complexity | [worksheet](https://drive.google.com/file/d/1Bm7xFN3L9RFKUlGpp4or-MoGyr6KJnM6/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1knuIbn14WHXFwp9FNXcQSR8vwoB4gUw3/view?usp=share_link) | [recording](https://drive.google.com/file/d/1RtBfLBMV6Td2BHRtnvJjRK23za6MgPv-/view?usp=sharing)
 
-**Discussion 6**{: .label .label-discussion } Recursion I | [worksheet](https://drive.google.com/file/d/1xZD0G1klfhIabX0KKZldjqEt9dWS4lNE/view?usp=share_link)
+**Discussion 6**{: .label .label-discussion } Recursion I | [worksheet](https://drive.google.com/file/d/1xZD0G1klfhIabX0KKZldjqEt9dWS4lNE/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1RWY8WEwhPSTDCXjHocRzkYQkLuZ2Gepz/view?usp=share_link) | [recording](https://youtu.be/WC04d2Oxj2E)
