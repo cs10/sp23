@@ -92,15 +92,15 @@ labs:
       - Please show me your `snowflake` block.
       - Please show me your `crazy-tree` block.
   
-  # - lab_name: Recursive Reporters
-  #   lab_no: 10
-  #   topic_file: berkeley_bjc/recur/recursive-reporters-part1.topic
-  #   questions:
-  #     - Why do we map the first item of the set in front of a recursive call of subsets over the rest of the list?
-  #     - Explain why the second version of subsets only makes 7 calls instead of 64.
-  #     - Explain how the sort block works, how the merge block works, and how they work together.
-  #     - Show us the recursive numbers block.
-  #     - Show us the recursive ends-e block.
+  - lab_name: Recursive Reporters
+    lab_no: 10
+    topic_file: berkeley_bjc/recur/recursive-reporters-part1.topic
+    questions:
+      - Why do we map the first item of the set in front of a recursive call of subsets over the rest of the list?
+      - Explain why the second version of subsets only makes 7 calls instead of 64.
+      - Explain how the sort block works, how the merge block works, and how they work together.
+      - Show us the recursive numbers block.
+      - Show us the recursive ends-e block.
 
   # - lab_name: HOFS and Functions as Data
   #   lab_no: 11
