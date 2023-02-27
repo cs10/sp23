@@ -33,7 +33,8 @@ Below, you can find various resources to help with your understanding of the mat
 
 ## Project Walkthroughs and Hint Videos
 
-* [Project 1: Matching Slots Getting Started Video](https://drive.google.com/file/d/1cGPSgDZz56jPghbzh2wnFYYCdw55ms8I/view?usp=sharing)
+* [Project 1: Matching Slots](https://drive.google.com/file/d/1cGPSgDZz56jPghbzh2wnFYYCdw55ms8I/view?usp=sharing)
+* [Project 3: Algorithms](https://www.youtube.com/playlist?list=PL34ReHGfKCa93yNL1WZacxM3nG8zJndfQ)
 
 ## Past Exams
 
@@ -48,6 +49,13 @@ Below, you can find various resources to help with your understanding of the mat
 | Summer 2018 | - | [Exam](http://cs10.org/sp20/exams/midterm/2018Su/exam.pdf) [Solutions](http://cs10.org/sp20/exams/midterm/2018Su/answers.pdf) | [Exam](http://cs10.org/sp20/exams/in-lab-midterm/2018Su/exam.pdf) [Solutions](http://cs10.org/sp20/exams/in-lab-midterm/2018Su/answers.pdf) | [Exam](http://cs10.org/sp20/exams/final/2018Su/exam.pdf) [Solutions](http://cs10.org/sp20/exams/final/2018Su/answers.pdf) | [Exam](http://cs10.org/sp20/exams/in-lab-final/2018Su/exam.pdf) [Solutions](http://cs10.org/sp20/exams/in-lab-final/2018Su/answers.pdf) |
 | Spring 2018 | [Exam](http://cs10.org/sp20/exams/quest/2018Sp/exam.pdf) [Solutions](http://cs10.org/sp20/exams/quest/2018Sp/answers.pdf) | [Exam Part 1](http://cs10.org/sp20/exams/midterm/2018Sp/exam1.pdf) [Solutions Part 1](http://cs10.org/sp20/exams/midterm/2018Sp/answers1.pdf) [Exam Part 2](http://cs10.org/sp20/exams/midterm/2018Sp/exam2.pdf) [Solutions Part 2](http://cs10.org/sp20/exams/midterm/2018Sp/answers2.pdf) | [Exam](http://cs10.org/sp20/exams/in-lab-midterm/2018Sp/exam.pdf) [Solutions](http://cs10.org/sp20/exams/in-lab-midterm/2018Sp/answers.pdf) | [Exam](http://cs10.org/sp20/exams/final/2018Sp/exam.pdf) [Solutions](http://cs10.org/sp20/exams/final/2018Sp/answers.pdf) | [Exam](http://cs10.org/sp20/exams/in-lab-final/2018Sp/exam.pdf) [Solutions](http://cs10.org/sp20/exams/in-lab-final/2018Sp/answers.pdf) |
 | Summer 2017 | - | [Exam](http://cs10.org/sp20/exams/midterm/2017Su/exam.pdf) [Solutions](http://cs10.org/sp20/exams/midterm/2017Su/answers.pdf) | - | [Exam](http://cs10.org/sp20/exams/final/2018Su/exam.pdf) [Solutions](http://cs10.org/sp20/exams/final/2018Su/answers.pdf) | - |
+
+## Exam Walkthroughs
+* [Spring 2020 Quest](https://youtu.be/v38P5quvoMc)
+* [Fall 2019 Paper Exam](https://drive.google.com/file/d/1Dr8B2KYtgWigDWvwbp7LxN9STVpZh62J/view)
+* [Spring 2019 In Lab Final](https://youtube.com/playlist?list=PLVjI1AKNyfVPgZJiKuE86KdmfYFPpDEDQ)
+* [Summer 2022 In Lab Final](https://drive.google.com/file/d/1OyR9Zk3q11Xi6xqzQSmq8QdVb3OVHjIW/view)
+* [Summer 2022 Paper Final](https://youtube.com/playlist?list=PLVjI1AKNyfVOnDpcdm4Mf53ARt2u85YuW)
 
 ## Other
 [EECS Incident Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSc4NYHdUJ8IzYA1SoiTinWBybGWkj0mfmdnHAeygAxkZajelQ/viewform)
