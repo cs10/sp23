@@ -1,7 +1,7 @@
 ---
 name: Vedansh Malhotra
 role: Head TA
-email: vedansh@
+email: cs10@, vedansh@
 website: https://www.linkedin.com/in/vedanshmalhotra/
 photo: vedansh.png
 ---

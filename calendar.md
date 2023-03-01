@@ -308,7 +308,7 @@
       <th>Tue 2/28</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>10. Recursive Reporters<br/>
+      <td><a href= "https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">10. Recursive Reporters</a><br/>
       (due 3/07)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->

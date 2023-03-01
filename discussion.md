@@ -13,8 +13,12 @@ This page will be updated with discussion worksheets and solutions throughout th
 
 **Discussion 2**{: .label .label-discussion } Number Rep & Control | [worksheet](https://drive.google.com/file/d/1k3XqkXdhOc-B70S4oiIUDVkBt5qZH4Ly/view?usp=share_link) | [solutions](https://drive.google.com/file/d/16B9kV_CFxOAJbu2hxkduDeQY0MloYkiG/view?usp=sharing) | [notes/slides](https://drive.google.com/file/d/1YUkszs8uK9e7gOqQGctzM88ATomybowM/view?usp=share_link) | [recording](https://youtu.be/FbnrmYiKFvY)
 
-**Discussion 3**{: .label .label-discussion } Domain/Range, Scoping, Lists & HOFs | [worksheet](https://drive.google.com/file/d/1oq1g-s0NMGbvBG9nEgepYs9NFFZKg-hE/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1JB9ENoZwtxEZ4LqzRW29xgLNRVYpUaEh/view?usp=share_link) | [recording](https://drive.google.com/file/d/1hz0RDc-sBmVRez95fNUwZUPHaLorKQs1/view?usp=share_link)
+**Discussion 3**{: .label .label-discussion } Domain/Range, Scoping, Lists & HOFs | [worksheet](https://drive.google.com/file/d/1oq1g-s0NMGbvBG9nEgepYs9NFFZKg-hE/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1JB9ENoZwtxEZ4LqzRW29xgLNRVYpUaEh/view?usp=share_link) | [recording](https://drive.google.com/file/d/1CabrXD9RDKQWQeal1HTBXPYS7f69Y_bn/view)
 
 **Discussion 4**{: .label .label-discussion } Algorithms | [worksheet](https://drive.google.com/file/d/10y6F26Apf8X4IIHRY-tk55GnJ_Zw8eoE/view?usp=share_link) | [solutions](https://drive.google.com/file/d/16p-g3S9gJWCCYHR8xsi1f0DMdFtEcL7x/view?usp=share_link) | [recording](https://drive.google.com/file/d/12HO77T3Eea_AN86sUyKQSB_GAm-K59KA/view?usp=share_link) 
 
-**Discussion 5**{: .label .label-discussion } Algorithmic Complexity | [worksheet](https://drive.google.com/file/d/1Bm7xFN3L9RFKUlGpp4or-MoGyr6KJnM6/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1knuIbn14WHXFwp9FNXcQSR8vwoB4gUw3/view?usp=share_link)
+**Discussion 5**{: .label .label-discussion } Algorithmic Complexity | [worksheet](https://drive.google.com/file/d/1Bm7xFN3L9RFKUlGpp4or-MoGyr6KJnM6/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1knuIbn14WHXFwp9FNXcQSR8vwoB4gUw3/view?usp=share_link) | [recording](https://drive.google.com/file/d/1RtBfLBMV6Td2BHRtnvJjRK23za6MgPv-/view?usp=sharing)
+
+**Discussion 6**{: .label .label-discussion } Recursion I | [worksheet](https://drive.google.com/file/d/1xZD0G1klfhIabX0KKZldjqEt9dWS4lNE/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1RWY8WEwhPSTDCXjHocRzkYQkLuZ2Gepz/view?usp=share_link) | [recording](https://youtu.be/WC04d2Oxj2E)
+
+**Discussion 7**{: .label .label-discussion } Recursion II | [worksheet](https://drive.google.com/file/d/1iRY_WGu9sS3-hlhahOypRo6M1eU48HZn/view?usp=share_link)
