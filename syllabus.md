@@ -128,6 +128,8 @@ We understand that circumstances may arise that may cause you to not be able to 
 
 - A regular extension request will grant you an extra lab section in order to complete the lab assignment. For instance, if the lab is due on a Tuesday, then the extension request will make the lab due on a Thursday instead.
 
+<i>[Note: This project extension form [linked here](https://forms.gle/reei8fK3hocJK6wPA) is the temporary form we will be using as of 03/02/2023. We are currently fixing the original one, but feel free to use this link in the meantime. If you submitted an extension before 03/02, please submit again.]</i>
+
 <b>For extension requests on PROJECTS,</b> please use this [PROJECT regular extension requests form](https://forms.gle/x15LTmH9QXMrfKu48) to request extensions on deadlines for any projects. The policy for regular extension requests on projects are as follows:
 
 - A regular extension request will grant that your submission deadline for the project be extended to the <i>deadline of the next project.</i> For instance, if you request an extension for Project 1, your new deadline for submitting Project 1 will be the same day that Project 2 is due.
@@ -144,6 +146,8 @@ Extension requests are <i>automatically approved</i> after submission of the for
 ## Exceptional and Extenuating Circumstances
 
 For emergency situations that require extra time <b>for LABS</b> that a regular extension request cannot resolve, please fill out the [LAB emergency extension requests form](https://forms.gle/wAKdLwSE58qzXMZv8). <b>After filling out the LAB emergency form, you MUST speak with your TA in section in order for your request to be considered.</b>
+
+<i>[Note: The project extension form below is temporarily down as of 03/02/2023. We are currently fixing the original one, but feel free to email cs10@ in the meantime if you need an emergency extension request.]</i>
 
 <b>For projects</b> please fill out this [PROJECT emergency extension requests form](https://forms.gle/45sGRf1o7x4A2cWY6) instead. The extensions granted for such circumstances are double the time allotted for regular extension requests. (This means two extra lab sections for labs, and project <i>n</i> will get extended to be due on the deadline of project <i>n+2</i>. For projects such that <i>n + 2 > 6</i> (a.k.a Projects 5 and 6), we will personally work out a deadline for submission and/or discuss options of taking an Incomplete.)
 
