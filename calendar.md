@@ -295,7 +295,7 @@
       <td rowspan=5>7</td>
       <th>Mon 2/27</th> <!-- Date -->
       <td>11. Recursion II (Fractals) <br/>
-      <a href = "https://drive.google.com/file/d/1KNlUqf-FrETCnOiq0zaSvgrqF7FRmgLc/view?usp=share_link">(slides)</a>
+      <a href = "https://drive.google.com/file/d/1KZ5ID09mG3aeTpdNg6jkwfBl11pxPsmd/view?usp=share_link">(slides)</a>
       <a href = "https://drive.google.com/file/d/1KqCkYZX1j7NyzRcpw9KcsD5flqRR70Po/view?usp=share_link">(code)</a>
       </td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 7 Readings</a></td> <!-- Readings -->
@@ -397,7 +397,8 @@
     <tr>
       <td rowspan=5>9</td>
       <th>Mon 3/13</th> <!-- Date -->
-      <td>15. Python I</td> <!-- Lecture -->
+      <td>15. Python I</td><br/>
+      <a href="https://drive.google.com/file/d/1Opfqx60R2s0u8KpU8ZnA7ebgYDQA-ULX/view?usp=share_link"></a> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
