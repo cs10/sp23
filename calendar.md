@@ -339,7 +339,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://cs10.org/sp23/discussion/">7. Recursion II</a></td> <!-- Discussion -->
-      <td>PROJ 4: Explore Post<br/>
+      <td><a href="https://docs.google.com/document/d/11ls_i2ZUZHYHgkSaLXk8GO3yS_3SR6y_wdwPeyix3qE/edit?usp=sharing"><b>PROJ 4: Explore Post RELEASED</b></a><br/>
       (post: due 3/20)<br/>
       (comments: due 3/24)<br/><br/>
       RQ 5 Due</td> <!-- Assignment -->
