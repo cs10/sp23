@@ -16,7 +16,8 @@ Below, you can find various resources to help with your understanding of the mat
 
 
 ## Content Guides and Videos
-
+* [Mehul's Fractal Review Video](https://youtu.be/ioOvJ9S268s)
+* [Mehul's Fractal Review Slides](https://docs.google.com/presentation/d/10TgeE-YHSQOW5JmK9qf9BBfD83pj9zDcuZ8SnGyR7P4/edit?usp=sharing)
 * [Yolanda's For-Loop Guide](https://docs.google.com/document/u/1/d/e/2PACX-1vQYoK-JYX_voUwliAbcn1oyvvgZSurn2C1E72Y8Qf9HeFTr2fFBbgPxpnYTMaR0Rkn82F8-Fq7QxzK6/pub?embedded=true)
 * [Yolanda's Guide to Commenting Your Code](https://docs.google.com/document/u/1/d/e/2PACX-1vSrtiqOPprVJ327uvCj9aRGXJYGP9hjOMJyz_vSxK237PNnTCYumvE24QYcbmA_Xy8voUPOqHzXtZOO/pub?embedded=true)
 * [Yolanda's Debugging Walkthrough](https://www.youtube.com/watch?v=nAgsZ_fVcw0&t=6s)
@@ -52,8 +53,12 @@ Below, you can find various resources to help with your understanding of the mat
 
 ## Exam Walkthroughs
 * [Spring 2020 Quest](https://youtu.be/v38P5quvoMc)
-* [Fall 2019 Paper Exam](https://drive.google.com/file/d/1Dr8B2KYtgWigDWvwbp7LxN9STVpZh62J/view)
+* [Fall 2019 Paper Final](https://drive.google.com/file/d/1Dr8B2KYtgWigDWvwbp7LxN9STVpZh62J/view)
+* [Fall 2019 In Lab Midterm](https://drive.google.com/file/d/1JmpiLRFYjk-_7plYcDDyzmGgRQv3bO7_/view)
 * [Spring 2019 In Lab Final](https://youtube.com/playlist?list=PLVjI1AKNyfVPgZJiKuE86KdmfYFPpDEDQ)
+* [Fall 2018 In Lab Midterm](https://youtu.be/V17VqEmAs8I)
+* [Spring 2018 Paper Midterm Part-1](https://drive.google.com/file/d/1jmaPADadANdxP8hJdce__TGmUyqsUZ0k/view)
+* [Spring 2018 Paper Midterm Part-2](https://drive.google.com/file/d/1sBu17ih8SVTp5SEuFRAlkb9j0VV6mmge/view)
 * [Summer 2022 In Lab Final](https://drive.google.com/file/d/1OyR9Zk3q11Xi6xqzQSmq8QdVb3OVHjIW/view)
 * [Summer 2022 Paper Final](https://youtube.com/playlist?list=PLVjI1AKNyfVOnDpcdm4Mf53ARt2u85YuW)
 
