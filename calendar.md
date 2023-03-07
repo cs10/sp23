@@ -361,8 +361,8 @@
       <th>Tue 3/07</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>11. Functions as Data (HOFs)<br/>
-      (due 3/16)</td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment">11. Functions as Data (HOFs)<\a><br/>
+      (due 3/14)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
