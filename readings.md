@@ -47,10 +47,10 @@ This page will be updated with links to readings throughout the semester.
 - Optional:
   - [Cogs in the Machine of Our Own Lives](https://drive.google.com/drive/folders/1liEi-2_a8yPSfgaApedtHIWWTVX2-_kN)
 
-<!-- **Week 8 Reading (for RQ 6)**{: .label .label-reading }
+**Week 8 Reading (for RQ 6)**{: .label .label-reading }
 
 - Required:
-  - [These are the sneaky ways apps like Instagram, Facebook, Tinder lure you in and get you 'addicted'](https://www.businessinsider.com/how-app-developers-keep-us-addicted-to-our-smartphones-2018-1) -->
+  - [These are the sneaky ways apps like Instagram, Facebook, Tinder lure you in and get you 'addicted'](https://www.businessinsider.com/how-app-developers-keep-us-addicted-to-our-smartphones-2018-1)
 
 <!-- **Week 9 Reading (for RQ 7)**{: .label .label-reading }
 - Required:
