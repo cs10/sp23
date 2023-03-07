@@ -21,4 +21,6 @@ This page will be updated with discussion worksheets and solutions throughout th
 
 **Discussion 6**{: .label .label-discussion } Recursion I | [worksheet](https://drive.google.com/file/d/1xZD0G1klfhIabX0KKZldjqEt9dWS4lNE/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1RWY8WEwhPSTDCXjHocRzkYQkLuZ2Gepz/view?usp=share_link) | [recording](https://youtu.be/WC04d2Oxj2E)
 
-**Discussion 7**{: .label .label-discussion } Recursion II | [worksheet](https://drive.google.com/file/d/1iRY_WGu9sS3-hlhahOypRo6M1eU48HZn/view?usp=share_link)
+**Discussion 7**{: .label .label-discussion } Recursion II | [worksheet](https://drive.google.com/file/d/1iRY_WGu9sS3-hlhahOypRo6M1eU48HZn/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1XBhiEKSJmpTSqp2I66XCfR-PDdeRJhRA/view?usp=share_link) | [recording](https://drive.google.com/file/d/1RZFI-7Xo93IMfEe8AfvUkD3BH5spgA8s/view?usp=sharing)
+
+**Discussion 8**{: .label .label-discussion } Python Basics | [worksheet](https://drive.google.com/file/d/1mupBJDXNJcDbW3RDrJjgc6GAZujboVWl/view?usp=share_link)
