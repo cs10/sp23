@@ -398,7 +398,7 @@
       <td rowspan=5>9</td>
       <th>Mon 3/13</th> <!-- Date -->
       <td>15. Python I</td><br/>
-      <a href="https://drive.google.com/file/d/1Opfqx60R2s0u8KpU8ZnA7ebgYDQA-ULX/view?usp=share_link"></a> <!-- Lecture -->
+      <a href="https://drive.google.com/file/d/1Opfqx60R2s0u8KpU8ZnA7ebgYDQA-ULX/view?usp=sharing">(slides)</a> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
