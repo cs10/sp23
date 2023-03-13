@@ -111,15 +111,15 @@ labs:
      - Show us your `factorion` block and explain how it works.
      - Show us your `list all factorions` function. How does this compare to the `list all pandigital numbers` function?
 
-  # - lab_name: Welcome to Python
-  #   lab_no: 12
-  #   topic_file: berkeley_bjc/python/besides-blocks-welcome-parsons.topic
-  #   questions:
-  #   - What is the difference between the `python`, `python file.py`, and `python -i file.py` terminal commands?
-  #   - What is the difference between the `print` and `return` Python commands?
-  #   - Show your `reverse_string(string)`` function. If you implemented it iteratively, explain the recursive solution. If you implemented it recursively, explain the iterative solution.
-  #   - Show your `palindrome(string)` function.
-  #   - Show your c-curve function and its output.
+  - lab_name: Welcome to Python
+    lab_no: 12
+    topic_file: berkeley_bjc/python/besides-blocks-welcome-parsons.topic
+    questions:
+     - What is the difference between the `python`, `python file.py`, and `python -i file.py` terminal commands?
+     - What is the difference between the `print` and `return` Python commands?
+     - Show your `reverse_string(string)`` function. If you implemented it iteratively, explain the recursive solution. If you implemented it recursively, explain the iterative solution.
+     - Show your `palindrome(string)` function.
+     - Show your c-curve function and its output.
 
   # - lab_name: Data Structures in Python
   #   lab_no: 13
