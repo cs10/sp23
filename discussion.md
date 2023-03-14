@@ -23,4 +23,4 @@ This page will be updated with discussion worksheets and solutions throughout th
 
 **Discussion 7**{: .label .label-discussion } Recursion II | [worksheet](https://drive.google.com/file/d/1iRY_WGu9sS3-hlhahOypRo6M1eU48HZn/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1XBhiEKSJmpTSqp2I66XCfR-PDdeRJhRA/view?usp=share_link) | [recording](https://drive.google.com/file/d/1RZFI-7Xo93IMfEe8AfvUkD3BH5spgA8s/view?usp=sharing)
 
-**Discussion 8**{: .label .label-discussion } Python Basics | [worksheet](https://drive.google.com/file/d/1mupBJDXNJcDbW3RDrJjgc6GAZujboVWl/view?usp=share_link)
+**Discussion 8**{: .label .label-discussion } Python Basics | [worksheet](https://drive.google.com/file/d/1mupBJDXNJcDbW3RDrJjgc6GAZujboVWl/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1px1wcnh1mX4xyuTsO0ijR8Jem-x5ml-w/view?usp=share_link) | [recording](https://drive.google.com/file/d/1ka00W-sCg0eZAB8bve0C-CgL2-2sSStH/view?usp=sharing)
