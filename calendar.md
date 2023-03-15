@@ -415,7 +415,9 @@
     </tr>
     <tr>
       <th>Wed 3/15</th> <!-- Date -->
-      <td>Guest Lecture</td> <!-- Lecture -->
+      <td>Guest Lecture: Human-Computer Interactoin</b>
+      <a href="https://drive.google.com/file/d/1hBAo8mQNB9veJK_zmDccJUfYID9GDevd/view?usp=sharing">(slides)</a>
+      <a href="https://people.eecs.berkeley.edu/~bjoern/">(Professor Björn Hartmann)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
