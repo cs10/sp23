@@ -446,7 +446,8 @@
     <tr>
       <td rowspan=5>10</td>
       <th>Mon 3/20</th> <!-- Date -->
-      <td>16. Python II</td> <!-- Lecture -->
+      <td>16. Python II<nr/>
+      <a href="https://drive.google.com/file/d/1fkRfYeRDq1Djyv1bRJ0AiBaTuvPeYs2z/view?usp=share_link">(slides)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 10 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
