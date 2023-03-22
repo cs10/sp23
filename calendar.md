@@ -452,7 +452,7 @@
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 4 (post) DUE<br/><br/>
-      <b><a href="https://cbt-dev.berkeley.edu/pl/course_instance/57/assessment_instance/88133">PROJ 5: Pyturis RELEASED</b></a><br/>(due 4/05)<br/><br/>
+      <a href="https://cbt-dev.berkeley.edu/pl/course_instance/57/assessment_instance/88133"><b>PROJ 5: Pyturis RELEASED</b></a><br/>(due 4/05)<br/><br/>
       RQ 7<br/>(due 3/24)</td> <!-- Assignment -->
     </tr>
     <tr>
@@ -466,8 +466,10 @@
     </tr>
     <tr>
       <th>Wed 3/22</th> <!-- Date -->
-      <td>Guest Lecture: Limits of Computing (Victor Huang)<br/>
-      <a href="http://bit.ly/compsci10">(slides)<br/></a></td> <!-- Lecture -->
+      <td>Guest Lecture: Limits of Computing<br/>
+      <a href="https://docs.google.com/presentation/d/1BNWRtdqwacISVAWg-n_FbbWeigrwNFb7wsfIm9MLqhA">(slides)<br/></a>
+      <a href="https://www.linkedin.com/in/victor-huang-1a13476a/">(Victor Huang)<br/></a>
+      </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
