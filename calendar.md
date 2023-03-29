@@ -447,7 +447,7 @@
       <td rowspan=5>10</td>
       <th>Mon 3/20</th> <!-- Date -->
       <td>16. Python II<nr/>
-      <a href="https://drive.google.com/file/d/1fkRfYeRDq1Djyv1bRJ0AiBaTuvPeYs2z/view?usp=share_link">(slides)</a>
+      <a href="https://drive.google.com/file/d/1fkRfYeRDq1Djyv1bRJ0AiBaTuvPeYs2z/view?usp=share_link">(slides)<br/></a>
       <a href="https://www.youtube.com/watch?v=KDORfFLIEAU&list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ&index=19">(recording from Fa22)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 10 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
