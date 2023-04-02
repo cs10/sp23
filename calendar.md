@@ -554,7 +554,7 @@
       <th>Tue 4/04</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>15. Text Processing in Python<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment"> 15. Text Processing in Python</a><br/>
       (due 4/13)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>FINAL PROJ<br/>(due 4/28)</td> <!-- Assignment -->

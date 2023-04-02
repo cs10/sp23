@@ -139,16 +139,16 @@ labs:
      - Name two different ways to assign instance attributes.
      - Show us your `outdated` and `add_genre` methods, as well as what the autograder outputs.
   
-  # - lab_name: Text Processing in Python
-  #   lab_no: 15
-  #   topic_file: berkeley_bjc/python/besides-blocks-text-processing.topic
-  #   questions:
-  #   - What are the arguments of the "open" function and what does it return?
-  #   - How do we choose how something is sorted when using the "sorted" function in Python?
-  #   - Show us your `izzle` or `pig_latin` function.
-  #   - Show us your `top_n_words` and "print_top_n_words" functions.
-  #   - Show us your `apply_language_game` function.
-  #   - Show us the result of running the autograder.
+  - lab_name: Text Processing in Python
+    lab_no: 15
+    topic_file: berkeley_bjc/python/besides-blocks-text-processing.topic
+    questions:
+     - What are the arguments of the "open" function and what does it return?
+     - How do we choose how something is sorted when using the "sorted" function in Python?
+     - Show us your `izzle` or `pig_latin` function.
+     - Show us your `top_n_words` and "print_top_n_words" functions.
+     - Show us your `apply_language_game` function.
+     - Show us the result of running the autograder.
 
   # - lab_name: Data Science
   #   lab_no: 16
