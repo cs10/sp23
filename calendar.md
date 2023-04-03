@@ -542,7 +542,9 @@
     <tr>
       <td rowspan=5>12</td>
       <th>Mon 4/03</th> <!-- Date -->
-      <td>17. Python III (OOP)</td> <!-- Lecture -->
+      <td>17. Python III (OOP)<br/>
+      <a href="https://drive.google.com/file/d/1Pd3_1agy_gKik6HYBwQUdeJapQaPPXjq/view?usp=share_link">(slides)</a>
+      <a href="https://drive.google.com/drive/folders/1OwXesj0PvDFDj6LwSXx7JzVitjJYGnOF?usp=share_link">(code)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 12 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
