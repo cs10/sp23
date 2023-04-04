@@ -592,7 +592,8 @@
     <tr>
       <td rowspan=5>13</td>
       <th>Mon 4/10</th> <!-- Date -->
-      <td>21. Social Implications III</td> <!-- Lecture -->
+      <td>21. Guest Lecture: The Future of Programming<br/>
+      <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/schasins.html">(Professor Sarah Chasins)<br/></a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 13 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -608,7 +609,9 @@
     </tr>
     <tr>
       <th>Wed 4/12</th> <!-- Date -->
-      <td>22. Python V (Tree Recursion, Game Theory)</td> <!-- Lecture -->
+      <td>22. Python V (Tree Recursion, Game Theory)<br/>
+      <a href="https://drive.google.com/file/d/1UD2Kr-W0MN_WbDbXPyJfzNviHZH8z2Np/view?usp=share_link">(slides)</a>
+      <a href="https://drive.google.com/drive/folders/1UCvV2q6UbZJ5mOCx-u5LTio3_979ujsN?usp=share_link">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -635,7 +638,8 @@
     <tr>
       <td rowspan=5>14</td>
       <th>Mon 4/17</th> <!-- Date -->
-      <td>23. Concurrency</td> <!-- Lecture -->
+      <td>23. Concurrency<br/>
+      <a href="https://drive.google.com/file/d/1UIztIsRJ9mmMO28aKgR6WLsqg5UXK9q2/view?usp=share_link">(slides)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 14 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -653,7 +657,9 @@
     </tr>
     <tr>
       <th>Wed 4/19</th> <!-- Date -->
-      <td>24. HCI</td> <!-- Lecture -->
+      <td>24. Guest Lecture: Saving the World with Computing<br/>
+      <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/schasins.html">(Professor Kathy Yelick)<br/></a></td> <!-- Lecture -->
+      <td><a href="https://cs10.org/sp23/readings/">Week 13 Readings</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -698,7 +704,8 @@
     </tr>
     <tr>
       <th>Wed 4/26</th> <!-- Date -->
-      <td>26. Conclusion and Farewell</td> <!-- Lecture -->
+      <td>26. Conclusion and Farewell<br/>
+      <a href="https://drive.google.com/file/d/1UNzJjUZHNj8sqYvRxVt8lw4prHSjDsa3/view?usp=share_link">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
