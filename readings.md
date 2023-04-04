@@ -56,10 +56,10 @@ This page will be updated with links to readings throughout the semester.
 - Required:
   - [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
 
-<!-- **Week 11 Reading (for RQ 8)**{: .label .label-reading }
+**Week 11 Reading (for RQ 8)**{: .label .label-reading }
 
 - Required:
-  - [Why Python is a Great First Language](https://blog.trinket.io/why-python/) -->
+  - [Why Python is a Great First Language](https://blog.trinket.io/why-python/)
 
 <!-- **Week 12 Reading (for RQ 9)**{: .label .label-reading }
 
