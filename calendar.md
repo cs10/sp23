@@ -446,7 +446,7 @@
     <tr>
       <td rowspan=5>10</td>
       <th>Mon 3/20</th> <!-- Date -->
-      <td>16. Python II<nr/>
+      <td>17. Python II<nr/>
       <a href="https://drive.google.com/file/d/1fkRfYeRDq1Djyv1bRJ0AiBaTuvPeYs2z/view?usp=share_link">(slides)<br/></a>
       <a href="https://www.youtube.com/watch?v=KDORfFLIEAU&list=PLnocShPlK-FugD3qpxoBnu6RkDKyqsyvZ&index=19">(recording from Fa22)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 10 Readings</a></td> <!-- Readings -->
@@ -467,7 +467,7 @@
     </tr>
     <tr>
       <th>Wed 3/22</th> <!-- Date -->
-      <td>Guest Lecture: Limits of Computing<br/>
+      <td>18. Guest Lecture: Limits of Computing<br/>
       <a href="https://docs.google.com/presentation/d/1BNWRtdqwacISVAWg-n_FbbWeigrwNFb7wsfIm9MLqhA">(slides)<br/></a>
       <a href="https://www.linkedin.com/in/victor-huang-1a13476a/">(Victor Huang)<br/></a>
       </td> <!-- Lecture -->
@@ -493,6 +493,7 @@
       <td><a href="https://cs10.org/sp23/discussion/">10. Python Data Structures</a></td> <!-- Discussion -->
       <td>PROJ 4 (comments) Due<br/><br/>
       Final Project Proposals<br/>
+      <a href="https://docs.google.com/document/d/1qG_tIowdY1iUfCKmUmQhiCa74fpWpqHBK1LyZMy_4kU/edit?usp=sharing">(spec)</a><br/>
       (due 4/03)<br/><br/>
       RQ 7 Due</td> <!-- Assignment -->
     </tr>
@@ -542,7 +543,7 @@
     <tr>
       <td rowspan=5>12</td>
       <th>Mon 4/03</th> <!-- Date -->
-      <td>17. Python III (OOP)<br/>
+      <td>19. Python III (OOP)<br/>
       <a href="https://drive.google.com/file/d/1Pd3_1agy_gKik6HYBwQUdeJapQaPPXjq/view?usp=share_link">(slides)</a>
       <a href="https://drive.google.com/drive/folders/1OwXesj0PvDFDj6LwSXx7JzVitjJYGnOF?usp=share_link">(code)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 12 Readings</a></td> <!-- Readings -->
@@ -563,7 +564,9 @@
     </tr>
     <tr>
       <th>Wed 4/05</th> <!-- Date -->
-      <td>18. Python IV (HOFs)</td> <!-- Lecture -->
+      <td>20. Python IV (HOFs)<br/>
+      <a href="https://drive.google.com/file/d/1U0sd6xXl-oaoz8KXkFghd76EHNNhRml4/view?usp=share_link">(slides)</a>
+      <a href="https://drive.google.com/drive/folders/1TwVGo4Sqp9ax8Zau8qErqim0cij1M0VS?usp=share_link">(code)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -589,7 +592,7 @@
     <tr>
       <td rowspan=5>13</td>
       <th>Mon 4/10</th> <!-- Date -->
-      <td>19. Social Implications III</td> <!-- Lecture -->
+      <td>21. Social Implications III</td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 13 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -605,7 +608,7 @@
     </tr>
     <tr>
       <th>Wed 4/12</th> <!-- Date -->
-      <td>20. Python V (Tree Recursion, Game Theory)</td> <!-- Lecture -->
+      <td>22. Python V (Tree Recursion, Game Theory)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -632,7 +635,7 @@
     <tr>
       <td rowspan=5>14</td>
       <th>Mon 4/17</th> <!-- Date -->
-      <td>21. Concurrency</td> <!-- Lecture -->
+      <td>23. Concurrency</td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 14 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -650,7 +653,7 @@
     </tr>
     <tr>
       <th>Wed 4/19</th> <!-- Date -->
-      <td>22. HCI</td> <!-- Lecture -->
+      <td>24. HCI</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -677,7 +680,7 @@
     <tr>
       <td rowspan=5>15</td>
       <th>Mon 4/24</th> <!-- Date -->
-      <td>23. Alumni Panel</td> <!-- Lecture -->
+      <td>25. Alumni Panel</td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 15 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -695,7 +698,7 @@
     </tr>
     <tr>
       <th>Wed 4/26</th> <!-- Date -->
-      <td>24. Conclusion and Farewell</td> <!-- Lecture -->
+      <td>26. Conclusion and Farewell</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
