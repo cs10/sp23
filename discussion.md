@@ -27,4 +27,4 @@ This page will be updated with discussion worksheets and solutions throughout th
 
 **Discussion 10**{: .label .label-discussion } Python Data Structures | [worksheet](https://drive.google.com/file/d/11vO-A-X9D-5qlT4uLFS_mkT38x9M199A/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1bk-Pe1ycwJUUC85MnLr4MOjr2izJWnWU/view?usp=share_link)
 
-**Discussion 12**{: .label .label-discussion } Object-Oriented Programming | [worksheet](https://drive.google.com/drive/folders/1q9NAc8wM_QJBfk4La6QyDVgwE-Rs707Q)
+**Discussion 12**{: .label .label-discussion } Object-Oriented Programming | [worksheet](https://drive.google.com/file/d/1Eooe8rTu9vTCPS7TPDIMf4-RPYVOtXR9/view?usp=sharing)
