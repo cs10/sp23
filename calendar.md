@@ -593,7 +593,8 @@
       <td rowspan=5>13</td>
       <th>Mon 4/10</th> <!-- Date -->
       <td>21. Guest Lecture: The Future of Programming<br/>
-      <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/schasins.html">(Professor Sarah Chasins)<br/></a></td> <!-- Lecture -->
+      <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/schasins.html">(Professor Sarah Chasins)<br/></a>
+      <a href="https://drive.google.com/file/d/1bqDtCwFiggr1wmyPJj5QvAN4p1_z-U8A/view?usp=sharing">(Slides)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 13 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
