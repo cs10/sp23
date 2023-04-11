@@ -622,7 +622,7 @@
       <th>Thur 4/13</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>16. Intro to Data Science<br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment">16. Intro to Data Science</a><br/>
       (due 4/18)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->

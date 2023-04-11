@@ -150,14 +150,14 @@ labs:
      - Show us your `apply_language_game` function.
      - Show us the result of running the autograder.
 
-  # - lab_name: Data Science
-  #   lab_no: 16
-  #   topic_file: berkeley_bjc/python/data-lab.topic
-  #   questions:
-  #   - What are some important commands that you can use to keep only certain rows in a table?
-  #   - Describe the three main steps of working with data as given in this lab.
-  #   - What commands did you use to find the price of the most expensive listing in San Francisco?
-  #   - Show us your scatter plot. What are some things you notice from this plot?
+  - lab_name: Data Science
+    lab_no: 16
+    topic_file: berkeley_bjc/python/data-lab.topic
+    questions:
+     - What are some important commands that you can use to keep only certain rows in a table?
+     - Describe the three main steps of working with data as given in this lab.
+     - What commands did you use to find the price of the most expensive listing in San Francisco?
+     - Show us your scatter plot. What are some things you notice from this plot?
 
   # - lab_name: Concurrency
   #   lab_no: 17
