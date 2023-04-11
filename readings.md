@@ -61,10 +61,10 @@ This page will be updated with links to readings throughout the semester.
 - Required:
   - [Why Python is a Great First Language](https://blog.trinket.io/why-python/)
 
-<!-- **Week 12 Reading (for RQ 9)**{: .label .label-reading }
+**Week 12 Reading (for RQ 9)**{: .label .label-reading }
 
 - Required:
-  - [StarCraft II-playing AI AlphaStar takes out pros undefeated](https://techcrunch.com/2019/01/24/starcraft-ii-playing-ai-alphastar-takes-out-pros-undefeated/) -->
+  - [StarCraft II-playing AI AlphaStar takes out pros undefeated](https://techcrunch.com/2019/01/24/starcraft-ii-playing-ai-alphastar-takes-out-pros-undefeated/)
 
 <!-- **Week 13 Reading (for RQ 10)**{: .label .label-reading }
 
