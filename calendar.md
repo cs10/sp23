@@ -680,7 +680,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://cs10.org/sp23/discussion/">14. Social Implications Studies Using Big Data</a></td> <!-- Discussion -->
+      <td><a href="https://cs10.org/sp23/discussion/">14. Social Implications</a></td> <!-- Discussion -->
       <td>RQ 10 Due</td> <!-- Assignment -->
     </tr>
     <!-- WEEK FIFTEEN ------------------------------------------------------------ -->
