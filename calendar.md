@@ -651,7 +651,7 @@
       <th>Tue 4/18</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>17. Concurrency<br/>
+      <td><a href= "https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fareas%2Fconcurrency.topic&course&novideo&noreading&noassignment"> 17. Concurrency</a><br/>
       (due 4/20)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
