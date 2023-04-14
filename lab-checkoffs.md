@@ -159,14 +159,14 @@ labs:
      - What commands did you use to find the price of the most expensive listing in San Francisco?
      - Show us your scatter plot. What are some things you notice from this plot?
 
-  - lab_name: Concurrency
-    lab_no: 17
-    topic_file: berkeley_bjc/areas/concurrency.topic
-    questions:
-     - What is a race condition?
-     - Is it always true that splitting a task among 10 “workers” (or cores) is better than splitting it among 5 “workers” (or cores)?
-     - What is the difference between determinism and nondeterminism in the context of concurrency?
-     - How does Snap! handle concurrency?
+  # - lab_name: Concurrency
+  #   lab_no: 17
+  #   topic_file: berkeley_bjc/areas/concurrency.topic
+  #   questions:
+  #    - What is a race condition?
+  #    - Is it always true that splitting a task among 10 “workers” (or cores) is better than splitting it among 5 “workers” (or cores)?
+  #    - What is the difference between determinism and nondeterminism in the context of concurrency?
+  #    - How does Snap! handle concurrency?
 
   # - lab_name: Snap! & Python Libraries
   #   lab_no: 18

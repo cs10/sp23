@@ -25,8 +25,8 @@ This page will be updated with discussion worksheets and solutions throughout th
 
 **Discussion 8**{: .label .label-discussion } Python Basics | [worksheet](https://drive.google.com/file/d/1mupBJDXNJcDbW3RDrJjgc6GAZujboVWl/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1px1wcnh1mX4xyuTsO0ijR8Jem-x5ml-w/view?usp=share_link) | [recording](https://drive.google.com/file/d/1ka00W-sCg0eZAB8bve0C-CgL2-2sSStH/view?usp=sharing)
 
-**Discussion 10**{: .label .label-discussion } Python Data Structures | [worksheet](https://drive.google.com/file/d/11vO-A-X9D-5qlT4uLFS_mkT38x9M199A/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1bk-Pe1ycwJUUC85MnLr4MOjr2izJWnWU/view?usp=share_link)
+**Discussion 10**{: .label .label-discussion } Python Data Structures | [worksheet](https://drive.google.com/file/d/11vO-A-X9D-5qlT4uLFS_mkT38x9M199A/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1bk-Pe1ycwJUUC85MnLr4MOjr2izJWnWU/view?usp=share_link) | [recording](https://drive.google.com/file/d/1FdQWd3Ezkjldv7tLDoygK3ZgfVPg__lU/view?usp=sharing)
 
-**Discussion 12**{: .label .label-discussion } Object-Oriented Programming | [worksheet](https://drive.google.com/file/d/1Eooe8rTu9vTCPS7TPDIMf4-RPYVOtXR9/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1ELGUTd7kCXHaOhofrCbDsoH611GNc3HN/view?usp=share_link)
+**Discussion 12**{: .label .label-discussion } Object-Oriented Programming | [worksheet](https://drive.google.com/file/d/1Eooe8rTu9vTCPS7TPDIMf4-RPYVOtXR9/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1ELGUTd7kCXHaOhofrCbDsoH611GNc3HN/view?usp=share_link) | [recording](https://drive.google.com/file/d/1JlWopho5nF4njLor_a5cGCrGvUyRQnqj/view?usp=sharing)
 
-**Discussion 13**{: .label .label-discussion } Python HOFs, Lambdas, Tree Recursion | [worksheet](https://drive.google.com/file/d/1leEmub5xWEiEojvNy-FJVyEgQY5Auxim/view?usp=share_link)
+**Discussion 13**{: .label .label-discussion } Python HOFs, Lambdas, Tree Recursion | [worksheet](https://drive.google.com/file/d/1leEmub5xWEiEojvNy-FJVyEgQY5Auxim/view?usp=share_link) | [recording](https://drive.google.com/file/d/1caTDl_71y4-z3Pxf-ksU8lz2F8FC2GRI/view?usp=sharing)
