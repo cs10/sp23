@@ -660,7 +660,6 @@
       <th>Wed 4/19</th> <!-- Date -->
       <td>24. Guest Lecture: Saving the World with Computing<br/>
       <a href="https://people.eecs.berkeley.edu/~yelick/">(Professor Kathy Yelick)<br/></a></td> <!-- Lecture -->
-      <td><a href="https://cs10.org/sp23/readings/">Week 13 Readings</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -671,7 +670,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>18. Snap! & Python Libraries <br/>
-      (due 4/27)</td> <!-- Lab -->
+      <b>(OPTIONAL)</b></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
