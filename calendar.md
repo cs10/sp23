@@ -669,7 +669,7 @@
       <th>Thur 4/20</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>18. Snap! & Python Libraries <br/>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment"> 18. Snap! & Python Libraries</a><br/>
       <b>(OPTIONAL)</b></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
