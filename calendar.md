@@ -659,7 +659,8 @@
     <tr>
       <th>Wed 4/19</th> <!-- Date -->
       <td>24. Guest Lecture: Saving the World with Computing<br/>
-      <a href="https://people.eecs.berkeley.edu/~yelick/">(Professor Kathy Yelick)<br/></a></td> <!-- Lecture -->
+      <a href="https://people.eecs.berkeley.edu/~yelick/">(Professor Kathy Yelick)<br/></a>
+      <a href="https://drive.google.com/file/d/1GRoIGdinDl47n1Jx9udT5b-HrKXch0E3/view?usp=sharing">(Slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
