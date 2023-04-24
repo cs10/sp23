@@ -687,7 +687,8 @@
     <tr>
       <td rowspan=5>15</td>
       <th>Mon 4/24</th> <!-- Date -->
-      <td>25. Alumni Panel</td> <!-- Lecture -->
+      <td>25. Alumni Panel
+      <a href="https://docs.google.com/presentation/d/1S_3SR6ZjFXX-OWCcuYMoWdPyt2yOT-6bcMyXlCTiBFE/edit?usp=share_link">(Slides)</a></td> <!-- Lecture -->
       <td><a href="https://cs10.org/sp23/readings/">Week 15 Readings</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
