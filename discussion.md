@@ -29,4 +29,6 @@ This page will be updated with discussion worksheets and solutions throughout th
 
 **Discussion 12**{: .label .label-discussion } Object-Oriented Programming | [worksheet](https://drive.google.com/file/d/1Eooe8rTu9vTCPS7TPDIMf4-RPYVOtXR9/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1ELGUTd7kCXHaOhofrCbDsoH611GNc3HN/view?usp=share_link) | [recording](https://drive.google.com/file/d/1JlWopho5nF4njLor_a5cGCrGvUyRQnqj/view?usp=sharing)
 
-**Discussion 13**{: .label .label-discussion } Python HOFs, Lambdas, Tree Recursion | [worksheet](https://drive.google.com/file/d/1leEmub5xWEiEojvNy-FJVyEgQY5Auxim/view?usp=share_link) | [recording](https://drive.google.com/file/d/1caTDl_71y4-z3Pxf-ksU8lz2F8FC2GRI/view?usp=sharing)
+**Discussion 13**{: .label .label-discussion } Python HOFs, Lambdas, Tree Recursion | [worksheet](https://drive.google.com/file/d/1leEmub5xWEiEojvNy-FJVyEgQY5Auxim/view?usp=share_link) | [solutions](https://drive.google.com/file/d/1MtQ-TFutpAv_dV5-zr8B7AbXm3n4W4Cd/view?usp=share_link) | [recording](https://drive.google.com/file/d/1caTDl_71y4-z3Pxf-ksU8lz2F8FC2GRI/view?usp=sharing)
+
+**Discussion 15**{: .label .label-discussion } Final Exam Review | [worksheet](https://drive.google.com/file/d/1epel7AFEFr33Nb9dSZ561EjA5Cpfh_ba/view?usp=share_link) | [solutions] | [recording]
